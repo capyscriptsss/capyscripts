@@ -1,0 +1,15 @@
+# Bu dosya PythonAnywhere'in "WSGI configuration file" kutusuna YAPIŞTIRILIR.
+# (Web tab > "Code" > WSGI configuration file)
+import os
+import sys
+
+sys.path.insert(0, os.path.expanduser("~/capyscripts"))
+
+# --- Istege bagli guvenlik ayarlari (kendi degerlerini yaz, yoksa sil) ---
+# os.environ.setdefault("CAPY_WEBHOOK_SECRET", "uzun-rastgele-gizli-anahtar")
+# os.environ.setdefault("CAPY_ALLOWED_ORIGINS", "https://capyscriptss.pythonanywhere.com")
+# os.environ.setdefault("CAPY_SPEND_ALERT", "25000")
+# Dikkat: CAPY_ALLOW_DEMO_KEY_REMOTE ve CAPY_ADMIN_PASSWORD varsayilan olarak KAPALI.
+# PA her istegi HTTPS'e yonlendirir; sunucu X-Forwarded-Proto=http gorurse 301 atar.
+
+from capy_wsgi import application

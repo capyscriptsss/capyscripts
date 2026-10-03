@@ -1,0 +1,6317 @@
+{
+  "SH-DEMO-AAAA-BBBB": {
+    "script": "infinity-hub",
+    "created": "2026-09-12T13:26:27.572904",
+    "expires": "2027-09-12T13:26:27.572934"
+  },
+  "SH-X9B6-5P79-HFZ6": {
+    "script": "infinity-hub",
+    "created": "2026-09-12T13:58:16.464611",
+    "expires": "2027-09-12T13:58:16.464626"
+  },
+  "SH-RNZE-T76G-3XL5": {
+    "script": "blaze-admin",
+    "created": "2026-09-12T13:58:16.464646",
+    "expires": "2027-09-12T13:58:16.464647"
+  },
+  "SH-TDLV-YGXR-HJ9V": {
+    "script": "matrix-pro",
+    "created": "2026-09-12T13:58:46.797711",
+    "expires": "2027-09-12T13:58:46.797740"
+  },
+  "SH-6SC3-9VZQ-X946": {
+    "script": "shadow-ninja",
+    "created": "2026-09-12T14:06:45.186276",
+    "expires": "2027-09-12T14:06:45.186301"
+  },
+  "SH-L7F7-ENQ7-5T2E": {
+    "script": "neon-speed",
+    "created": "2026-09-12T14:14:29.437534",
+    "expires": "2027-09-12T14:14:29.437550"
+  },
+  "SH-VVM3-XCGY-WAY2": {
+    "script": "crystal-hub",
+    "created": "2026-09-12T14:14:47.564010",
+    "expires": "2027-09-12T14:14:47.564029"
+  },
+  "SH-NRVU-J5WD-EY3A": {
+    "script": "infinity-hub",
+    "created": "2026-09-12T14:18:43.486580",
+    "expires": "2027-09-12T14:18:43.486588"
+  },
+  "SH-BN97-N4D3-SFQ9": {
+    "script": "blaze-admin",
+    "created": "2026-09-12T14:18:43.486609",
+    "expires": "2027-09-12T14:18:43.486610"
+  },
+  "SH-WD9D-5Z3E-25EW": {
+    "script": "arachnid-aim",
+    "created": "2026-09-12T14:18:43.486624",
+    "expires": "2027-09-12T14:18:43.486625"
+  },
+  "SH-KWBM-LV24-HQZB": {
+    "script": "shadow-ninja",
+    "created": "2026-09-12T14:18:43.486636",
+    "expires": "2027-09-12T14:18:43.486637"
+  },
+  "SH-7QPG-KHWT-VPBQ": {
+    "script": "mystic-race",
+    "created": "2026-09-12T14:18:43.486648",
+    "expires": "2027-09-12T14:18:43.486649"
+  },
+  "SH-4AGX-WK3A-SGMQ": {
+    "script": "void-extractor",
+    "created": "2026-09-12T14:18:43.486660",
+    "expires": "2027-09-12T14:18:43.486661"
+  },
+  "SH-EDNJ-2C8H-WJPM": {
+    "script": "matrix-pro",
+    "created": "2026-09-12T14:18:43.486672",
+    "expires": "2027-09-12T14:18:43.486673"
+  },
+  "SH-XPEU-M48J-E6D8": {
+    "script": "neon-speed",
+    "created": "2026-09-12T14:18:43.486687",
+    "expires": "2027-09-12T14:18:43.486687"
+  },
+  "SH-48FH-GPCH-A3EZ": {
+    "script": "crystal-hub",
+    "created": "2026-09-12T14:18:43.486699",
+    "expires": "2027-09-12T14:18:43.486699"
+  },
+  "SH-6HSX-L6YH-Z3M9": {
+    "script": "quantum-trade",
+    "created": "2026-09-12T14:18:43.486712",
+    "expires": "2027-09-12T14:18:43.486713"
+  },
+  "SH-PV7C-QLWX-8RUS": {
+    "script": "blaze-admin",
+    "created": "2026-09-12T14:22:22.155545",
+    "expires": "2027-09-12T14:22:22.155552"
+  },
+  "SH-FYK3-BK2B-NXZY": {
+    "script": "infinity-hub",
+    "created": "2026-09-12T14:31:44.251221",
+    "expires": "2027-09-12T14:31:44.251231"
+  },
+  "SH-2KWV-UGJP-MH86": {
+    "script": "neon-speed",
+    "created": "2026-09-12T14:31:44.251284",
+    "expires": "2027-09-12T14:31:44.251290"
+  },
+  "SH-JNJL-VZ4T-BDND": {
+    "script": "blaze-admin",
+    "created": "2026-09-12T15:29:11.805310",
+    "expires": "2027-09-12T15:29:11.805316"
+  },
+  "SH-QBMY-C2TW-9C4S": {
+    "script": "matrix-pro",
+    "created": "2026-09-12T15:29:11.805334",
+    "expires": "2027-09-12T15:29:11.805335"
+  },
+  "SH-MZ9Y-GTH8-UKLC": {
+    "script": "infinity-hub",
+    "created": "2026-09-12T15:42:15.493938",
+    "expires": "2027-09-12T15:42:15.493946"
+  },
+  "SH-YKG9-FM68-5P5Z": {
+    "script": "void-extractor",
+    "created": "2026-09-12T15:44:33.142069",
+    "expires": "2027-09-12T15:44:33.142077"
+  },
+  "SH-MWQ6-YQGC-SX6C": {
+    "script": "quantum-trade",
+    "created": "2026-09-12T16:55:39.262617",
+    "expires": "2027-09-12T16:55:39.262624"
+  },
+  "SH-R6XE-NX75-P3WM": {
+    "script": "void-extractor",
+    "created": "2026-09-12T20:10:21.809176",
+    "expires": "2027-09-12T20:10:21.809184"
+  },
+  "SH-A9HD-NYKZ-3YMS": {
+    "script": "mystic-race",
+    "created": "2026-09-12T20:10:21.809223",
+    "expires": "2027-09-12T20:10:21.809233"
+  },
+  "SH-6NA5-PDRN-VSMS": {
+    "script": "shadow-ninja",
+    "created": "2026-09-12T20:10:21.809255",
+    "expires": "2027-09-12T20:10:21.809256"
+  },
+  "SH-UN4B-DLRC-FGXK": {
+    "script": "arachnid-aim",
+    "created": "2026-09-12T20:10:21.809280",
+    "expires": "2027-09-12T20:10:21.809281"
+  },
+  "SH-P2NA-4YKT-G5JS": {
+    "script": "blaze-admin",
+    "created": "2026-09-12T20:10:21.809308",
+    "expires": "2027-09-12T20:10:21.809309"
+  },
+  "SH-VUDA-XE76-R6HB": {
+    "script": "infinity-hub",
+    "created": "2026-09-12T20:10:21.809333",
+    "expires": "2027-09-12T20:10:21.809334"
+  },
+  "SH-QLMN-PUAD-9EN7": {
+    "script": "neon-speed",
+    "created": "2026-09-12T20:10:21.809355",
+    "expires": "2027-09-12T20:10:21.809356"
+  },
+  "SH-DP7D-BVZN-XVT2": {
+    "script": "matrix-pro",
+    "created": "2026-09-12T20:10:21.809375",
+    "expires": "2027-09-12T20:10:21.809377"
+  },
+  "SH-VQL3-7KDX-PNGG": {
+    "script": "quantum-trade",
+    "created": "2026-09-12T20:10:21.809402",
+    "expires": "2027-09-12T20:10:21.809403"
+  },
+  "SH-VXKS-57G3-KFUE": {
+    "script": "crystal-hub",
+    "created": "2026-09-12T20:10:21.809429",
+    "expires": "2027-09-12T20:10:21.809430"
+  },
+  "SH-M34Z-7KQP-ZNY7": {
+    "script": "infinity-hub",
+    "created": "2026-09-12T20:19:25.135138",
+    "expires": "2027-09-12T20:19:25.135147"
+  },
+  "SH-Y5FH-NFD8-BMVE": {
+    "script": "crystal-hub",
+    "created": "2026-09-12T20:22:07.358765",
+    "expires": "2027-09-12T20:22:07.358773"
+  },
+  "SH-4K5M-4MTA-ZAUK": {
+    "script": "blaze-admin",
+    "created": "2026-09-13T17:41:01.256877",
+    "expires": "2027-09-13T17:41:01.256902"
+  },
+  "SH-QF36-2NTN-8APZ": {
+    "script": "infinity-hub",
+    "created": "2026-09-13T19:20:36.574855",
+    "expires": "2027-09-13T19:20:36.574861"
+  },
+  "SH-V86A-T8L2-5EWD": {
+    "script": "arachnid-aim",
+    "created": "2026-09-13T19:20:36.574883",
+    "expires": "2027-09-13T19:20:36.574884"
+  },
+  "SH-5LBQ-FQKV-JYVN": {
+    "script": "shadow-ninja",
+    "created": "2026-09-13T19:20:36.574901",
+    "expires": "2027-09-13T19:20:36.574902"
+  },
+  "SH-LYVX-CC2Y-8KMB": {
+    "script": "mystic-race",
+    "created": "2026-09-13T19:20:36.574920",
+    "expires": "2027-09-13T19:20:36.574921"
+  },
+  "SH-9P4P-W767-T5XP": {
+    "script": "void-extractor",
+    "created": "2026-09-13T19:20:36.574935",
+    "expires": "2027-09-13T19:20:36.574936"
+  },
+  "SH-C2MX-2JYC-RUTU": {
+    "script": "matrix-pro",
+    "created": "2026-09-13T19:20:36.574948",
+    "expires": "2027-09-13T19:20:36.574949"
+  },
+  "SH-FRRH-TDBB-WM3C": {
+    "script": "neon-speed",
+    "created": "2026-09-13T19:20:36.574965",
+    "expires": "2027-09-13T19:20:36.574966"
+  },
+  "SH-FCVA-GSU2-AFG4": {
+    "script": "crystal-hub",
+    "created": "2026-09-13T19:20:36.574980",
+    "expires": "2027-09-13T19:20:36.574981"
+  },
+  "SH-9P69-Y7EJ-BE6Y": {
+    "script": "quantum-trade",
+    "created": "2026-09-13T19:20:36.574993",
+    "expires": "2027-09-13T19:20:36.574993"
+  },
+  "SH-DX7F-53RY-G89J": {
+    "script": "infinity-hub",
+    "created": "2026-09-13T19:43:36.110816",
+    "expires": "2027-09-13T19:43:36.110833"
+  },
+  "SH-6GGH-8ZX3-BAY4": {
+    "script": "omega-hub-4",
+    "created": "2026-09-15T20:03:26.249183",
+    "expires": "2027-09-15T20:03:26.249192"
+  },
+  "SH-3Y77-YL3R-VMZD": {
+    "script": "infinity-hub",
+    "created": "2026-09-15T20:03:26.249224",
+    "expires": "2027-09-15T20:03:26.249226"
+  },
+  "SH-3BZ2-5C5M-YZFA": {
+    "script": "arachnid-aim",
+    "created": "2026-09-15T20:03:26.249248",
+    "expires": "2027-09-15T20:03:26.249250"
+  },
+  "SH-LRYV-65CK-WAMA": {
+    "script": "mystic-race",
+    "created": "2026-09-15T20:03:26.249275",
+    "expires": "2027-09-15T20:03:26.249276"
+  },
+  "SH-WJYQ-MYJW-F4DC": {
+    "script": "blaze-admin",
+    "created": "2026-09-15T20:03:26.249293",
+    "expires": "2027-09-15T20:03:26.249294"
+  },
+  "SH-HHPN-3PCC-G3HP": {
+    "script": "neon-speed",
+    "created": "2026-09-15T20:03:26.249309",
+    "expires": "2027-09-15T20:03:26.249310"
+  },
+  "SH-9JAX-39GK-MZHC": {
+    "script": "crystal-hub",
+    "created": "2026-09-15T20:03:26.249320",
+    "expires": "2027-09-15T20:03:26.249321"
+  },
+  "SH-EEFT-UK2H-BV96": {
+    "script": "void-extractor",
+    "created": "2026-09-15T20:03:26.249332",
+    "expires": "2027-09-15T20:03:26.249333"
+  },
+  "SH-WUF4-5VAL-3SFX": {
+    "script": "shadow-ninja",
+    "created": "2026-09-15T20:03:26.249345",
+    "expires": "2027-09-15T20:03:26.249346"
+  },
+  "SH-ZDTP-4PWS-CB4Z": {
+    "script": "quantum-trade",
+    "created": "2026-09-15T20:03:26.249367",
+    "expires": "2027-09-15T20:03:26.249368"
+  },
+  "SH-E3YZ-BFQJ-HRHT": {
+    "script": "matrix-pro",
+    "created": "2026-09-15T20:03:26.249383",
+    "expires": "2027-09-15T20:03:26.249384"
+  },
+  "SH-WNLA-CQBE-5FGF": {
+    "script": "blade-fruit-hub",
+    "created": "2026-09-15T20:03:26.249404",
+    "expires": "2027-09-15T20:03:26.249405"
+  },
+  "SH-CXLB-XA9Z-ZZYH": {
+    "script": "dragon-v2-hub",
+    "created": "2026-09-15T20:03:26.249416",
+    "expires": "2027-09-15T20:03:26.249416"
+  },
+  "SH-LN9M-9W9A-MRJR": {
+    "script": "sea-beast-hunter-x",
+    "created": "2026-09-15T20:03:26.249426",
+    "expires": "2027-09-15T20:03:26.249427"
+  },
+  "SH-V6PJ-MU9H-8J2F": {
+    "script": "fruit-finder-pro",
+    "created": "2026-09-15T20:03:26.249440",
+    "expires": "2027-09-15T20:03:26.249441"
+  },
+  "SH-QW6Z-N7YQ-72VH": {
+    "script": "awakened-trainer",
+    "created": "2026-09-15T20:03:26.249452",
+    "expires": "2027-09-15T20:03:26.249453"
+  },
+  "SH-8KRM-G5HP-RX2B": {
+    "script": "racial-v4-master",
+    "created": "2026-09-15T20:03:26.249465",
+    "expires": "2027-09-15T20:03:26.249466"
+  },
+  "SH-W2SZ-SF6H-SSBC": {
+    "script": "boss-stomp",
+    "created": "2026-09-15T20:03:26.249478",
+    "expires": "2027-09-15T20:03:26.249478"
+  },
+  "SH-L2ZT-XBSL-X2XE": {
+    "script": "auto-quest-blox",
+    "created": "2026-09-15T20:03:26.249489",
+    "expires": "2027-09-15T20:03:26.249490"
+  },
+  "SH-YLMH-TR69-7P5T": {
+    "script": "tiki-villain-hunter",
+    "created": "2026-09-15T20:03:26.249502",
+    "expires": "2027-09-15T20:03:26.249503"
+  },
+  "SH-2CPN-8BPL-WB42": {
+    "script": "sailor-gp-farm",
+    "created": "2026-09-15T20:03:26.249517",
+    "expires": "2027-09-15T20:03:26.249518"
+  },
+  "SH-TDDZ-R549-N7LB": {
+    "script": "quick-draw-aim",
+    "created": "2026-09-15T20:03:26.249531",
+    "expires": "2027-09-15T20:03:26.249531"
+  },
+  "SH-QKCU-3M9U-QAKR": {
+    "script": "trigger-finger",
+    "created": "2026-09-15T20:03:26.249542",
+    "expires": "2027-09-15T20:03:26.249543"
+  },
+  "SH-B4FD-8CS7-25BM": {
+    "script": "recoil-killer",
+    "created": "2026-09-15T20:03:26.249556",
+    "expires": "2027-09-15T20:03:26.249557"
+  },
+  "SH-FKLQ-TWJB-66LH": {
+    "script": "silent-strike-x",
+    "created": "2026-09-15T20:03:26.249569",
+    "expires": "2027-09-15T20:03:26.249570"
+  },
+  "SH-N8H7-RVKG-A98Q": {
+    "script": "headshot-master",
+    "created": "2026-09-15T20:03:26.249582",
+    "expires": "2027-09-15T20:03:26.249583"
+  },
+  "SH-7PNP-MVMJ-BA62": {
+    "script": "wallbang-assist",
+    "created": "2026-09-15T20:03:26.249593",
+    "expires": "2027-09-15T20:03:26.249594"
+  },
+  "SH-H82R-CZTG-GYF3": {
+    "script": "portal-farmer-x",
+    "created": "2026-09-15T20:03:26.249606",
+    "expires": "2027-09-15T20:03:26.249606"
+  },
+  "SH-JNFJ-ZAHF-CSZ2": {
+    "script": "summon-reroller",
+    "created": "2026-09-15T20:03:26.249619",
+    "expires": "2027-09-15T20:03:26.249619"
+  },
+  "SH-3PB6-HSLJ-BPK5": {
+    "script": "quest-automator-anime",
+    "created": "2026-09-15T20:03:26.249630",
+    "expires": "2027-09-15T20:03:26.249631"
+  },
+  "SH-3W7K-KCF4-MSW3": {
+    "script": "raid-slayer-anime",
+    "created": "2026-09-15T20:03:26.249646",
+    "expires": "2027-09-15T20:03:26.249647"
+  },
+  "SH-KL2E-KQ75-LELK": {
+    "script": "evolution-buddy",
+    "created": "2026-09-15T20:03:26.249659",
+    "expires": "2027-09-15T20:03:26.249660"
+  },
+  "SH-89ZG-DQMN-8UGF": {
+    "script": "tailed-beast-hunter",
+    "created": "2026-09-15T20:03:26.249670",
+    "expires": "2027-09-15T20:03:26.249671"
+  },
+  "SH-3Z2R-SJ6S-4XPH": {
+    "script": "scroll-farm",
+    "created": "2026-09-15T20:03:26.249684",
+    "expires": "2027-09-15T20:03:26.249685"
+  },
+  "SH-8GML-SK3W-JXAD": {
+    "script": "clan-war-bot",
+    "created": "2026-09-15T20:03:26.249702",
+    "expires": "2027-09-15T20:03:26.249703"
+  },
+  "SH-KCSP-MT7J-37UA": {
+    "script": "zanpakuto-maxer",
+    "created": "2026-09-15T20:03:26.249719",
+    "expires": "2027-09-15T20:03:26.249720"
+  },
+  "SH-V7JT-2BED-SLNW": {
+    "script": "mode-switcher-shindo",
+    "created": "2026-09-15T20:03:26.249735",
+    "expires": "2027-09-15T20:03:26.249736"
+  },
+  "SH-H728-89JG-SV3X": {
+    "script": "auto-clicker-pro",
+    "created": "2026-09-15T20:03:26.249840",
+    "expires": "2027-09-15T20:03:26.249846"
+  },
+  "SH-2J33-SDDX-NVYF": {
+    "script": "speed-runner-x",
+    "created": "2026-09-15T20:03:26.249885",
+    "expires": "2027-09-15T20:03:26.249886"
+  },
+  "SH-GJYC-E34Y-S78R": {
+    "script": "jump-booster",
+    "created": "2026-09-15T20:03:26.249923",
+    "expires": "2027-09-15T20:03:26.249925"
+  },
+  "SH-YXBH-4RMF-TDAR": {
+    "script": "loot-grabber",
+    "created": "2026-09-15T20:03:26.249943",
+    "expires": "2027-09-15T20:03:26.249945"
+  },
+  "SH-QRDA-P93S-ZV6R": {
+    "script": "anti-afk-x",
+    "created": "2026-09-15T20:03:26.249965",
+    "expires": "2027-09-15T20:03:26.249966"
+  },
+  "SH-U6W4-NNLT-35G4": {
+    "script": "macro-recorder",
+    "created": "2026-09-15T20:03:26.249990",
+    "expires": "2027-09-15T20:03:26.249992"
+  },
+  "SH-K2TB-VQ6S-TJFD": {
+    "script": "teleport-helper",
+    "created": "2026-09-15T20:03:26.250009",
+    "expires": "2027-09-15T20:03:26.250010"
+  },
+  "SH-QCFP-P2CP-2RXN": {
+    "script": "npc-talker",
+    "created": "2026-09-15T20:03:26.250039",
+    "expires": "2027-09-15T20:03:26.250040"
+  },
+  "SH-XZPB-3VJ8-ZR2M": {
+    "script": "target-lock-x",
+    "created": "2026-09-15T20:03:26.250058",
+    "expires": "2027-09-15T20:03:26.250059"
+  },
+  "SH-ZNTV-MZYU-33PZ": {
+    "script": "spawn-tracer",
+    "created": "2026-09-15T20:03:26.250083",
+    "expires": "2027-09-15T20:03:26.250084"
+  },
+  "SH-DGB5-MJBM-2PHY": {
+    "script": "free-cam-pro",
+    "created": "2026-09-15T20:03:26.250113",
+    "expires": "2027-09-15T20:03:26.250114"
+  },
+  "SH-TNGJ-GDFC-PEHH": {
+    "script": "xp-glyph",
+    "created": "2026-09-15T20:03:26.250136",
+    "expires": "2027-09-15T20:03:26.250137"
+  },
+  "SH-BQGH-XPSM-K7V5": {
+    "script": "server-suite-admin",
+    "created": "2026-09-15T20:03:26.250160",
+    "expires": "2027-09-15T20:03:26.250161"
+  },
+  "SH-CVL7-R4J9-REQ9": {
+    "script": "vip-admin",
+    "created": "2026-09-15T20:03:26.250180",
+    "expires": "2027-09-15T20:03:26.250182"
+  },
+  "SH-8MXL-X7ES-S9LE": {
+    "script": "mod-panel-pro",
+    "created": "2026-09-15T20:03:26.250203",
+    "expires": "2027-09-15T20:03:26.250205"
+  },
+  "SH-TS5T-YSK6-DJKJ": {
+    "script": "owner-kit",
+    "created": "2026-09-15T20:03:26.250232",
+    "expires": "2027-09-15T20:03:26.250233"
+  },
+  "SH-4ZN4-FQ3Z-9Q3T": {
+    "script": "role-swapper-x",
+    "created": "2026-09-15T20:03:26.250257",
+    "expires": "2027-09-15T20:03:26.250259"
+  },
+  "SH-WHBQ-RNRR-86AR": {
+    "script": "world-tool",
+    "created": "2026-09-15T20:03:26.250282",
+    "expires": "2027-09-15T20:03:26.250283"
+  },
+  "SH-NGTA-GCEV-58GQ": {
+    "script": "banshee-tools",
+    "created": "2026-09-15T20:03:26.250304",
+    "expires": "2027-09-15T20:03:26.250305"
+  },
+  "SH-RH78-L88E-RQXJ": {
+    "script": "staff-hub",
+    "created": "2026-09-15T20:03:26.250337",
+    "expires": "2027-09-15T20:03:26.250339"
+  },
+  "SH-39WX-ZKYF-CKJA": {
+    "script": "hood-aim",
+    "created": "2026-09-15T20:03:26.250362",
+    "expires": "2027-09-15T20:03:26.250363"
+  },
+  "SH-YAL4-HWJK-G8ET": {
+    "script": "car-collector",
+    "created": "2026-09-15T20:03:26.250385",
+    "expires": "2027-09-15T20:03:26.250386"
+  },
+  "SH-K8F7-QSRN-4B8X": {
+    "script": "money-grinder",
+    "created": "2026-09-15T20:03:26.250409",
+    "expires": "2027-09-15T20:03:26.250410"
+  },
+  "SH-CV7F-3TVP-N6VJ": {
+    "script": "raid-helper-hood",
+    "created": "2026-09-15T20:03:26.250435",
+    "expires": "2027-09-15T20:03:26.250436"
+  },
+  "SH-HLN9-WGGM-9KZ3": {
+    "script": "arrest-escape",
+    "created": "2026-09-15T20:03:26.250455",
+    "expires": "2027-09-15T20:03:26.250456"
+  },
+  "SH-SR38-B7SZ-PN78": {
+    "script": "egg-hatcher-x",
+    "created": "2026-09-15T20:03:26.250480",
+    "expires": "2027-09-15T20:03:26.250482"
+  },
+  "SH-ADHH-FAUC-V7B5": {
+    "script": "coin-magnet-x",
+    "created": "2026-09-15T20:03:26.250500",
+    "expires": "2027-09-15T20:03:26.250501"
+  },
+  "SH-8B5C-RE4Z-DZY4": {
+    "script": "diamond-digger",
+    "created": "2026-09-15T20:03:26.250520",
+    "expires": "2027-09-15T20:03:26.250522"
+  },
+  "SH-Q983-Y5KL-RK8F": {
+    "script": "exclusive-hunter",
+    "created": "2026-09-15T20:03:26.250547",
+    "expires": "2027-09-15T20:03:26.250549"
+  },
+  "SH-KPM4-BJRS-V98Y": {
+    "script": "rebirth-loop-x",
+    "created": "2026-09-15T20:03:26.250567",
+    "expires": "2027-09-15T20:03:26.250568"
+  },
+  "SH-CPNX-3AE9-6EXD": {
+    "script": "pet-trainer-x",
+    "created": "2026-09-15T20:03:26.250586",
+    "expires": "2027-09-15T20:03:26.250587"
+  },
+  "SH-U9WT-NGZR-22WP": {
+    "script": "knife-tracker",
+    "created": "2026-09-15T20:03:26.250608",
+    "expires": "2027-09-15T20:03:26.250609"
+  },
+  "SH-2YLS-HNN4-GALN": {
+    "script": "coin-farmer-mmx",
+    "created": "2026-09-15T20:03:26.250632",
+    "expires": "2027-09-15T20:03:26.250633"
+  },
+  "SH-CQGL-KTF7-6H22": {
+    "script": "godmode-jail",
+    "created": "2026-09-15T20:03:26.250653",
+    "expires": "2027-09-15T20:03:26.250654"
+  },
+  "SH-XTUH-SFFL-YF7W": {
+    "script": "sea-sailor",
+    "created": "2026-09-15T20:03:26.250675",
+    "expires": "2027-09-15T20:03:26.250676"
+  },
+  "SH-RGCM-7KB7-KC8V": {
+    "script": "fruit-finder-gpo",
+    "created": "2026-09-15T20:03:26.250692",
+    "expires": "2027-09-15T20:03:26.250693"
+  },
+  "SH-TQUL-62FE-L8NE": {
+    "script": "boss-farm-cruise",
+    "created": "2026-09-15T20:03:26.250706",
+    "expires": "2027-09-15T20:03:26.250707"
+  },
+  "SH-JXUD-LG3E-8VQL": {
+    "script": "island-traveler",
+    "created": "2026-09-15T20:03:26.250720",
+    "expires": "2027-09-15T20:03:26.250722"
+  },
+  "SH-JWXA-KCYZ-39H3": {
+    "script": "pvp-combo-gpo",
+    "created": "2026-09-15T20:03:26.250743",
+    "expires": "2027-09-15T20:03:26.250744"
+  },
+  "SH-35FZ-G85K-BEH3": {
+    "script": "fruit-shop-bot",
+    "created": "2026-09-15T20:03:26.250764",
+    "expires": "2027-09-15T20:03:26.250765"
+  },
+  "SH-K2S4-HM9F-2S7L": {
+    "script": "island-hop",
+    "created": "2026-09-15T20:03:26.250784",
+    "expires": "2027-09-15T20:03:26.250784"
+  },
+  "SH-UZ7J-98XV-BBBM": {
+    "script": "bounty-booster",
+    "created": "2026-09-15T20:03:26.250798",
+    "expires": "2027-09-15T20:03:26.250799"
+  },
+  "SH-5L5D-GYYZ-BZEY": {
+    "script": "sword-maxer",
+    "created": "2026-09-15T20:03:26.250817",
+    "expires": "2027-09-15T20:03:26.250818"
+  },
+  "SH-NKRT-HRSW-XTU7": {
+    "script": "stand-arrow-farm",
+    "created": "2026-09-15T20:03:26.250836",
+    "expires": "2027-09-15T20:03:26.250837"
+  },
+  "SH-RGVA-9MQW-4UZP": {
+    "script": "quest-grinder-aut",
+    "created": "2026-09-15T20:03:26.250853",
+    "expires": "2027-09-15T20:03:26.250854"
+  },
+  "SH-3LS6-FE3C-LUHY": {
+    "script": "boss-king-aut",
+    "created": "2026-09-15T20:03:26.250872",
+    "expires": "2027-09-15T20:03:26.250873"
+  },
+  "SH-CMZC-FN42-3WHA": {
+    "script": "floor-runner",
+    "created": "2026-09-15T20:03:26.250889",
+    "expires": "2027-09-15T20:03:26.250890"
+  },
+  "SH-2FL4-BK6B-E32F": {
+    "script": "entity-hider",
+    "created": "2026-09-15T20:03:26.250909",
+    "expires": "2027-09-15T20:03:26.250910"
+  },
+  "SH-N6BF-9Z4Z-FA3S": {
+    "script": "light-guide",
+    "created": "2026-09-15T20:03:26.250927",
+    "expires": "2027-09-15T20:03:26.250928"
+  },
+  "SH-5TJ3-N6BS-92JM": {
+    "script": "vault-opener",
+    "created": "2026-09-15T20:03:26.251010",
+    "expires": "2027-09-15T20:03:26.251017"
+  },
+  "SH-HTKH-8YB6-YVYU": {
+    "script": "combo-macro",
+    "created": "2026-09-15T20:03:26.251057",
+    "expires": "2027-09-15T20:03:26.251058"
+  },
+  "SH-64JK-W3UW-8EAS": {
+    "script": "chi-charger",
+    "created": "2026-09-15T20:03:26.251387",
+    "expires": "2027-09-15T20:03:26.251392"
+  },
+  "SH-QWPV-HKYS-VAGJ": {
+    "script": "duck-master",
+    "created": "2026-09-15T20:03:26.251420",
+    "expires": "2027-09-15T20:03:26.251421"
+  },
+  "SH-FDNJ-ULU4-XQYW": {
+    "script": "aim-assist-rivals",
+    "created": "2026-09-15T20:03:26.251441",
+    "expires": "2027-09-15T20:03:26.251442"
+  },
+  "SH-SQ36-FLKT-E9FW": {
+    "script": "dash-cooldown",
+    "created": "2026-09-15T20:03:26.251457",
+    "expires": "2027-09-15T20:03:26.251459"
+  },
+  "SH-NBUJ-R6SQ-YEHX": {
+    "script": "hitbox-viewer",
+    "created": "2026-09-15T20:03:26.251477",
+    "expires": "2027-09-15T20:03:26.251478"
+  },
+  "SH-CWVB-ZNAZ-NBVR": {
+    "script": "ball-tracker",
+    "created": "2026-09-15T20:03:26.251504",
+    "expires": "2027-09-15T20:03:26.251506"
+  },
+  "SH-YADG-W73D-DN6M": {
+    "script": "dash-bot-blade",
+    "created": "2026-09-15T20:03:26.251533",
+    "expires": "2027-09-15T20:03:26.251535"
+  },
+  "SH-LWCM-TTSZ-ZNKA": {
+    "script": "wave-builder",
+    "created": "2026-09-15T20:03:26.251559",
+    "expires": "2027-09-15T20:03:26.251561"
+  },
+  "SH-NCTV-B8S3-2L43": {
+    "script": "cash-bank-tds",
+    "created": "2026-09-15T20:03:26.251581",
+    "expires": "2027-09-15T20:03:26.251583"
+  },
+  "SH-N5PS-9TG9-QM6E": {
+    "script": "placement-optimizer",
+    "created": "2026-09-15T20:03:26.251627",
+    "expires": "2027-09-15T20:03:26.251630"
+  },
+  "SH-GKPU-3PF2-WUZK": {
+    "script": "belt-maxer",
+    "created": "2026-09-15T20:03:26.251651",
+    "expires": "2027-09-15T20:03:26.251652"
+  },
+  "SH-LNAY-UU86-RRY9": {
+    "script": "shuriken-splitter",
+    "created": "2026-09-15T20:03:26.251672",
+    "expires": "2027-09-15T20:03:26.251673"
+  },
+  "SH-UYGP-DCPU-X25L": {
+    "script": "zombie-auto-shooter",
+    "created": "2026-09-15T20:03:26.251694",
+    "expires": "2027-09-15T20:03:26.251695"
+  },
+  "SH-PCNK-AYWP-SUCN": {
+    "script": "fruit-selector",
+    "created": "2026-09-15T20:03:26.251716",
+    "expires": "2027-09-15T20:03:26.251717"
+  },
+  "SH-RB8U-LQ5N-A2V4": {
+    "script": "move-combo-fb",
+    "created": "2026-09-15T20:03:26.251736",
+    "expires": "2027-09-15T20:03:26.251737"
+  },
+  "SH-T6FA-SARV-BRJ4": {
+    "script": "boss-slayer-fb",
+    "created": "2026-09-15T20:03:26.251757",
+    "expires": "2027-09-15T20:03:26.251758"
+  },
+  "SH-8MGJ-9WQX-262K": {
+    "script": "wave-coin-utd",
+    "created": "2026-09-15T20:03:26.251777",
+    "expires": "2027-09-15T20:03:26.251779"
+  },
+  "SH-PC5X-QU8D-N2VX": {
+    "script": "kp-farmer",
+    "created": "2026-09-15T20:03:26.251802",
+    "expires": "2027-09-15T20:03:26.251803"
+  },
+  "SH-QC8D-PYAT-48KL": {
+    "script": "kaiju-finder",
+    "created": "2026-09-15T20:03:26.251822",
+    "expires": "2027-09-15T20:03:26.251823"
+  },
+  "SH-PMD8-3RE8-H6QD": {
+    "script": "pet-sim-99-farm",
+    "created": "2026-09-15T20:03:26.251934",
+    "expires": "2027-09-15T20:03:26.251940"
+  },
+  "SH-6RVS-NRGT-9SM6": {
+    "script": "blox-fruits-v2-combo",
+    "created": "2026-09-15T20:03:26.252166",
+    "expires": "2027-09-15T20:03:26.252171"
+  },
+  "SH-99Y4-TZZJ-KRDT": {
+    "script": "obby-obstacle",
+    "created": "2026-09-15T20:03:26.252247",
+    "expires": "2027-09-15T20:03:26.252249"
+  },
+  "SH-ZJ6B-UAJ6-PJ8X": {
+    "script": "tycoon-manager",
+    "created": "2026-09-15T20:03:26.252322",
+    "expires": "2027-09-15T20:03:26.252327"
+  },
+  "SH-UTE8-E9T2-Z8VH": {
+    "script": "zephyr-hub",
+    "created": "2026-09-15T20:03:26.252349",
+    "expires": "2027-09-15T20:03:26.252349"
+  },
+  "SH-W83Z-7U7L-L9XM": {
+    "script": "nano-framework-x",
+    "created": "2026-09-15T20:03:26.252361",
+    "expires": "2027-09-15T20:03:26.252362"
+  },
+  "SH-5J55-7MZS-D7TF": {
+    "script": "quantum-hub-ultra",
+    "created": "2026-09-15T20:03:26.252380",
+    "expires": "2027-09-15T20:03:26.252381"
+  },
+  "SH-V2S3-M6F4-NELE": {
+    "script": "zephyr-script-lite",
+    "created": "2026-09-15T20:03:26.252398",
+    "expires": "2027-09-15T20:03:26.252423"
+  },
+  "SH-9GHY-95XS-GPSG": {
+    "script": "vortex-coach-go",
+    "created": "2026-09-15T20:03:26.252460",
+    "expires": "2027-09-15T20:03:26.252462"
+  },
+  "SH-3H78-5HAN-H5TU": {
+    "script": "blade-suite-ultra",
+    "created": "2026-09-15T20:03:26.252482",
+    "expires": "2027-09-15T20:03:26.252483"
+  },
+  "SH-QHGQ-HYBE-CZWP": {
+    "script": "mega-hub-elite",
+    "created": "2026-09-15T20:03:26.252510",
+    "expires": "2027-09-15T20:03:26.252511"
+  },
+  "SH-6GUK-73BZ-XS47": {
+    "script": "nano-toolkit-lite",
+    "created": "2026-09-15T20:03:26.252534",
+    "expires": "2027-09-15T20:03:26.252535"
+  },
+  "SH-QQZB-A2JC-37CT": {
+    "script": "cosmic-suite-plus",
+    "created": "2026-09-15T20:03:26.252553",
+    "expires": "2027-09-15T20:03:26.252554"
+  },
+  "SH-ASFZ-6FPW-ENT7": {
+    "script": "emerald-enhancer-x",
+    "created": "2026-09-15T20:03:26.252573",
+    "expires": "2027-09-15T20:03:26.252575"
+  },
+  "SH-TLBE-6VGP-EXLK": {
+    "script": "cosmic-pack-pro",
+    "created": "2026-09-15T20:03:26.252594",
+    "expires": "2027-09-15T20:03:26.252595"
+  },
+  "SH-YV9D-QT26-DF4S": {
+    "script": "phantom-suite-pro",
+    "created": "2026-09-15T20:03:26.252615",
+    "expires": "2027-09-15T20:03:26.252616"
+  },
+  "SH-EVTY-9RKZ-Z3MV": {
+    "script": "titan-hub",
+    "created": "2026-09-15T20:03:26.252646",
+    "expires": "2027-09-15T20:03:26.252648"
+  },
+  "SH-GG2K-N2RU-CWRK": {
+    "script": "solar-toolkit-max",
+    "created": "2026-09-15T20:03:26.252669",
+    "expires": "2027-09-15T20:03:26.252670"
+  },
+  "SH-6AAD-R8G6-9KEZ": {
+    "script": "titan-script-lite",
+    "created": "2026-09-15T20:03:26.252693",
+    "expires": "2027-09-15T20:03:26.252694"
+  },
+  "SH-47V6-FTH5-5HD6": {
+    "script": "hyper-script-zero",
+    "created": "2026-09-15T20:03:26.252717",
+    "expires": "2027-09-15T20:03:26.252718"
+  },
+  "SH-UC5W-TX3Z-KCDT": {
+    "script": "cosmic-matrix-max",
+    "created": "2026-09-15T20:03:26.252741",
+    "expires": "2027-09-15T20:03:26.252743"
+  },
+  "SH-YWJF-TSXR-HFTM": {
+    "script": "zephyr-suite-v2",
+    "created": "2026-09-15T20:03:26.252765",
+    "expires": "2027-09-15T20:03:26.252766"
+  },
+  "SH-U6G5-ZFY4-D4MX": {
+    "script": "quantum-hub",
+    "created": "2026-09-15T20:03:26.252792",
+    "expires": "2027-09-15T20:03:26.252793"
+  },
+  "SH-JQMU-FEVJ-9GDB": {
+    "script": "golden-system-x",
+    "created": "2026-09-15T20:03:26.252814",
+    "expires": "2027-09-15T20:03:26.252815"
+  },
+  "SH-GPME-HUTF-RH2G": {
+    "script": "cosmic-hub",
+    "created": "2026-09-15T20:03:26.252839",
+    "expires": "2027-09-15T20:03:26.252841"
+  },
+  "SH-PXSC-F4YR-PBPD": {
+    "script": "alpha-hub",
+    "created": "2026-09-15T20:03:26.252866",
+    "expires": "2027-09-15T20:03:26.252868"
+  },
+  "SH-8V3H-Z8Y4-YNE3": {
+    "script": "cyber-hub",
+    "created": "2026-09-15T20:03:26.252896",
+    "expires": "2027-09-15T20:03:26.252897"
+  },
+  "SH-KB7G-DED2-KSB9": {
+    "script": "blade-core-v2",
+    "created": "2026-09-15T20:03:26.252922",
+    "expires": "2027-09-15T20:03:26.252923"
+  },
+  "SH-WHQR-328E-57EN": {
+    "script": "quasar-utility-max",
+    "created": "2026-09-15T20:03:26.252949",
+    "expires": "2027-09-15T20:03:26.252951"
+  },
+  "SH-XF65-RAPR-VM9Y": {
+    "script": "apex-enhancer-x",
+    "created": "2026-09-15T20:03:26.252975",
+    "expires": "2027-09-15T20:03:26.252976"
+  },
+  "SH-XL84-EGQL-S4PW": {
+    "script": "quantum-core-lite",
+    "created": "2026-09-15T20:03:26.252995",
+    "expires": "2027-09-15T20:03:26.252996"
+  },
+  "SH-7TUU-4PMR-5KEQ": {
+    "script": "vortex-hub",
+    "created": "2026-09-15T20:03:26.253016",
+    "expires": "2027-09-15T20:03:26.253017"
+  },
+  "SH-DJ75-KZSM-KPF3": {
+    "script": "alpha-hub-2",
+    "created": "2026-09-15T20:03:26.253043",
+    "expires": "2027-09-15T20:03:26.253045"
+  },
+  "SH-FKUY-2T9G-FG69": {
+    "script": "golden-hub",
+    "created": "2026-09-15T20:03:26.253083",
+    "expires": "2027-09-15T20:03:26.253085"
+  },
+  "SH-BD6V-WLC9-Y7CP": {
+    "script": "vortex-framework-pro",
+    "created": "2026-09-15T20:03:26.253109",
+    "expires": "2027-09-15T20:03:26.253111"
+  },
+  "SH-6VXX-92F9-M4PC": {
+    "script": "solaris-system-elite",
+    "created": "2026-09-15T20:03:26.253132",
+    "expires": "2027-09-15T20:03:26.253134"
+  },
+  "SH-FRU2-7Y36-ZT8Q": {
+    "script": "crimson-enhancer-v2",
+    "created": "2026-09-15T20:03:26.253159",
+    "expires": "2027-09-15T20:03:26.253161"
+  },
+  "SH-QJKM-UDVE-YD29": {
+    "script": "zephyr-pack-go",
+    "created": "2026-09-15T20:03:26.253184",
+    "expires": "2027-09-15T20:03:26.253186"
+  },
+  "SH-TSLW-B2TZ-3VJ3": {
+    "script": "nova-hub",
+    "created": "2026-09-15T20:03:26.253206",
+    "expires": "2027-09-15T20:03:26.253208"
+  },
+  "SH-NVPH-PCLR-ADM8": {
+    "script": "omega-optimizer-ultra",
+    "created": "2026-09-15T20:03:26.253228",
+    "expires": "2027-09-15T20:03:26.253229"
+  },
+  "SH-XZ29-EE99-L9ZS": {
+    "script": "nano-script-lite",
+    "created": "2026-09-15T20:03:26.253252",
+    "expires": "2027-09-15T20:03:26.253254"
+  },
+  "SH-2TBV-YFLZ-U29E": {
+    "script": "proto-booster-pro",
+    "created": "2026-09-15T20:03:26.253280",
+    "expires": "2027-09-15T20:03:26.253281"
+  },
+  "SH-JGUT-UNCA-Y8P7": {
+    "script": "frost-hub",
+    "created": "2026-09-15T20:03:26.253308",
+    "expires": "2027-09-15T20:03:26.253309"
+  },
+  "SH-FL6W-J2J7-GA2Q": {
+    "script": "solaris-system-elite-2",
+    "created": "2026-09-15T20:03:26.253331",
+    "expires": "2027-09-15T20:03:26.253332"
+  },
+  "SH-DCZD-485K-NWUJ": {
+    "script": "golden-hub-2",
+    "created": "2026-09-15T20:03:26.253353",
+    "expires": "2027-09-15T20:03:26.253355"
+  },
+  "SH-9TX9-D2FG-5ZLT": {
+    "script": "cosmic-assistant-pro",
+    "created": "2026-09-15T20:03:26.253378",
+    "expires": "2027-09-15T20:03:26.253379"
+  },
+  "SH-DKQG-8QKX-27KH": {
+    "script": "cyber-module-elite",
+    "created": "2026-09-15T20:03:26.253400",
+    "expires": "2027-09-15T20:03:26.253402"
+  },
+  "SH-3MQ5-GJ6K-EBYD": {
+    "script": "crimson-loader-go",
+    "created": "2026-09-15T20:03:26.253422",
+    "expires": "2027-09-15T20:03:26.253423"
+  },
+  "SH-9V32-WPVL-6WGT": {
+    "script": "astral-coach-v2",
+    "created": "2026-09-15T20:03:26.253445",
+    "expires": "2027-09-15T20:03:26.253447"
+  },
+  "SH-RD7G-2TT5-XQP2": {
+    "script": "storm-hub",
+    "created": "2026-09-15T20:03:26.253472",
+    "expires": "2027-09-15T20:03:26.253474"
+  },
+  "SH-KC68-CLBS-59W2": {
+    "script": "vortex-coach-lite",
+    "created": "2026-09-15T20:03:26.253497",
+    "expires": "2027-09-15T20:03:26.253498"
+  },
+  "SH-D9XU-LSS7-5LMN": {
+    "script": "emerald-engine-max",
+    "created": "2026-09-15T20:03:26.253521",
+    "expires": "2027-09-15T20:03:26.253523"
+  },
+  "SH-62BQ-JYHZ-ST68": {
+    "script": "shadow-script-v2",
+    "created": "2026-09-15T20:03:26.253541",
+    "expires": "2027-09-15T20:03:26.253543"
+  },
+  "SH-W4YJ-ZM9N-F8FJ": {
+    "script": "lunar-loader-plus",
+    "created": "2026-09-15T20:03:26.253568",
+    "expires": "2027-09-15T20:03:26.253569"
+  },
+  "SH-HMZ2-H7VY-6VPA": {
+    "script": "nano-system-ultra",
+    "created": "2026-09-15T20:03:26.253590",
+    "expires": "2027-09-15T20:03:26.253592"
+  },
+  "SH-7WVH-A2GS-QHBS": {
+    "script": "crimson-hub",
+    "created": "2026-09-15T20:03:26.253612",
+    "expires": "2027-09-15T20:03:26.253613"
+  },
+  "SH-GYMA-LU7C-CMS8": {
+    "script": "storm-hub-zero",
+    "created": "2026-09-15T20:03:26.253636",
+    "expires": "2027-09-15T20:03:26.253637"
+  },
+  "SH-BURF-RHDU-R9P8": {
+    "script": "cosmic-forge-plus",
+    "created": "2026-09-15T20:03:26.253656",
+    "expires": "2027-09-15T20:03:26.253658"
+  },
+  "SH-BCHW-4YX6-5MFM": {
+    "script": "cosmic-system-go",
+    "created": "2026-09-15T20:03:26.253676",
+    "expires": "2027-09-15T20:03:26.253678"
+  },
+  "SH-KSU9-7WGY-AP6K": {
+    "script": "cyber-assistant-v2",
+    "created": "2026-09-15T20:03:26.253696",
+    "expires": "2027-09-15T20:03:26.253697"
+  },
+  "SH-RK9V-3W34-U7YK": {
+    "script": "cyber-hub-2",
+    "created": "2026-09-15T20:03:26.253718",
+    "expires": "2027-09-15T20:03:26.253720"
+  },
+  "SH-83R5-ZJGU-985S": {
+    "script": "cyber-hub-3",
+    "created": "2026-09-15T20:03:26.253742",
+    "expires": "2027-09-15T20:03:26.253743"
+  },
+  "SH-YH2P-GH2S-TNRR": {
+    "script": "phantom-hub",
+    "created": "2026-09-15T20:03:26.253766",
+    "expires": "2027-09-15T20:03:26.253768"
+  },
+  "SH-XHYT-S3Y8-ATFU": {
+    "script": "solar-hub",
+    "created": "2026-09-15T20:03:26.253792",
+    "expires": "2027-09-15T20:03:26.253794"
+  },
+  "SH-6G8R-ZCLT-XUEF": {
+    "script": "cyber-utility-max",
+    "created": "2026-09-15T20:03:26.253817",
+    "expires": "2027-09-15T20:03:26.253818"
+  },
+  "SH-7QR3-9P7C-U6XY": {
+    "script": "cosmic-toolkit-x",
+    "created": "2026-09-15T20:03:26.253832",
+    "expires": "2027-09-15T20:03:26.253833"
+  },
+  "SH-TJRG-B2TM-YBU3": {
+    "script": "proto-system-plus",
+    "created": "2026-09-15T20:03:26.253847",
+    "expires": "2027-09-15T20:03:26.253848"
+  },
+  "SH-3BUD-WXPB-A3HU": {
+    "script": "golden-hub-3",
+    "created": "2026-09-15T20:03:26.253864",
+    "expires": "2027-09-15T20:03:26.253866"
+  },
+  "SH-2NLT-EUTF-AHTG": {
+    "script": "mega-module-plus",
+    "created": "2026-09-15T20:03:26.253890",
+    "expires": "2027-09-15T20:03:26.253892"
+  },
+  "SH-33J8-VW85-5DN9": {
+    "script": "golden-hub-plus",
+    "created": "2026-09-15T20:03:26.253915",
+    "expires": "2027-09-15T20:03:26.253916"
+  },
+  "SH-K8AV-4SA4-QQ4Y": {
+    "script": "blade-loader-go",
+    "created": "2026-09-15T20:03:26.253934",
+    "expires": "2027-09-15T20:03:26.253935"
+  },
+  "SH-RRZM-3M7C-QKZL": {
+    "script": "nova-booster-pro",
+    "created": "2026-09-15T20:03:26.253949",
+    "expires": "2027-09-15T20:03:26.253950"
+  },
+  "SH-5GPL-7V4F-93TY": {
+    "script": "solaris-hub",
+    "created": "2026-09-15T20:03:26.253970",
+    "expires": "2027-09-15T20:03:26.253971"
+  },
+  "SH-R8HZ-Z73T-FB6U": {
+    "script": "quantum-assistant-lite",
+    "created": "2026-09-15T20:03:26.253993",
+    "expires": "2027-09-15T20:03:26.253994"
+  },
+  "SH-632L-R2Y9-U23Q": {
+    "script": "quantum-booster-go",
+    "created": "2026-09-15T20:03:26.254011",
+    "expires": "2027-09-15T20:03:26.254013"
+  },
+  "SH-XQUF-EPMA-QWRL": {
+    "script": "azure-loader-plus",
+    "created": "2026-09-15T20:03:26.254033",
+    "expires": "2027-09-15T20:03:26.254034"
+  },
+  "SH-QWT6-77NK-7FVY": {
+    "script": "zephyr-engine-ultra",
+    "created": "2026-09-15T20:03:26.254094",
+    "expires": "2027-09-15T20:03:26.254097"
+  },
+  "SH-N9A3-6F5S-ZJ2S": {
+    "script": "nova-module-pro",
+    "created": "2026-09-15T20:03:26.254114",
+    "expires": "2027-09-15T20:03:26.254115"
+  },
+  "SH-G5X7-DYFG-85X9": {
+    "script": "mega-hub",
+    "created": "2026-09-15T20:03:26.254133",
+    "expires": "2027-09-15T20:03:26.254134"
+  },
+  "SH-M32L-UYNF-66JH": {
+    "script": "nova-core-zero",
+    "created": "2026-09-15T20:03:26.254149",
+    "expires": "2027-09-15T20:03:26.254150"
+  },
+  "SH-U72G-HNYN-P6WK": {
+    "script": "alpha-bot-plus",
+    "created": "2026-09-15T20:03:26.254164",
+    "expires": "2027-09-15T20:03:26.254165"
+  },
+  "SH-VXPZ-4SWA-VYFL": {
+    "script": "solaris-hub-2",
+    "created": "2026-09-15T20:03:26.254179",
+    "expires": "2027-09-15T20:03:26.254180"
+  },
+  "SH-JZ2Q-MA4L-6PRT": {
+    "script": "phantom-matrix-elite",
+    "created": "2026-09-15T20:03:26.254201",
+    "expires": "2027-09-15T20:03:26.254202"
+  },
+  "SH-XGTN-RZVS-246K": {
+    "script": "apex-utility-max",
+    "created": "2026-09-15T20:03:26.254224",
+    "expires": "2027-09-15T20:03:26.254225"
+  },
+  "SH-VGZC-WY7C-LKM2": {
+    "script": "apex-hub-x",
+    "created": "2026-09-15T20:03:26.254241",
+    "expires": "2027-09-15T20:03:26.254242"
+  },
+  "SH-ZDVM-2E3X-E7RF": {
+    "script": "quantum-framework-zero",
+    "created": "2026-09-15T20:03:26.254255",
+    "expires": "2027-09-15T20:03:26.254256"
+  },
+  "SH-GEQL-67PW-59NP": {
+    "script": "omega-booster-lite",
+    "created": "2026-09-15T20:03:26.254276",
+    "expires": "2027-09-15T20:03:26.254277"
+  },
+  "SH-4UBR-YJQX-25MG": {
+    "script": "cosmic-hub-2",
+    "created": "2026-09-15T20:03:26.254377",
+    "expires": "2027-09-15T20:03:26.254384"
+  },
+  "SH-69U7-PJPP-UZ64": {
+    "script": "quasar-hub-pro",
+    "created": "2026-09-15T20:03:26.254411",
+    "expires": "2027-09-15T20:03:26.254413"
+  },
+  "SH-XMPZ-Q684-GC97": {
+    "script": "quasar-matrix-max",
+    "created": "2026-09-15T20:03:26.254434",
+    "expires": "2027-09-15T20:03:26.254435"
+  },
+  "SH-H27P-Y8GH-2A7X": {
+    "script": "mega-module-lite",
+    "created": "2026-09-15T20:03:26.254451",
+    "expires": "2027-09-15T20:03:26.254452"
+  },
+  "SH-M4YV-ZN9Y-DQVY": {
+    "script": "phantom-hub-2",
+    "created": "2026-09-15T20:03:26.254472",
+    "expires": "2027-09-15T20:03:26.254474"
+  },
+  "SH-23JX-HXCH-E9NA": {
+    "script": "mega-script-x",
+    "created": "2026-09-15T20:03:26.254551",
+    "expires": "2027-09-15T20:03:26.254562"
+  },
+  "SH-S9Z6-ZWJJ-X4TP": {
+    "script": "mega-matrix-ultra",
+    "created": "2026-09-15T20:03:26.254686",
+    "expires": "2027-09-15T20:03:26.254707"
+  },
+  "SH-KA24-HLN6-DB9N": {
+    "script": "vortex-utility-lite",
+    "created": "2026-09-15T20:03:26.254739",
+    "expires": "2027-09-15T20:03:26.254741"
+  },
+  "SH-4AMR-PH79-6BK3": {
+    "script": "blade-hub",
+    "created": "2026-09-15T20:03:26.254796",
+    "expires": "2027-09-15T20:03:26.254799"
+  },
+  "SH-UGMC-QAAG-QPXG": {
+    "script": "omega-booster-pro",
+    "created": "2026-09-15T20:03:26.254819",
+    "expires": "2027-09-15T20:03:26.254820"
+  },
+  "SH-JK2M-P27K-T2KB": {
+    "script": "frost-forge-max",
+    "created": "2026-09-15T20:03:26.254838",
+    "expires": "2027-09-15T20:03:26.254839"
+  },
+  "SH-3A5H-DN8B-S2SH": {
+    "script": "mega-matrix-zero",
+    "created": "2026-09-15T20:03:26.255011",
+    "expires": "2027-09-15T20:03:26.255015"
+  },
+  "SH-Y4HV-4VZ5-5NCC": {
+    "script": "crimson-forge-ultra",
+    "created": "2026-09-15T20:03:26.255050",
+    "expires": "2027-09-15T20:03:26.255052"
+  },
+  "SH-U8G8-EBFL-6FFD": {
+    "script": "cyber-engine-v2",
+    "created": "2026-09-15T20:03:26.255075",
+    "expires": "2027-09-15T20:03:26.255077"
+  },
+  "SH-TWJN-84DB-2FAC": {
+    "script": "emerald-matrix-lite",
+    "created": "2026-09-15T20:03:26.255134",
+    "expires": "2027-09-15T20:03:26.255137"
+  },
+  "SH-E4NX-U5QP-LHTR": {
+    "script": "omega-optimizer-plus",
+    "created": "2026-09-15T20:03:26.255163",
+    "expires": "2027-09-15T20:03:26.255165"
+  },
+  "SH-STZL-CBH5-YZW2": {
+    "script": "storm-framework-v2",
+    "created": "2026-09-15T20:03:26.255190",
+    "expires": "2027-09-15T20:03:26.255191"
+  },
+  "SH-SFGH-4RV2-UP6T": {
+    "script": "nano-loader-lite",
+    "created": "2026-09-15T20:03:26.255215",
+    "expires": "2027-09-15T20:03:26.255217"
+  },
+  "SH-XEHX-R3BG-7V9D": {
+    "script": "quasar-optimizer-ultra",
+    "created": "2026-09-15T20:03:26.255420",
+    "expires": "2027-09-15T20:03:26.255426"
+  },
+  "SH-X5RT-W6GA-UJRM": {
+    "script": "golden-hub-4",
+    "created": "2026-09-15T20:03:26.255526",
+    "expires": "2027-09-15T20:03:26.255531"
+  },
+  "SH-NEWF-8PQC-323U": {
+    "script": "frost-core-zero",
+    "created": "2026-09-15T20:03:26.255578",
+    "expires": "2027-09-15T20:03:26.255581"
+  },
+  "SH-P8XT-32JU-ZTJU": {
+    "script": "zephyr-system-x",
+    "created": "2026-09-15T20:03:26.255608",
+    "expires": "2027-09-15T20:03:26.255610"
+  },
+  "SH-QHE9-EX8K-RL5V": {
+    "script": "nova-forge-max",
+    "created": "2026-09-15T20:03:26.255629",
+    "expires": "2027-09-15T20:03:26.255630"
+  },
+  "SH-429F-7LL9-ABHT": {
+    "script": "hyper-suite-x",
+    "created": "2026-09-15T20:03:26.255647",
+    "expires": "2027-09-15T20:03:26.255649"
+  },
+  "SH-2H9Q-H26K-ZNK2": {
+    "script": "quasar-module-zero",
+    "created": "2026-09-15T20:03:26.255672",
+    "expires": "2027-09-15T20:03:26.255674"
+  },
+  "SH-WBPC-KWB7-SHSX": {
+    "script": "titan-script-go",
+    "created": "2026-09-15T20:03:26.255748",
+    "expires": "2027-09-15T20:03:26.255751"
+  },
+  "SH-KCHE-HQTZ-6PXM": {
+    "script": "nano-module-go",
+    "created": "2026-09-15T20:03:26.255772",
+    "expires": "2027-09-15T20:03:26.255773"
+  },
+  "SH-L8H6-2TMX-ZAQ7": {
+    "script": "mega-pack-lite",
+    "created": "2026-09-15T20:03:26.255793",
+    "expires": "2027-09-15T20:03:26.255794"
+  },
+  "SH-FWEA-2P2Q-FZHN": {
+    "script": "phantom-forge-pro",
+    "created": "2026-09-15T20:03:26.255827",
+    "expires": "2027-09-15T20:03:26.255828"
+  },
+  "SH-LPE8-LP99-J553": {
+    "script": "shadow-hub",
+    "created": "2026-09-15T20:03:26.255847",
+    "expires": "2027-09-15T20:03:26.255848"
+  },
+  "SH-EUAR-KMCD-DGX3": {
+    "script": "cyber-forge-lite",
+    "created": "2026-09-15T20:03:26.255875",
+    "expires": "2027-09-15T20:03:26.255876"
+  },
+  "SH-S5BS-M5EP-TE2P": {
+    "script": "apex-module-elite",
+    "created": "2026-09-15T20:03:26.255898",
+    "expires": "2027-09-15T20:03:26.255900"
+  },
+  "SH-SFC9-FR67-9GDA": {
+    "script": "azure-framework-go",
+    "created": "2026-09-15T20:03:26.255921",
+    "expires": "2027-09-15T20:03:26.255922"
+  },
+  "SH-LBKN-NF4M-SUH3": {
+    "script": "crimson-hub-2",
+    "created": "2026-09-15T20:03:26.255943",
+    "expires": "2027-09-15T20:03:26.255944"
+  },
+  "SH-T528-BZPD-YQFC": {
+    "script": "phantom-system-elite",
+    "created": "2026-09-15T20:03:26.255962",
+    "expires": "2027-09-15T20:03:26.255964"
+  },
+  "SH-SC9T-35QZ-7HCX": {
+    "script": "solaris-loader-pro",
+    "created": "2026-09-15T20:03:26.255981",
+    "expires": "2027-09-15T20:03:26.255982"
+  },
+  "SH-QDLG-QUTN-8UU3": {
+    "script": "azure-script-pro",
+    "created": "2026-09-15T20:03:26.256006",
+    "expires": "2027-09-15T20:03:26.256007"
+  },
+  "SH-SZTZ-B32T-7Y8H": {
+    "script": "azure-engine-v2",
+    "created": "2026-09-15T20:03:26.256027",
+    "expires": "2027-09-15T20:03:26.256028"
+  },
+  "SH-SM99-S9QG-KZ2C": {
+    "script": "azure-matrix-elite",
+    "created": "2026-09-15T20:03:26.256045",
+    "expires": "2027-09-15T20:03:26.256046"
+  },
+  "SH-GWEG-PEYE-H8NA": {
+    "script": "alpha-loader-pro",
+    "created": "2026-09-15T20:03:26.256070",
+    "expires": "2027-09-15T20:03:26.256072"
+  },
+  "SH-Y7WN-X3P7-DGTK": {
+    "script": "nova-hub-2",
+    "created": "2026-09-15T20:03:26.256097",
+    "expires": "2027-09-15T20:03:26.256099"
+  },
+  "SH-EHEZ-5PNC-CT2N": {
+    "script": "blade-loader-ultra",
+    "created": "2026-09-15T20:03:26.256123",
+    "expires": "2027-09-15T20:03:26.256124"
+  },
+  "SH-ZYP6-729L-7AFF": {
+    "script": "proto-assistant-x",
+    "created": "2026-09-15T20:03:26.256149",
+    "expires": "2027-09-15T20:03:26.256150"
+  },
+  "SH-WGHH-DRNZ-BLZQ": {
+    "script": "nova-loader-lite",
+    "created": "2026-09-15T20:03:26.256169",
+    "expires": "2027-09-15T20:03:26.256171"
+  },
+  "SH-VGAX-5LQ9-E65L": {
+    "script": "blade-hub-2",
+    "created": "2026-09-15T20:03:26.256198",
+    "expires": "2027-09-15T20:03:26.256199"
+  },
+  "SH-MV7K-P9DM-V53W": {
+    "script": "astral-assistant-lite",
+    "created": "2026-09-15T20:03:26.256218",
+    "expires": "2027-09-15T20:03:26.256219"
+  },
+  "SH-L6YV-4JFA-YJ9K": {
+    "script": "storm-module-lite",
+    "created": "2026-09-15T20:03:26.256250",
+    "expires": "2027-09-15T20:03:26.256252"
+  },
+  "SH-NGNY-PDQF-HXRX": {
+    "script": "phantom-bot-plus",
+    "created": "2026-09-15T20:03:26.256272",
+    "expires": "2027-09-15T20:03:26.256274"
+  },
+  "SH-AXW9-9NXG-5RBQ": {
+    "script": "storm-loader-v2",
+    "created": "2026-09-15T20:03:26.256296",
+    "expires": "2027-09-15T20:03:26.256298"
+  },
+  "SH-95X3-W7TF-TS8L": {
+    "script": "solaris-hub-3",
+    "created": "2026-09-15T20:03:26.256321",
+    "expires": "2027-09-15T20:03:26.256322"
+  },
+  "SH-PEA7-YCLF-A3RF": {
+    "script": "cyber-hub-4",
+    "created": "2026-09-15T20:03:26.256343",
+    "expires": "2027-09-15T20:03:26.256344"
+  },
+  "SH-TDFX-72VY-VBNT": {
+    "script": "phantom-hub-3",
+    "created": "2026-09-15T20:03:26.256365",
+    "expires": "2027-09-15T20:03:26.256366"
+  },
+  "SH-9TWH-3DGQ-JG9Y": {
+    "script": "zephyr-hub-2",
+    "created": "2026-09-15T20:03:26.256385",
+    "expires": "2027-09-15T20:03:26.256386"
+  },
+  "SH-RVQC-3KQQ-7YU4": {
+    "script": "nano-hub",
+    "created": "2026-09-15T20:03:26.256408",
+    "expires": "2027-09-15T20:03:26.256409"
+  },
+  "SH-WGRD-TJEV-U6UR": {
+    "script": "vortex-hub-2",
+    "created": "2026-09-15T20:03:26.256431",
+    "expires": "2027-09-15T20:03:26.256433"
+  },
+  "SH-LW6X-CHRY-BG7P": {
+    "script": "hyper-engine-plus",
+    "created": "2026-09-15T20:03:26.256451",
+    "expires": "2027-09-15T20:03:26.256453"
+  },
+  "SH-VEDS-WF7E-2JFJ": {
+    "script": "solaris-engine-elite",
+    "created": "2026-09-15T20:03:26.256472",
+    "expires": "2027-09-15T20:03:26.256473"
+  },
+  "SH-34ZU-JP7W-VLUL": {
+    "script": "vortex-engine-max",
+    "created": "2026-09-15T20:03:26.256499",
+    "expires": "2027-09-15T20:03:26.256501"
+  },
+  "SH-NTVG-79FD-G69E": {
+    "script": "solar-script-zero",
+    "created": "2026-09-15T20:03:26.256524",
+    "expires": "2027-09-15T20:03:26.256526"
+  },
+  "SH-J2P4-HJ6D-ZWY6": {
+    "script": "nova-hub-3",
+    "created": "2026-09-15T20:03:26.256550",
+    "expires": "2027-09-15T20:03:26.256552"
+  },
+  "SH-SUAR-G7VM-H5TJ": {
+    "script": "storm-suite-v2",
+    "created": "2026-09-15T20:03:26.256578",
+    "expires": "2027-09-15T20:03:26.256579"
+  },
+  "SH-WWVF-NGKS-42PJ": {
+    "script": "nova-enhancer-v2",
+    "created": "2026-09-15T20:03:26.256603",
+    "expires": "2027-09-15T20:03:26.256605"
+  },
+  "SH-7WQV-VTZJ-SPMG": {
+    "script": "golden-hub-5",
+    "created": "2026-09-15T20:03:26.256624",
+    "expires": "2027-09-15T20:03:26.256625"
+  },
+  "SH-TULH-P88X-KYKT": {
+    "script": "quasar-engine-v2",
+    "created": "2026-09-15T20:03:26.256642",
+    "expires": "2027-09-15T20:03:26.256643"
+  },
+  "SH-K779-7L3S-3CCW": {
+    "script": "hyper-hub",
+    "created": "2026-09-15T20:03:26.256664",
+    "expires": "2027-09-15T20:03:26.256666"
+  },
+  "SH-X8T5-255B-ZPKL": {
+    "script": "iron-system-max",
+    "created": "2026-09-15T20:03:26.256686",
+    "expires": "2027-09-15T20:03:26.256688"
+  },
+  "SH-5GB3-D2DW-5V6X": {
+    "script": "zephyr-hub-3",
+    "created": "2026-09-15T20:03:26.256709",
+    "expires": "2027-09-15T20:03:26.256710"
+  },
+  "SH-6LFX-TLTX-TB8J": {
+    "script": "titan-optimizer-go",
+    "created": "2026-09-15T20:03:26.256740",
+    "expires": "2027-09-15T20:03:26.256741"
+  },
+  "SH-8LHW-EHZ8-3RS6": {
+    "script": "zephyr-hub-4",
+    "created": "2026-09-15T20:03:26.256765",
+    "expires": "2027-09-15T20:03:26.256767"
+  },
+  "SH-P5SZ-439Q-PKBD": {
+    "script": "turbo-assistant-max",
+    "created": "2026-09-15T20:03:26.256791",
+    "expires": "2027-09-15T20:03:26.256793"
+  },
+  "SH-6GHK-2M36-NH5B": {
+    "script": "blade-hub-3",
+    "created": "2026-09-15T20:03:26.256815",
+    "expires": "2027-09-15T20:03:26.256816"
+  },
+  "SH-WCWD-WT9C-RMEK": {
+    "script": "nano-enhancer-v2",
+    "created": "2026-09-15T20:03:26.256841",
+    "expires": "2027-09-15T20:03:26.256842"
+  },
+  "SH-683N-JU4V-MEFW": {
+    "script": "crimson-forge-v2",
+    "created": "2026-09-15T20:03:26.256867",
+    "expires": "2027-09-15T20:03:26.256869"
+  },
+  "SH-2MCB-7AZV-WHWG": {
+    "script": "lunar-module-x",
+    "created": "2026-09-15T20:03:26.256891",
+    "expires": "2027-09-15T20:03:26.256893"
+  },
+  "SH-HQJM-XD6P-YH78": {
+    "script": "blade-booster-pro",
+    "created": "2026-09-15T20:03:26.256914",
+    "expires": "2027-09-15T20:03:26.256916"
+  },
+  "SH-HZ25-7GR9-35KL": {
+    "script": "cyber-hub-5",
+    "created": "2026-09-15T20:03:26.256942",
+    "expires": "2027-09-15T20:03:26.256943"
+  },
+  "SH-ALVB-BXMZ-ZJ38": {
+    "script": "quantum-hub-2",
+    "created": "2026-09-15T20:03:26.256969",
+    "expires": "2027-09-15T20:03:26.256971"
+  },
+  "SH-FTW9-HATW-FCA5": {
+    "script": "zephyr-booster-elite",
+    "created": "2026-09-15T20:03:26.256990",
+    "expires": "2027-09-15T20:03:26.256992"
+  },
+  "SH-U4J8-7BAB-EY25": {
+    "script": "solaris-hub-4",
+    "created": "2026-09-15T20:03:26.257011",
+    "expires": "2027-09-15T20:03:26.257012"
+  },
+  "SH-ZUSG-DAP3-J2N8": {
+    "script": "emerald-optimizer-go",
+    "created": "2026-09-15T20:03:26.257034",
+    "expires": "2027-09-15T20:03:26.257036"
+  },
+  "SH-Z5JU-2K5H-57PA": {
+    "script": "alpha-matrix-ultra",
+    "created": "2026-09-15T20:03:26.257053",
+    "expires": "2027-09-15T20:03:26.257054"
+  },
+  "SH-QSP5-N243-GB6Z": {
+    "script": "phantom-hub-4",
+    "created": "2026-09-15T20:03:26.257075",
+    "expires": "2027-09-15T20:03:26.257077"
+  },
+  "SH-KWFL-4JLA-VGW4": {
+    "script": "vortex-hub-3",
+    "created": "2026-09-15T20:03:26.257102",
+    "expires": "2027-09-15T20:03:26.257103"
+  },
+  "SH-UDUB-9ZBP-JLTA": {
+    "script": "quasar-framework-go",
+    "created": "2026-09-15T20:03:26.257130",
+    "expires": "2027-09-15T20:03:26.257131"
+  },
+  "SH-6JB5-4WT2-WE5H": {
+    "script": "lunar-utility-lite",
+    "created": "2026-09-15T20:03:26.257155",
+    "expires": "2027-09-15T20:03:26.257156"
+  },
+  "SH-U7AH-5N65-UNKK": {
+    "script": "titan-hub-2",
+    "created": "2026-09-15T20:03:26.257172",
+    "expires": "2027-09-15T20:03:26.257173"
+  },
+  "SH-2ZHV-Q6CA-A9TJ": {
+    "script": "cosmic-bot-pro",
+    "created": "2026-09-15T20:03:26.257198",
+    "expires": "2027-09-15T20:03:26.257200"
+  },
+  "SH-XLE2-YTBE-APH4": {
+    "script": "azure-utility-pro",
+    "created": "2026-09-15T20:03:26.257221",
+    "expires": "2027-09-15T20:03:26.257223"
+  },
+  "SH-ZZA3-XX79-R8MW": {
+    "script": "solar-module-zero",
+    "created": "2026-09-15T20:03:26.257241",
+    "expires": "2027-09-15T20:03:26.257243"
+  },
+  "SH-8MYY-2PZ8-VWJW": {
+    "script": "azure-bot-go",
+    "created": "2026-09-15T20:03:26.257263",
+    "expires": "2027-09-15T20:03:26.257264"
+  },
+  "SH-CBQM-JUXQ-KUR4": {
+    "script": "vortex-hub-4",
+    "created": "2026-09-15T20:03:26.257285",
+    "expires": "2027-09-15T20:03:26.257286"
+  },
+  "SH-YHDK-TWQ9-AJYE": {
+    "script": "azure-assistant-pro",
+    "created": "2026-09-15T20:03:26.257313",
+    "expires": "2027-09-15T20:03:26.257314"
+  },
+  "SH-TQBU-W9XF-84FH": {
+    "script": "quantum-hub-3",
+    "created": "2026-09-15T20:03:26.257333",
+    "expires": "2027-09-15T20:03:26.257334"
+  },
+  "SH-QJTN-3BF6-HTN9": {
+    "script": "lunar-hub",
+    "created": "2026-09-15T20:03:26.257353",
+    "expires": "2027-09-15T20:03:26.257355"
+  },
+  "SH-VMRS-NVSW-E3JV": {
+    "script": "cyber-hub-6",
+    "created": "2026-09-15T20:03:26.257375",
+    "expires": "2027-09-15T20:03:26.257376"
+  },
+  "SH-K3WJ-H5B9-P7G6": {
+    "script": "hyper-system-go",
+    "created": "2026-09-15T20:03:26.257395",
+    "expires": "2027-09-15T20:03:26.257397"
+  },
+  "SH-JRY6-ECCC-QB6Z": {
+    "script": "quasar-hub",
+    "created": "2026-09-15T20:03:26.257417",
+    "expires": "2027-09-15T20:03:26.257418"
+  },
+  "SH-LWF6-THMD-997U": {
+    "script": "nano-utility-max",
+    "created": "2026-09-15T20:03:26.257440",
+    "expires": "2027-09-15T20:03:26.257441"
+  },
+  "SH-8ET7-3UBD-B4H6": {
+    "script": "nano-system-elite",
+    "created": "2026-09-15T20:03:26.257461",
+    "expires": "2027-09-15T20:03:26.257463"
+  },
+  "SH-62CY-LZS5-4F2Z": {
+    "script": "vortex-suite-zero",
+    "created": "2026-09-15T20:03:26.257485",
+    "expires": "2027-09-15T20:03:26.257486"
+  },
+  "SH-SGVT-XRYA-YTWT": {
+    "script": "vortex-suite-zero-2",
+    "created": "2026-09-15T20:03:26.257517",
+    "expires": "2027-09-15T20:03:26.257518"
+  },
+  "SH-T58C-MNF7-6WPT": {
+    "script": "solaris-booster-v2",
+    "created": "2026-09-15T20:03:26.257536",
+    "expires": "2027-09-15T20:03:26.257538"
+  },
+  "SH-AZ8H-P7XJ-F7E4": {
+    "script": "storm-hub-2",
+    "created": "2026-09-15T20:03:26.257563",
+    "expires": "2027-09-15T20:03:26.257564"
+  },
+  "SH-7T9A-2LFD-MRX5": {
+    "script": "frost-matrix-pro",
+    "created": "2026-09-15T20:03:26.257582",
+    "expires": "2027-09-15T20:03:26.257663"
+  },
+  "SH-ZF6Q-K2YD-79U4": {
+    "script": "crimson-utility-plus",
+    "created": "2026-09-15T20:03:26.257715",
+    "expires": "2027-09-15T20:03:26.257716"
+  },
+  "SH-XRGS-PAC2-625S": {
+    "script": "frost-assistant-plus",
+    "created": "2026-09-15T20:03:26.257736",
+    "expires": "2027-09-15T20:03:26.257737"
+  },
+  "SH-RHKR-LUZA-MLB7": {
+    "script": "nova-framework-plus",
+    "created": "2026-09-15T20:03:26.257795",
+    "expires": "2027-09-15T20:03:26.257797"
+  },
+  "SH-BNLU-KWSZ-D247": {
+    "script": "crimson-toolkit-ultra",
+    "created": "2026-09-15T20:03:26.257848",
+    "expires": "2027-09-15T20:03:26.257851"
+  },
+  "SH-T6N2-N2F7-HTDR": {
+    "script": "quasar-hub-2",
+    "created": "2026-09-15T20:03:26.257873",
+    "expires": "2027-09-15T20:03:26.257874"
+  },
+  "SH-57UN-C6GV-E2HC": {
+    "script": "lunar-hub-2",
+    "created": "2026-09-15T20:03:26.257934",
+    "expires": "2027-09-15T20:03:26.257939"
+  },
+  "SH-8N44-QEPV-9KQS": {
+    "script": "cyber-matrix-pro",
+    "created": "2026-09-15T20:03:26.257961",
+    "expires": "2027-09-15T20:03:26.257962"
+  },
+  "SH-AM7M-M386-JBZQ": {
+    "script": "titan-toolkit-zero",
+    "created": "2026-09-15T20:03:26.257984",
+    "expires": "2027-09-15T20:03:26.257985"
+  },
+  "SH-P5LK-EBKM-KL45": {
+    "script": "titan-suite-v2",
+    "created": "2026-09-15T20:03:26.258001",
+    "expires": "2027-09-15T20:03:26.258002"
+  },
+  "SH-YKYS-MJ98-8ZYY": {
+    "script": "shadow-hub-2",
+    "created": "2026-09-15T20:03:26.258017",
+    "expires": "2027-09-15T20:03:26.258018"
+  },
+  "SH-U9CF-3W85-RLUL": {
+    "script": "emerald-hub",
+    "created": "2026-09-15T20:03:26.258040",
+    "expires": "2027-09-15T20:03:26.258055"
+  },
+  "SH-PS4N-5DVF-27TW": {
+    "script": "nano-script-go",
+    "created": "2026-09-15T20:03:26.258107",
+    "expires": "2027-09-15T20:03:26.258108"
+  },
+  "SH-WXLR-R5B9-PBCP": {
+    "script": "shadow-hub-3",
+    "created": "2026-09-15T20:03:26.258144",
+    "expires": "2027-09-15T20:03:26.258146"
+  },
+  "SH-GHSS-R62H-B8H8": {
+    "script": "proto-core-zero",
+    "created": "2026-09-15T20:03:26.258167",
+    "expires": "2027-09-15T20:03:26.258168"
+  },
+  "SH-TBQX-9KHF-8DJU": {
+    "script": "apex-suite-lite",
+    "created": "2026-09-15T20:03:26.258241",
+    "expires": "2027-09-15T20:03:26.258292"
+  },
+  "SH-D546-Q6HV-9T4Y": {
+    "script": "omega-hub",
+    "created": "2026-09-15T20:03:26.258348",
+    "expires": "2027-09-15T20:03:26.258351"
+  },
+  "SH-MDTT-U4YT-4B9E": {
+    "script": "alpha-suite-pro",
+    "created": "2026-09-15T20:03:26.258452",
+    "expires": "2027-09-15T20:03:26.258453"
+  },
+  "SH-EVB5-HNLU-874S": {
+    "script": "emerald-loader-v2",
+    "created": "2026-09-15T20:03:26.258474",
+    "expires": "2027-09-15T20:03:26.258476"
+  },
+  "SH-A9TP-9SJB-RHPN": {
+    "script": "solar-hub-2",
+    "created": "2026-09-15T20:03:26.258583",
+    "expires": "2027-09-15T20:03:26.258588"
+  },
+  "SH-J3V3-CZ5G-8J6C": {
+    "script": "astral-hub",
+    "created": "2026-09-15T20:03:26.258621",
+    "expires": "2027-09-15T20:03:26.258623"
+  },
+  "SH-UUY6-EV6U-GUYQ": {
+    "script": "mega-optimizer-elite",
+    "created": "2026-09-15T20:03:26.258646",
+    "expires": "2027-09-15T20:03:26.258647"
+  },
+  "SH-CPEJ-G3WR-B83L": {
+    "script": "hyper-utility-pro",
+    "created": "2026-09-15T20:03:26.258666",
+    "expires": "2027-09-15T20:03:26.258667"
+  },
+  "SH-YAAB-9UQZ-ZTUJ": {
+    "script": "frost-bot-zero",
+    "created": "2026-09-15T20:03:26.258687",
+    "expires": "2027-09-15T20:03:26.258689"
+  },
+  "SH-HD2M-3W6R-MBVR": {
+    "script": "frost-utility-pro",
+    "created": "2026-09-15T20:03:26.258749",
+    "expires": "2027-09-15T20:03:26.258754"
+  },
+  "SH-UJD9-Z7ZN-JRV8": {
+    "script": "proto-bot-pro",
+    "created": "2026-09-15T20:03:26.258782",
+    "expires": "2027-09-15T20:03:26.258783"
+  },
+  "SH-LFVK-JPHA-JNS9": {
+    "script": "quasar-toolkit-elite",
+    "created": "2026-09-15T20:03:26.258861",
+    "expires": "2027-09-15T20:03:26.258863"
+  },
+  "SH-3PRT-Z3NK-CXB3": {
+    "script": "quasar-hub-3",
+    "created": "2026-09-15T20:03:26.258886",
+    "expires": "2027-09-15T20:03:26.258888"
+  },
+  "SH-8NLW-F8FL-C6S6": {
+    "script": "lunar-hub-3",
+    "created": "2026-09-15T20:03:26.258909",
+    "expires": "2027-09-15T20:03:26.258911"
+  },
+  "SH-HRZE-LVVF-NPLD": {
+    "script": "astral-coach-max",
+    "created": "2026-09-15T20:03:26.258944",
+    "expires": "2027-09-15T20:03:26.258945"
+  },
+  "SH-NBRQ-5RKJ-DFPK": {
+    "script": "nano-hub-2",
+    "created": "2026-09-15T20:03:26.258966",
+    "expires": "2027-09-15T20:03:26.258967"
+  },
+  "SH-FGFD-6YSA-9X7Z": {
+    "script": "lunar-hub-4",
+    "created": "2026-09-15T20:03:26.258988",
+    "expires": "2027-09-15T20:03:26.258989"
+  },
+  "SH-JR4P-95CL-V7GP": {
+    "script": "zephyr-toolkit-lite",
+    "created": "2026-09-15T20:03:26.259010",
+    "expires": "2027-09-15T20:03:26.259012"
+  },
+  "SH-XUFZ-9RCN-CENK": {
+    "script": "iron-hub",
+    "created": "2026-09-15T20:03:26.259033",
+    "expires": "2027-09-15T20:03:26.259035"
+  },
+  "SH-5QUF-9ZF9-PG9K": {
+    "script": "solar-hub-3",
+    "created": "2026-09-15T20:03:26.259055",
+    "expires": "2027-09-15T20:03:26.259057"
+  },
+  "SH-2HRS-EKF9-CV5K": {
+    "script": "emerald-module-lite",
+    "created": "2026-09-15T20:03:26.259124",
+    "expires": "2027-09-15T20:03:26.259126"
+  },
+  "SH-5CW6-BRSB-9HPT": {
+    "script": "apex-script-elite",
+    "created": "2026-09-15T20:03:26.259151",
+    "expires": "2027-09-15T20:03:26.259153"
+  },
+  "SH-72LQ-D2KJ-7XTG": {
+    "script": "emerald-assistant-zero",
+    "created": "2026-09-15T20:03:26.259170",
+    "expires": "2027-09-15T20:03:26.259171"
+  },
+  "SH-G7JK-PQMP-WX7C": {
+    "script": "golden-hub-6",
+    "created": "2026-09-15T20:03:26.259227",
+    "expires": "2027-09-15T20:03:26.259228"
+  },
+  "SH-LS6T-JWEC-WK32": {
+    "script": "frost-hub-2",
+    "created": "2026-09-15T20:03:26.259257",
+    "expires": "2027-09-15T20:03:26.259258"
+  },
+  "SH-7VRK-Z49W-NXHB": {
+    "script": "lunar-script-elite",
+    "created": "2026-09-15T20:03:26.259275",
+    "expires": "2027-09-15T20:03:26.259277"
+  },
+  "SH-GUFQ-76HV-76SS": {
+    "script": "storm-assistant-pro",
+    "created": "2026-09-15T20:03:26.259291",
+    "expires": "2027-09-15T20:03:26.259292"
+  },
+  "SH-WHLE-YYD7-88C2": {
+    "script": "titan-framework-max",
+    "created": "2026-09-15T20:03:26.259310",
+    "expires": "2027-09-15T20:03:26.259311"
+  },
+  "SH-WJ9N-RVFH-3QT5": {
+    "script": "astral-coach-max-2",
+    "created": "2026-09-15T20:03:26.259332",
+    "expires": "2027-09-15T20:03:26.259333"
+  },
+  "SH-2S2U-5UYE-RA5P": {
+    "script": "zephyr-loader-plus",
+    "created": "2026-09-15T20:03:26.259357",
+    "expires": "2027-09-15T20:03:26.259359"
+  },
+  "SH-4QL3-YVWR-W8PL": {
+    "script": "apex-hub",
+    "created": "2026-09-15T20:03:26.259377",
+    "expires": "2027-09-15T20:03:26.259378"
+  },
+  "SH-7YGY-ZWGR-UGPY": {
+    "script": "phantom-engine-ultra",
+    "created": "2026-09-15T20:03:26.259397",
+    "expires": "2027-09-15T20:03:26.259398"
+  },
+  "SH-3FW4-QGJJ-SEZE": {
+    "script": "shadow-utility-elite",
+    "created": "2026-09-15T20:03:26.259415",
+    "expires": "2027-09-15T20:03:26.259417"
+  },
+  "SH-VFXR-F6ZK-Y8JV": {
+    "script": "iron-utility-max",
+    "created": "2026-09-15T20:03:26.259438",
+    "expires": "2027-09-15T20:03:26.259440"
+  },
+  "SH-JB8Q-2YVN-SJZN": {
+    "script": "quasar-script-lite",
+    "created": "2026-09-15T20:03:26.259457",
+    "expires": "2027-09-15T20:03:26.259458"
+  },
+  "SH-PMVC-28DD-X2YM": {
+    "script": "cyber-forge-pro",
+    "created": "2026-09-15T20:03:26.259474",
+    "expires": "2027-09-15T20:03:26.259475"
+  },
+  "SH-JRKJ-TAQH-3N2B": {
+    "script": "solar-engine-zero",
+    "created": "2026-09-15T20:03:26.259493",
+    "expires": "2027-09-15T20:03:26.259495"
+  },
+  "SH-PJP6-X4MC-HEC2": {
+    "script": "nova-bot-elite",
+    "created": "2026-09-15T20:03:26.259519",
+    "expires": "2027-09-15T20:03:26.259520"
+  },
+  "SH-A32V-XLF7-GKJZ": {
+    "script": "solar-hub-4",
+    "created": "2026-09-15T20:03:26.259543",
+    "expires": "2027-09-15T20:03:26.259545"
+  },
+  "SH-MLSX-CSP5-8JV7": {
+    "script": "phantom-core-go",
+    "created": "2026-09-15T20:03:26.259565",
+    "expires": "2027-09-15T20:03:26.259567"
+  },
+  "SH-PBLW-5K9Z-Y6X2": {
+    "script": "nano-matrix-elite",
+    "created": "2026-09-15T20:03:26.259585",
+    "expires": "2027-09-15T20:03:26.259587"
+  },
+  "SH-EBY6-M79B-SZVX": {
+    "script": "hyper-suite-ultra",
+    "created": "2026-09-15T20:03:26.259607",
+    "expires": "2027-09-15T20:03:26.259609"
+  },
+  "SH-PZTV-ZXG4-BSKV": {
+    "script": "alpha-system-x",
+    "created": "2026-09-15T20:03:26.259624",
+    "expires": "2027-09-15T20:03:26.259625"
+  },
+  "SH-USYL-Y9QG-RK9A": {
+    "script": "proto-booster-v2",
+    "created": "2026-09-15T20:03:26.259647",
+    "expires": "2027-09-15T20:03:26.259649"
+  },
+  "SH-AZN7-FD89-QX5N": {
+    "script": "quasar-hub-4",
+    "created": "2026-09-15T20:03:26.259670",
+    "expires": "2027-09-15T20:03:26.259672"
+  },
+  "SH-7QQF-6T4J-MPBX": {
+    "script": "astral-loader-go",
+    "created": "2026-09-15T20:03:26.259697",
+    "expires": "2027-09-15T20:03:26.259698"
+  },
+  "SH-5ZM4-U2P8-N7E6": {
+    "script": "turbo-forge-plus",
+    "created": "2026-09-15T20:03:26.259715",
+    "expires": "2027-09-15T20:03:26.259716"
+  },
+  "SH-CWVG-AZDW-669F": {
+    "script": "hyper-hub-2",
+    "created": "2026-09-15T20:03:26.259735",
+    "expires": "2027-09-15T20:03:26.259736"
+  },
+  "SH-ZUN6-N2E7-4KG9": {
+    "script": "zephyr-toolkit-go",
+    "created": "2026-09-15T20:03:26.259759",
+    "expires": "2027-09-15T20:03:26.259760"
+  },
+  "SH-HGEX-WHXA-TH8V": {
+    "script": "frost-bot-pro",
+    "created": "2026-09-15T20:03:26.259782",
+    "expires": "2027-09-15T20:03:26.259784"
+  },
+  "SH-RYE8-KQ2D-B466": {
+    "script": "iron-system-x",
+    "created": "2026-09-15T20:03:26.259806",
+    "expires": "2027-09-15T20:03:26.259808"
+  },
+  "SH-C7M5-SYBA-C2JX": {
+    "script": "titan-matrix-ultra",
+    "created": "2026-09-15T20:03:26.259829",
+    "expires": "2027-09-15T20:03:26.259831"
+  },
+  "SH-6SEN-UCKK-EV3W": {
+    "script": "azure-engine-v2-2",
+    "created": "2026-09-15T20:03:26.259849",
+    "expires": "2027-09-15T20:03:26.259851"
+  },
+  "SH-NEFG-TW4T-NNAU": {
+    "script": "omega-hub-2",
+    "created": "2026-09-15T20:03:26.259870",
+    "expires": "2027-09-15T20:03:26.259871"
+  },
+  "SH-ZLX9-AMHW-8B74": {
+    "script": "nova-hub-4",
+    "created": "2026-09-15T20:03:26.259896",
+    "expires": "2027-09-15T20:03:26.259898"
+  },
+  "SH-YKVN-5L7L-WQLF": {
+    "script": "crimson-assistant-zero",
+    "created": "2026-09-15T20:03:26.259915",
+    "expires": "2027-09-15T20:03:26.259916"
+  },
+  "SH-PZH7-NCMR-YWHQ": {
+    "script": "frost-loader-go",
+    "created": "2026-09-15T20:03:26.259937",
+    "expires": "2027-09-15T20:03:26.259939"
+  },
+  "SH-DR49-UHLA-3DYJ": {
+    "script": "blade-pack-zero",
+    "created": "2026-09-15T20:03:26.259955",
+    "expires": "2027-09-15T20:03:26.259956"
+  },
+  "SH-FMHK-5T9A-AYPZ": {
+    "script": "phantom-matrix-lite",
+    "created": "2026-09-15T20:03:26.259975",
+    "expires": "2027-09-15T20:03:26.259976"
+  },
+  "SH-FYUH-4RKN-YWTV": {
+    "script": "blade-booster-pro-2",
+    "created": "2026-09-15T20:03:26.259999",
+    "expires": "2027-09-15T20:03:26.260000"
+  },
+  "SH-V4CE-ZMZ8-3VJ3": {
+    "script": "shadow-core-plus",
+    "created": "2026-09-15T20:03:26.260026",
+    "expires": "2027-09-15T20:03:26.260028"
+  },
+  "SH-3YSB-M66B-U2PC": {
+    "script": "proto-hub",
+    "created": "2026-09-15T20:03:26.260048",
+    "expires": "2027-09-15T20:03:26.260049"
+  },
+  "SH-PLJX-2D8K-9W3D": {
+    "script": "solar-system-lite",
+    "created": "2026-09-15T20:03:26.260069",
+    "expires": "2027-09-15T20:03:26.260070"
+  },
+  "SH-JNNC-PJSP-67FK": {
+    "script": "alpha-forge-plus",
+    "created": "2026-09-15T20:03:26.260094",
+    "expires": "2027-09-15T20:03:26.260096"
+  },
+  "SH-8ZA4-DWYA-DXMN": {
+    "script": "blade-bot-ultra",
+    "created": "2026-09-15T20:03:26.260117",
+    "expires": "2027-09-15T20:03:26.260118"
+  },
+  "SH-FDPC-6UHL-B92M": {
+    "script": "crimson-pack-max",
+    "created": "2026-09-15T20:03:26.260139",
+    "expires": "2027-09-15T20:03:26.260140"
+  },
+  "SH-MDLD-6BFL-U22N": {
+    "script": "quantum-core-max",
+    "created": "2026-09-15T20:03:26.260167",
+    "expires": "2027-09-15T20:03:26.260168"
+  },
+  "SH-RXCC-2LS4-25J5": {
+    "script": "phantom-hub-5",
+    "created": "2026-09-15T20:03:26.260189",
+    "expires": "2027-09-15T20:03:26.260190"
+  },
+  "SH-KSMW-K6ML-F5A8": {
+    "script": "apex-optimizer-max",
+    "created": "2026-09-15T20:03:26.260213",
+    "expires": "2027-09-15T20:03:26.260214"
+  },
+  "SH-SZ6Z-2MRF-ADUM": {
+    "script": "mega-hub-2",
+    "created": "2026-09-15T20:03:26.260235",
+    "expires": "2027-09-15T20:03:26.260237"
+  },
+  "SH-V36L-7CG2-NZDQ": {
+    "script": "alpha-hub-3",
+    "created": "2026-09-15T20:03:26.260264",
+    "expires": "2027-09-15T20:03:26.260265"
+  },
+  "SH-ZR77-RTF7-G2R8": {
+    "script": "zephyr-hub-5",
+    "created": "2026-09-15T20:03:26.260285",
+    "expires": "2027-09-15T20:03:26.260287"
+  },
+  "SH-S93U-TKFQ-EN5X": {
+    "script": "astral-hub-2",
+    "created": "2026-09-15T20:03:26.260313",
+    "expires": "2027-09-15T20:03:26.260314"
+  },
+  "SH-8VLP-767J-6ZN7": {
+    "script": "iron-hub-2",
+    "created": "2026-09-15T20:03:26.260334",
+    "expires": "2027-09-15T20:03:26.260335"
+  },
+  "SH-DWC7-B3WP-YVDG": {
+    "script": "lunar-hub-5",
+    "created": "2026-09-15T20:03:26.260357",
+    "expires": "2027-09-15T20:03:26.260358"
+  },
+  "SH-D2D6-LQ2U-2D2Y": {
+    "script": "proto-hub-2",
+    "created": "2026-09-15T20:03:26.260379",
+    "expires": "2027-09-15T20:03:26.260381"
+  },
+  "SH-NPKP-HYXY-UPTH": {
+    "script": "cyber-coach-pro",
+    "created": "2026-09-15T20:03:26.260404",
+    "expires": "2027-09-15T20:03:26.260405"
+  },
+  "SH-RCSV-5VFA-ZCXV": {
+    "script": "emerald-coach-elite",
+    "created": "2026-09-15T20:03:26.260423",
+    "expires": "2027-09-15T20:03:26.260425"
+  },
+  "SH-PTGS-YGRC-QQH2": {
+    "script": "hyper-module-zero",
+    "created": "2026-09-15T20:03:26.260450",
+    "expires": "2027-09-15T20:03:26.260451"
+  },
+  "SH-CVC3-WXXF-XAU2": {
+    "script": "emerald-optimizer-go-2",
+    "created": "2026-09-15T20:03:26.260470",
+    "expires": "2027-09-15T20:03:26.260471"
+  },
+  "SH-DD53-CXRH-6VSJ": {
+    "script": "quantum-assistant-pro",
+    "created": "2026-09-15T20:03:26.260490",
+    "expires": "2027-09-15T20:03:26.260491"
+  },
+  "SH-WJ8A-5EVB-UPRV": {
+    "script": "solaris-loader-zero",
+    "created": "2026-09-15T20:03:26.260515",
+    "expires": "2027-09-15T20:03:26.260517"
+  },
+  "SH-96DX-3ACJ-HRCW": {
+    "script": "cyber-core-x",
+    "created": "2026-09-15T20:03:26.260533",
+    "expires": "2027-09-15T20:03:26.260534"
+  },
+  "SH-ASY5-7R6S-T8KG": {
+    "script": "quantum-optimizer-pro",
+    "created": "2026-09-15T20:03:26.260544",
+    "expires": "2027-09-15T20:03:26.260545"
+  },
+  "SH-J6HU-2S2W-KTKQ": {
+    "script": "blade-matrix-max",
+    "created": "2026-09-15T20:03:26.260557",
+    "expires": "2027-09-15T20:03:26.260558"
+  },
+  "SH-L6SE-DXWD-U57M": {
+    "script": "titan-hub-3",
+    "created": "2026-09-15T20:03:26.260572",
+    "expires": "2027-09-15T20:03:26.260573"
+  },
+  "SH-KSFM-AYJY-U9GX": {
+    "script": "solaris-hub-5",
+    "created": "2026-09-15T20:03:26.260589",
+    "expires": "2027-09-15T20:03:26.260590"
+  },
+  "SH-YLV5-WN5A-L57X": {
+    "script": "nova-bot-ultra",
+    "created": "2026-09-15T20:03:26.260605",
+    "expires": "2027-09-15T20:03:26.260605"
+  },
+  "SH-8RXG-YU4N-EGS2": {
+    "script": "golden-hub-7",
+    "created": "2026-09-15T20:03:26.260618",
+    "expires": "2027-09-15T20:03:26.260619"
+  },
+  "SH-6XXD-4W6H-MLZW": {
+    "script": "solar-core-lite",
+    "created": "2026-09-15T20:03:26.260634",
+    "expires": "2027-09-15T20:03:26.260635"
+  },
+  "SH-AV58-3MAT-JFRV": {
+    "script": "storm-hub-3",
+    "created": "2026-09-15T20:03:26.260652",
+    "expires": "2027-09-15T20:03:26.260653"
+  },
+  "SH-W4KT-UBMA-CNAU": {
+    "script": "phantom-system-pro",
+    "created": "2026-09-15T20:03:26.260665",
+    "expires": "2027-09-15T20:03:26.260666"
+  },
+  "SH-YV5N-ZCU2-YQ45": {
+    "script": "alpha-assistant-zero",
+    "created": "2026-09-15T20:03:26.260680",
+    "expires": "2027-09-15T20:03:26.260681"
+  },
+  "SH-P2SP-XULC-63PH": {
+    "script": "alpha-module-pro",
+    "created": "2026-09-15T20:03:26.260692",
+    "expires": "2027-09-15T20:03:26.260693"
+  },
+  "SH-3T9V-P4TZ-UFX9": {
+    "script": "apex-hub-2",
+    "created": "2026-09-15T20:03:26.260706",
+    "expires": "2027-09-15T20:03:26.260707"
+  },
+  "SH-9DSD-BB59-QVFV": {
+    "script": "proto-system-lite",
+    "created": "2026-09-15T20:03:26.260718",
+    "expires": "2027-09-15T20:03:26.260718"
+  },
+  "SH-KJ5J-PPER-D99A": {
+    "script": "emerald-bot-v2",
+    "created": "2026-09-15T20:03:26.260729",
+    "expires": "2027-09-15T20:03:26.260730"
+  },
+  "SH-JDHJ-HPXS-7XAG": {
+    "script": "zephyr-engine-elite",
+    "created": "2026-09-15T20:03:26.260743",
+    "expires": "2027-09-15T20:03:26.260744"
+  },
+  "SH-3CBQ-NBN2-BEBP": {
+    "script": "hyper-utility-elite",
+    "created": "2026-09-15T20:03:26.260755",
+    "expires": "2027-09-15T20:03:26.260756"
+  },
+  "SH-7DJK-XAE8-QPWE": {
+    "script": "cyber-enhancer-zero",
+    "created": "2026-09-15T20:03:26.260766",
+    "expires": "2027-09-15T20:03:26.260767"
+  },
+  "SH-H8Y5-STR7-DPL7": {
+    "script": "titan-hub-4",
+    "created": "2026-09-15T20:03:26.260778",
+    "expires": "2027-09-15T20:03:26.260778"
+  },
+  "SH-G2ZU-6XYB-Z2JC": {
+    "script": "omega-module-max",
+    "created": "2026-09-15T20:03:26.260791",
+    "expires": "2027-09-15T20:03:26.260791"
+  },
+  "SH-27FX-U2AR-4YUV": {
+    "script": "astral-assistant-x",
+    "created": "2026-09-15T20:03:26.260803",
+    "expires": "2027-09-15T20:03:26.260804"
+  },
+  "SH-VTFD-LTUZ-9B49": {
+    "script": "emerald-module-v2",
+    "created": "2026-09-15T20:03:26.260815",
+    "expires": "2027-09-15T20:03:26.260816"
+  },
+  "SH-CT65-VBQS-JVQR": {
+    "script": "astral-core-zero",
+    "created": "2026-09-15T20:03:26.260829",
+    "expires": "2027-09-15T20:03:26.260830"
+  },
+  "SH-YPNR-JM9Q-LJQK": {
+    "script": "emerald-engine-v2",
+    "created": "2026-09-15T20:03:26.260844",
+    "expires": "2027-09-15T20:03:26.260845"
+  },
+  "SH-TS2P-CKWG-F3BZ": {
+    "script": "cyber-utility-max-2",
+    "created": "2026-09-15T20:03:26.260857",
+    "expires": "2027-09-15T20:03:26.260858"
+  },
+  "SH-K9Y9-867H-JZEC": {
+    "script": "quasar-framework-v2",
+    "created": "2026-09-15T20:03:26.260870",
+    "expires": "2027-09-15T20:03:26.260871"
+  },
+  "SH-4NPZ-V3PV-LR77": {
+    "script": "storm-loader-max",
+    "created": "2026-09-15T20:03:26.260882",
+    "expires": "2027-09-15T20:03:26.260883"
+  },
+  "SH-TS75-RHVC-BGCV": {
+    "script": "shadow-booster-v2",
+    "created": "2026-09-15T20:03:26.260894",
+    "expires": "2027-09-15T20:03:26.260894"
+  },
+  "SH-XTJC-UP3X-UFG4": {
+    "script": "shadow-assistant-lite",
+    "created": "2026-09-15T20:03:26.260907",
+    "expires": "2027-09-15T20:03:26.260907"
+  },
+  "SH-DD72-MSNJ-C9E9": {
+    "script": "emerald-engine-max-2",
+    "created": "2026-09-15T20:03:26.261091",
+    "expires": "2027-09-15T20:03:26.261099"
+  },
+  "SH-WNFK-C2U4-TU2Z": {
+    "script": "shadow-pack-plus",
+    "created": "2026-09-15T20:03:26.261128",
+    "expires": "2027-09-15T20:03:26.261130"
+  },
+  "SH-KN85-LRB6-2J4F": {
+    "script": "frost-matrix-ultra",
+    "created": "2026-09-15T20:03:26.261157",
+    "expires": "2027-09-15T20:03:26.261158"
+  },
+  "SH-UFS3-XH83-GHY5": {
+    "script": "shadow-matrix-go",
+    "created": "2026-09-15T20:03:26.261183",
+    "expires": "2027-09-15T20:03:26.261184"
+  },
+  "SH-R38S-RTZ9-253L": {
+    "script": "astral-loader-max",
+    "created": "2026-09-15T20:03:26.261206",
+    "expires": "2027-09-15T20:03:26.261207"
+  },
+  "SH-KR58-7HGW-UPA7": {
+    "script": "emerald-toolkit-x",
+    "created": "2026-09-15T20:03:26.261228",
+    "expires": "2027-09-15T20:03:26.261229"
+  },
+  "SH-G326-98D3-96BK": {
+    "script": "azure-utility-lite",
+    "created": "2026-09-15T20:03:26.261330",
+    "expires": "2027-09-15T20:03:26.261336"
+  },
+  "SH-EUYM-JEQK-GS48": {
+    "script": "quantum-hub-4",
+    "created": "2026-09-15T20:03:26.261436",
+    "expires": "2027-09-15T20:03:26.261440"
+  },
+  "SH-83MR-F9B6-VZKL": {
+    "script": "astral-hub-max",
+    "created": "2026-09-15T20:03:26.261544",
+    "expires": "2027-09-15T20:03:26.261546"
+  },
+  "SH-RD5A-WV3L-3TWF": {
+    "script": "azure-pack-pro",
+    "created": "2026-09-15T20:03:26.261611",
+    "expires": "2027-09-15T20:03:26.261614"
+  },
+  "SH-KE2J-FBKJ-WDK8": {
+    "script": "zephyr-hub-6",
+    "created": "2026-09-15T20:03:26.261687",
+    "expires": "2027-09-15T20:03:26.261690"
+  },
+  "SH-CVCJ-8TQ6-H3L6": {
+    "script": "omega-framework-x",
+    "created": "2026-09-15T20:03:26.262053",
+    "expires": "2027-09-15T20:03:26.262060"
+  },
+  "SH-G35F-BZFB-AWNB": {
+    "script": "turbo-hub",
+    "created": "2026-09-15T20:03:26.262196",
+    "expires": "2027-09-15T20:03:26.262200"
+  },
+  "SH-Z9GG-7GXV-KXFX": {
+    "script": "iron-hub-3",
+    "created": "2026-09-15T20:03:26.262224",
+    "expires": "2027-09-15T20:03:26.262226"
+  },
+  "SH-JQ5P-KBDY-Q2RZ": {
+    "script": "shadow-hub-4",
+    "created": "2026-09-15T20:03:26.262242",
+    "expires": "2027-09-15T20:03:26.262243"
+  },
+  "SH-WT74-94XH-2QHH": {
+    "script": "lunar-toolkit-go",
+    "created": "2026-09-15T20:03:26.262254",
+    "expires": "2027-09-15T20:03:26.262255"
+  },
+  "SH-U5C6-8B69-7KQK": {
+    "script": "omega-module-pro",
+    "created": "2026-09-15T20:03:26.262265",
+    "expires": "2027-09-15T20:03:26.262266"
+  },
+  "SH-PZ5E-2A8K-2WPY": {
+    "script": "mega-engine-plus",
+    "created": "2026-09-15T20:03:26.262279",
+    "expires": "2027-09-15T20:03:26.262280"
+  },
+  "SH-EZMZ-T2LM-UC3R": {
+    "script": "blade-matrix-ultra",
+    "created": "2026-09-15T20:03:26.262293",
+    "expires": "2027-09-15T20:03:26.262293"
+  },
+  "SH-THAM-CU5U-M89C": {
+    "script": "mega-matrix-zero-2",
+    "created": "2026-09-15T20:03:26.262305",
+    "expires": "2027-09-15T20:03:26.262306"
+  },
+  "SH-WN5A-2R2U-CWWE": {
+    "script": "nano-hub-3",
+    "created": "2026-09-15T20:03:26.262317",
+    "expires": "2027-09-15T20:03:26.262318"
+  },
+  "SH-67VA-F2AT-QWQ5": {
+    "script": "vortex-enhancer-go",
+    "created": "2026-09-15T20:03:26.262328",
+    "expires": "2027-09-15T20:03:26.262329"
+  },
+  "SH-LQE6-2BJD-P2EE": {
+    "script": "quasar-hub-5",
+    "created": "2026-09-15T20:03:26.262348",
+    "expires": "2027-09-15T20:03:26.262349"
+  },
+  "SH-V2JB-EZH5-J9P3": {
+    "script": "lunar-hub-6",
+    "created": "2026-09-15T20:03:26.262361",
+    "expires": "2027-09-15T20:03:26.262362"
+  },
+  "SH-GVAL-K8CD-22QR": {
+    "script": "storm-core-go",
+    "created": "2026-09-15T20:03:26.262374",
+    "expires": "2027-09-15T20:03:26.262374"
+  },
+  "SH-8EU4-8DQL-288B": {
+    "script": "nova-script-elite",
+    "created": "2026-09-15T20:03:26.262384",
+    "expires": "2027-09-15T20:03:26.262385"
+  },
+  "SH-65VU-8PME-GQX5": {
+    "script": "crimson-module-ultra",
+    "created": "2026-09-15T20:03:26.262396",
+    "expires": "2027-09-15T20:03:26.262397"
+  },
+  "SH-N2DW-WFRQ-QFXA": {
+    "script": "phantom-hub-6",
+    "created": "2026-09-15T20:03:26.262408",
+    "expires": "2027-09-15T20:03:26.262408"
+  },
+  "SH-97UG-6NUE-73X3": {
+    "script": "solar-engine-plus",
+    "created": "2026-09-15T20:03:26.262420",
+    "expires": "2027-09-15T20:03:26.262420"
+  },
+  "SH-NNVR-JHDY-QXC2": {
+    "script": "phantom-system-max",
+    "created": "2026-09-15T20:03:26.262432",
+    "expires": "2027-09-15T20:03:26.262433"
+  },
+  "SH-RBGP-R2F3-HX7V": {
+    "script": "blade-hub-4",
+    "created": "2026-09-15T20:03:26.262445",
+    "expires": "2027-09-15T20:03:26.262447"
+  },
+  "SH-5EVK-NV5S-JYSE": {
+    "script": "blade-hub-max",
+    "created": "2026-09-15T20:03:26.262466",
+    "expires": "2027-09-15T20:03:26.262467"
+  },
+  "SH-P93H-WYH3-D54H": {
+    "script": "lunar-booster-go",
+    "created": "2026-09-15T20:03:26.262481",
+    "expires": "2027-09-15T20:03:26.262481"
+  },
+  "SH-U5ZK-BDL5-5VA7": {
+    "script": "zephyr-framework-ultra",
+    "created": "2026-09-15T20:03:26.262496",
+    "expires": "2027-09-15T20:03:26.262498"
+  },
+  "SH-NL2Z-NVEE-EBY5": {
+    "script": "phantom-hub-7",
+    "created": "2026-09-15T20:03:26.262517",
+    "expires": "2027-09-15T20:03:26.262518"
+  },
+  "SH-URWU-7H94-GNXS": {
+    "script": "turbo-coach-lite",
+    "created": "2026-09-15T20:03:26.262532",
+    "expires": "2027-09-15T20:03:26.262533"
+  },
+  "SH-4YPM-M5MH-2SDL": {
+    "script": "nano-optimizer-plus",
+    "created": "2026-09-15T20:03:26.262548",
+    "expires": "2027-09-15T20:03:26.262549"
+  },
+  "SH-FHPQ-VCHU-DGXE": {
+    "script": "crimson-enhancer-zero",
+    "created": "2026-09-15T20:03:26.262565",
+    "expires": "2027-09-15T20:03:26.262566"
+  },
+  "SH-DUSF-EYVM-5SZY": {
+    "script": "lunar-assistant-v2",
+    "created": "2026-09-15T20:03:26.262578",
+    "expires": "2027-09-15T20:03:26.262579"
+  },
+  "SH-2N9F-NAUN-TQ66": {
+    "script": "emerald-toolkit-pro",
+    "created": "2026-09-15T20:03:26.262595",
+    "expires": "2027-09-15T20:03:26.262596"
+  },
+  "SH-CS9K-Z363-7K2F": {
+    "script": "lunar-enhancer-max",
+    "created": "2026-09-15T20:03:26.262618",
+    "expires": "2027-09-15T20:03:26.262619"
+  },
+  "SH-HDFG-YB3W-KDLB": {
+    "script": "vortex-system-elite",
+    "created": "2026-09-15T20:03:26.262636",
+    "expires": "2027-09-15T20:03:26.262637"
+  },
+  "SH-J5KD-LTGQ-QTPQ": {
+    "script": "alpha-pack-elite",
+    "created": "2026-09-15T20:03:26.262660",
+    "expires": "2027-09-15T20:03:26.262661"
+  },
+  "SH-Q9PC-RTNQ-PR2X": {
+    "script": "solaris-suite-go",
+    "created": "2026-09-15T20:03:26.262681",
+    "expires": "2027-09-15T20:03:26.262683"
+  },
+  "SH-RV79-VAM2-DSRX": {
+    "script": "cosmic-hub-3",
+    "created": "2026-09-15T20:03:26.262706",
+    "expires": "2027-09-15T20:03:26.262707"
+  },
+  "SH-KVEE-PQPK-M9XD": {
+    "script": "titan-module-lite",
+    "created": "2026-09-15T20:03:26.262727",
+    "expires": "2027-09-15T20:03:26.262728"
+  },
+  "SH-WAWN-F8R6-8CBE": {
+    "script": "cosmic-system-go-2",
+    "created": "2026-09-15T20:03:26.262748",
+    "expires": "2027-09-15T20:03:26.262749"
+  },
+  "SH-9VZF-SUX5-4U25": {
+    "script": "proto-engine-lite",
+    "created": "2026-09-15T20:03:26.262769",
+    "expires": "2027-09-15T20:03:26.262770"
+  },
+  "SH-F63T-TKBA-Z78L": {
+    "script": "proto-suite-go",
+    "created": "2026-09-15T20:03:26.262793",
+    "expires": "2027-09-15T20:03:26.262794"
+  },
+  "SH-GGZ7-HGKL-46Q7": {
+    "script": "golden-hub-8",
+    "created": "2026-09-15T20:03:26.262818",
+    "expires": "2027-09-15T20:03:26.262820"
+  },
+  "SH-643N-3NS9-CHEK": {
+    "script": "nano-hub-4",
+    "created": "2026-09-15T20:03:26.262845",
+    "expires": "2027-09-15T20:03:26.262847"
+  },
+  "SH-HCA4-CZ94-9XZE": {
+    "script": "phantom-loader-elite",
+    "created": "2026-09-15T20:03:26.262870",
+    "expires": "2027-09-15T20:03:26.262872"
+  },
+  "SH-DS3T-UH73-MEJQ": {
+    "script": "solar-framework-v2",
+    "created": "2026-09-15T20:03:26.262894",
+    "expires": "2027-09-15T20:03:26.262895"
+  },
+  "SH-75UC-A2CN-BVEA": {
+    "script": "shadow-utility-lite",
+    "created": "2026-09-15T20:03:26.262914",
+    "expires": "2027-09-15T20:03:26.262916"
+  },
+  "SH-48ZB-CMA2-KVF2": {
+    "script": "nano-hub-5",
+    "created": "2026-09-15T20:03:26.262940",
+    "expires": "2027-09-15T20:03:26.262941"
+  },
+  "SH-E52X-P35H-XP3E": {
+    "script": "vortex-forge-v2",
+    "created": "2026-09-15T20:03:26.262963",
+    "expires": "2027-09-15T20:03:26.262965"
+  },
+  "SH-KLV6-TZQC-YFPX": {
+    "script": "blade-engine-lite",
+    "created": "2026-09-15T20:03:26.262982",
+    "expires": "2027-09-15T20:03:26.262983"
+  },
+  "SH-QBVP-BHHQ-KBPP": {
+    "script": "mega-enhancer-zero",
+    "created": "2026-09-15T20:03:26.263000",
+    "expires": "2027-09-15T20:03:26.263001"
+  },
+  "SH-37QN-A23V-H6HC": {
+    "script": "cyber-bot-pro",
+    "created": "2026-09-15T20:03:26.263019",
+    "expires": "2027-09-15T20:03:26.263020"
+  },
+  "SH-SVYT-P2CX-FC4D": {
+    "script": "titan-loader-v2",
+    "created": "2026-09-15T20:03:26.263037",
+    "expires": "2027-09-15T20:03:26.263038"
+  },
+  "SH-BE8R-L36X-N6N5": {
+    "script": "quasar-hub-6",
+    "created": "2026-09-15T20:03:26.263059",
+    "expires": "2027-09-15T20:03:26.263061"
+  },
+  "SH-PRAT-7XFY-GVCU": {
+    "script": "azure-forge-max",
+    "created": "2026-09-15T20:03:26.263081",
+    "expires": "2027-09-15T20:03:26.263082"
+  },
+  "SH-A77K-2WLX-US24": {
+    "script": "cyber-engine-lite",
+    "created": "2026-09-15T20:03:26.263103",
+    "expires": "2027-09-15T20:03:26.263104"
+  },
+  "SH-SA49-9SDC-KLA7": {
+    "script": "quantum-utility-elite",
+    "created": "2026-09-15T20:03:26.263131",
+    "expires": "2027-09-15T20:03:26.263133"
+  },
+  "SH-GN29-M3KV-P5Q8": {
+    "script": "iron-booster-elite",
+    "created": "2026-09-15T20:03:26.263156",
+    "expires": "2027-09-15T20:03:26.263158"
+  },
+  "SH-VMP2-VURC-Y7GB": {
+    "script": "solaris-script-lite",
+    "created": "2026-09-15T20:03:26.263184",
+    "expires": "2027-09-15T20:03:26.263185"
+  },
+  "SH-356P-DPQF-576N": {
+    "script": "phantom-loader-max",
+    "created": "2026-09-15T20:03:26.263206",
+    "expires": "2027-09-15T20:03:26.263208"
+  },
+  "SH-X36W-E6SX-4GPJ": {
+    "script": "vortex-utility-lite-2",
+    "created": "2026-09-15T20:03:26.263226",
+    "expires": "2027-09-15T20:03:26.263228"
+  },
+  "SH-VR2U-ZLTQ-UWU6": {
+    "script": "shadow-coach-lite",
+    "created": "2026-09-15T20:03:26.263249",
+    "expires": "2027-09-15T20:03:26.263250"
+  },
+  "SH-LVFS-SN46-DX5R": {
+    "script": "hyper-toolkit-go",
+    "created": "2026-09-15T20:03:26.263269",
+    "expires": "2027-09-15T20:03:26.263270"
+  },
+  "SH-8EBT-F76Q-8GMR": {
+    "script": "proto-toolkit-ultra",
+    "created": "2026-09-15T20:03:26.263297",
+    "expires": "2027-09-15T20:03:26.263298"
+  },
+  "SH-3YGM-LPWJ-44L5": {
+    "script": "shadow-hub-ultra",
+    "created": "2026-09-15T20:03:26.263317",
+    "expires": "2027-09-15T20:03:26.263318"
+  },
+  "SH-RRRL-JCFP-M59C": {
+    "script": "quasar-system-lite",
+    "created": "2026-09-15T20:03:26.263337",
+    "expires": "2027-09-15T20:03:26.263338"
+  },
+  "SH-S56E-5LHZ-A3FX": {
+    "script": "nova-hub-5",
+    "created": "2026-09-15T20:03:26.263365",
+    "expires": "2027-09-15T20:03:26.263367"
+  },
+  "SH-RFUH-HVDW-BGZM": {
+    "script": "quasar-bot-lite",
+    "created": "2026-09-15T20:03:26.263388",
+    "expires": "2027-09-15T20:03:26.263389"
+  },
+  "SH-HEAY-5QL2-56RU": {
+    "script": "storm-hub-4",
+    "created": "2026-09-15T20:03:26.263409",
+    "expires": "2027-09-15T20:03:26.263410"
+  },
+  "SH-URDV-8U6Z-64C3": {
+    "script": "mega-hub-3",
+    "created": "2026-09-15T20:03:26.263436",
+    "expires": "2027-09-15T20:03:26.263438"
+  },
+  "SH-NLNL-VMKA-2GEN": {
+    "script": "titan-coach-pro",
+    "created": "2026-09-15T20:03:26.263455",
+    "expires": "2027-09-15T20:03:26.263456"
+  },
+  "SH-7HUS-ZLYC-CBD3": {
+    "script": "phantom-hub-zero",
+    "created": "2026-09-15T20:03:26.263478",
+    "expires": "2027-09-15T20:03:26.263479"
+  },
+  "SH-VTDW-2RU9-MUDJ": {
+    "script": "emerald-hub-2",
+    "created": "2026-09-15T20:03:26.263498",
+    "expires": "2027-09-15T20:03:26.263500"
+  },
+  "SH-D5UH-4U8F-SA5C": {
+    "script": "cyber-coach-zero",
+    "created": "2026-09-15T20:03:26.263520",
+    "expires": "2027-09-15T20:03:26.263522"
+  },
+  "SH-BV5T-SBLT-XYR4": {
+    "script": "shadow-hub-5",
+    "created": "2026-09-15T20:03:26.263546",
+    "expires": "2027-09-15T20:03:26.263547"
+  },
+  "SH-E6GH-FRY5-8SNW": {
+    "script": "iron-loader-lite",
+    "created": "2026-09-15T20:03:26.263567",
+    "expires": "2027-09-15T20:03:26.263568"
+  },
+  "SH-S2G2-MLW5-NWEB": {
+    "script": "blade-hub-5",
+    "created": "2026-09-15T20:03:26.263588",
+    "expires": "2027-09-15T20:03:26.263590"
+  },
+  "SH-X8CD-2QAX-8TWQ": {
+    "script": "iron-optimizer-x",
+    "created": "2026-09-15T20:03:26.263611",
+    "expires": "2027-09-15T20:03:26.263612"
+  },
+  "SH-28PB-YC6X-NMBQ": {
+    "script": "turbo-coach-v2",
+    "created": "2026-09-15T20:03:26.263633",
+    "expires": "2027-09-15T20:03:26.263634"
+  },
+  "SH-RNDK-9EWV-5VLG": {
+    "script": "astral-utility-plus",
+    "created": "2026-09-15T20:03:26.263667",
+    "expires": "2027-09-15T20:03:26.263669"
+  },
+  "SH-7VDK-P3MV-MU5X": {
+    "script": "emerald-engine-go",
+    "created": "2026-09-15T20:03:26.263688",
+    "expires": "2027-09-15T20:03:26.263689"
+  },
+  "SH-T96W-HZSX-Q9Z5": {
+    "script": "lunar-booster-x",
+    "created": "2026-09-15T20:03:26.263704",
+    "expires": "2027-09-15T20:03:26.263705"
+  },
+  "SH-7STH-9MW5-KSQQ": {
+    "script": "blade-hub-v2",
+    "created": "2026-09-15T20:03:26.263729",
+    "expires": "2027-09-15T20:03:26.263730"
+  },
+  "SH-VTN2-RSY5-KHSG": {
+    "script": "nano-hub-6",
+    "created": "2026-09-15T20:03:26.263753",
+    "expires": "2027-09-15T20:03:26.263754"
+  },
+  "SH-XZHV-NJBB-8Z4X": {
+    "script": "vortex-core-x",
+    "created": "2026-09-15T20:03:26.263774",
+    "expires": "2027-09-15T20:03:26.263776"
+  },
+  "SH-GLLS-UYK6-5LS8": {
+    "script": "lunar-bot-x",
+    "created": "2026-09-15T20:03:26.263798",
+    "expires": "2027-09-15T20:03:26.263799"
+  },
+  "SH-FPYL-LJYY-FQ7C": {
+    "script": "blade-engine-x",
+    "created": "2026-09-15T20:03:26.263843",
+    "expires": "2027-09-15T20:03:26.263845"
+  },
+  "SH-GN7B-G6FU-MGT6": {
+    "script": "apex-booster-elite",
+    "created": "2026-09-15T20:03:26.263869",
+    "expires": "2027-09-15T20:03:26.263871"
+  },
+  "SH-SXYC-8VYL-5NTL": {
+    "script": "titan-hub-5",
+    "created": "2026-09-15T20:03:26.263892",
+    "expires": "2027-09-15T20:03:26.263894"
+  },
+  "SH-3ASF-DJ2X-RETN": {
+    "script": "turbo-hub-2",
+    "created": "2026-09-15T20:03:26.263912",
+    "expires": "2027-09-15T20:03:26.263914"
+  },
+  "SH-PQ4L-BYVR-2LLM": {
+    "script": "shadow-hub-6",
+    "created": "2026-09-15T20:03:26.263944",
+    "expires": "2027-09-15T20:03:26.263945"
+  },
+  "SH-UG26-GJBF-QU6Z": {
+    "script": "nano-coach-zero",
+    "created": "2026-09-15T20:03:26.263970",
+    "expires": "2027-09-15T20:03:26.263972"
+  },
+  "SH-7LEA-TP29-RRDE": {
+    "script": "emerald-hub-v2",
+    "created": "2026-09-15T20:03:26.264000",
+    "expires": "2027-09-15T20:03:26.264001"
+  },
+  "SH-SE2F-L4PE-LRHA": {
+    "script": "shadow-optimizer-go",
+    "created": "2026-09-15T20:03:26.264025",
+    "expires": "2027-09-15T20:03:26.264026"
+  },
+  "SH-AJ7G-9F7W-V9C2": {
+    "script": "alpha-hub-4",
+    "created": "2026-09-15T20:03:26.264053",
+    "expires": "2027-09-15T20:03:26.264055"
+  },
+  "SH-X8A3-CEWR-CMKD": {
+    "script": "astral-toolkit-plus",
+    "created": "2026-09-15T20:03:26.264077",
+    "expires": "2027-09-15T20:03:26.264078"
+  },
+  "SH-GRNC-AMMW-BA64": {
+    "script": "omega-loader-x",
+    "created": "2026-09-15T20:03:26.264097",
+    "expires": "2027-09-15T20:03:26.264098"
+  },
+  "SH-ZNLK-ZNNH-FWP4": {
+    "script": "solar-hub-5",
+    "created": "2026-09-15T20:03:26.264119",
+    "expires": "2027-09-15T20:03:26.264120"
+  },
+  "SH-EA9T-RFWS-MTAG": {
+    "script": "shadow-pack-v2",
+    "created": "2026-09-15T20:03:26.264145",
+    "expires": "2027-09-15T20:03:26.264147"
+  },
+  "SH-UNHU-E7X7-SPVZ": {
+    "script": "cosmic-script-pro",
+    "created": "2026-09-15T20:03:26.264169",
+    "expires": "2027-09-15T20:03:26.264171"
+  },
+  "SH-QQX7-DNYM-HQYT": {
+    "script": "solaris-engine-zero",
+    "created": "2026-09-15T20:03:26.264194",
+    "expires": "2027-09-15T20:03:26.264195"
+  },
+  "SH-HGDS-9XQT-E5V9": {
+    "script": "cyber-coach-x",
+    "created": "2026-09-15T20:03:26.264215",
+    "expires": "2027-09-15T20:03:26.264217"
+  },
+  "SH-L9UD-PDJM-U45F": {
+    "script": "zephyr-hub-7",
+    "created": "2026-09-15T20:03:26.264236",
+    "expires": "2027-09-15T20:03:26.264237"
+  },
+  "SH-K28F-2LKS-JXS6": {
+    "script": "zephyr-assistant-zero",
+    "created": "2026-09-15T20:03:26.264374",
+    "expires": "2027-09-15T20:03:26.264380"
+  },
+  "SH-S7AQ-6V4X-2YGP": {
+    "script": "cyber-enhancer-go",
+    "created": "2026-09-15T20:03:26.264409",
+    "expires": "2027-09-15T20:03:26.264410"
+  },
+  "SH-BV8U-C56U-JUX4": {
+    "script": "zephyr-matrix-pro",
+    "created": "2026-09-15T20:03:26.264428",
+    "expires": "2027-09-15T20:03:26.264429"
+  },
+  "SH-4N9F-C4XS-PVB6": {
+    "script": "nano-booster-v2",
+    "created": "2026-09-15T20:03:26.264483",
+    "expires": "2027-09-15T20:03:26.264508"
+  },
+  "SH-K963-MSDX-W5KN": {
+    "script": "lunar-hub-7",
+    "created": "2026-09-15T20:03:26.264538",
+    "expires": "2027-09-15T20:03:26.264539"
+  },
+  "SH-HW8V-GQ9J-VMLL": {
+    "script": "lunar-system-max",
+    "created": "2026-09-15T20:03:26.264614",
+    "expires": "2027-09-15T20:03:26.264618"
+  },
+  "SH-2YMP-ZRRN-F8CV": {
+    "script": "turbo-hub-3",
+    "created": "2026-09-15T20:03:26.264652",
+    "expires": "2027-09-15T20:03:26.264653"
+  },
+  "SH-X39Y-LZUY-98RP": {
+    "script": "solar-optimizer-pro",
+    "created": "2026-09-15T20:03:26.264680",
+    "expires": "2027-09-15T20:03:26.264682"
+  },
+  "SH-W9T3-69JY-9SGW": {
+    "script": "vortex-forge-lite",
+    "created": "2026-09-15T20:03:26.264761",
+    "expires": "2027-09-15T20:03:26.264763"
+  },
+  "SH-XVMB-TYEW-67J3": {
+    "script": "blade-hub-6",
+    "created": "2026-09-15T20:03:26.264780",
+    "expires": "2027-09-15T20:03:26.264781"
+  },
+  "SH-2SV9-DD8Q-DYZB": {
+    "script": "hyper-enhancer-ultra",
+    "created": "2026-09-15T20:03:26.264798",
+    "expires": "2027-09-15T20:03:26.264800"
+  },
+  "SH-7DNM-QHB6-3L6S": {
+    "script": "nova-hub-6",
+    "created": "2026-09-15T20:03:26.264818",
+    "expires": "2027-09-15T20:03:26.264819"
+  },
+  "SH-M8BK-P59D-E797": {
+    "script": "alpha-hub-5",
+    "created": "2026-09-15T20:03:26.264875",
+    "expires": "2027-09-15T20:03:26.264880"
+  },
+  "SH-6L26-HNNU-WHAU": {
+    "script": "turbo-hub-4",
+    "created": "2026-09-15T20:03:26.265811",
+    "expires": "2027-09-15T20:03:26.265815"
+  },
+  "SH-C53F-RGPD-2JA9": {
+    "script": "azure-suite-plus",
+    "created": "2026-09-15T20:03:26.265846",
+    "expires": "2027-09-15T20:03:26.265847"
+  },
+  "SH-357G-N9NJ-RMLC": {
+    "script": "quasar-matrix-lite",
+    "created": "2026-09-15T20:03:26.265865",
+    "expires": "2027-09-15T20:03:26.265866"
+  },
+  "SH-LTPS-9EYX-S98U": {
+    "script": "iron-core-go",
+    "created": "2026-09-15T20:03:26.265883",
+    "expires": "2027-09-15T20:03:26.265884"
+  },
+  "SH-5TH4-ZL8M-KFVR": {
+    "script": "azure-hub",
+    "created": "2026-09-15T20:03:26.265907",
+    "expires": "2027-09-15T20:03:26.265908"
+  },
+  "SH-FMFE-6NYM-UEYB": {
+    "script": "omega-hub-3",
+    "created": "2026-09-15T20:03:26.265944",
+    "expires": "2027-09-15T20:03:26.265946"
+  },
+  "SH-SJPP-MP9C-S5YT": {
+    "script": "solar-script-x",
+    "created": "2026-09-15T20:03:26.266010",
+    "expires": "2027-09-15T20:03:26.266016"
+  },
+  "SH-4VSF-UEU3-V8NN": {
+    "script": "iron-hub-4",
+    "created": "2026-09-15T20:03:26.266047",
+    "expires": "2027-09-15T20:03:26.266048"
+  },
+  "SH-66MJ-DQUK-KBSN": {
+    "script": "vortex-hub-5",
+    "created": "2026-09-15T20:03:26.266066",
+    "expires": "2027-09-15T20:03:26.266067"
+  },
+  "SH-E7VS-9664-8RTW": {
+    "script": "nova-bot-zero",
+    "created": "2026-09-15T20:03:26.266100",
+    "expires": "2027-09-15T20:03:26.266102"
+  },
+  "SH-36DF-2NGK-HBK3": {
+    "script": "vortex-forge-v2-2",
+    "created": "2026-09-15T20:03:26.266128",
+    "expires": "2027-09-15T20:03:26.266129"
+  },
+  "SH-VMBK-LYZ9-DHQF": {
+    "script": "storm-toolkit-ultra",
+    "created": "2026-09-15T20:03:26.266149",
+    "expires": "2027-09-15T20:03:26.266150"
+  },
+  "SH-UHWQ-LEZB-Y3XE": {
+    "script": "emerald-loader-elite",
+    "created": "2026-09-15T20:03:26.266169",
+    "expires": "2027-09-15T20:03:26.266170"
+  },
+  "SH-CLAR-64DR-68UG": {
+    "script": "cosmic-engine-x",
+    "created": "2026-09-15T20:03:26.266189",
+    "expires": "2027-09-15T20:03:26.266190"
+  },
+  "SH-HH2R-XH66-QYER": {
+    "script": "vortex-hub-6",
+    "created": "2026-09-15T20:03:26.266214",
+    "expires": "2027-09-15T20:03:26.266216"
+  },
+  "SH-KN6M-X4VX-GEHJ": {
+    "script": "cyber-script-zero",
+    "created": "2026-09-15T20:03:26.266232",
+    "expires": "2027-09-15T20:03:26.266232"
+  },
+  "SH-4F6L-39AK-EFB6": {
+    "script": "emerald-framework-lite",
+    "created": "2026-09-15T20:03:26.266249",
+    "expires": "2027-09-15T20:03:26.266250"
+  },
+  "SH-84PG-D2SV-YPTL": {
+    "script": "solaris-hub-6",
+    "created": "2026-09-15T20:03:26.266263",
+    "expires": "2027-09-15T20:03:26.266264"
+  },
+  "SH-BYNN-FHZ5-DWVT": {
+    "script": "zephyr-pack-elite",
+    "created": "2026-09-15T20:03:26.266278",
+    "expires": "2027-09-15T20:03:26.266278"
+  },
+  "SH-RG22-C35A-L87D": {
+    "script": "lunar-engine-max",
+    "created": "2026-09-15T20:03:26.266291",
+    "expires": "2027-09-15T20:03:26.266292"
+  },
+  "SH-H8S7-3QJJ-3HAA": {
+    "script": "emerald-utility-x",
+    "created": "2026-09-15T20:03:26.266303",
+    "expires": "2027-09-15T20:03:26.266304"
+  },
+  "SH-QJHT-4GYA-62QG": {
+    "script": "turbo-hub-5",
+    "created": "2026-09-15T20:03:26.266316",
+    "expires": "2027-09-15T20:03:26.266317"
+  },
+  "SH-Q8TG-9JGH-XAUQ": {
+    "script": "mega-matrix-v2",
+    "created": "2026-09-15T20:03:26.266328",
+    "expires": "2027-09-15T20:03:26.266328"
+  },
+  "SH-NBVP-882Y-STM5": {
+    "script": "azure-framework-go-2",
+    "created": "2026-09-15T20:03:26.266339",
+    "expires": "2027-09-15T20:03:26.266340"
+  },
+  "SH-S8KS-TMGJ-VEE4": {
+    "script": "hyper-hub-v2",
+    "created": "2026-09-15T20:03:26.266352",
+    "expires": "2027-09-15T20:03:26.266353"
+  },
+  "SH-AJE6-KVG2-MW59": {
+    "script": "zephyr-hub-8",
+    "created": "2026-09-15T20:03:26.266368",
+    "expires": "2027-09-15T20:03:26.266369"
+  },
+  "SH-9H86-LUHE-KJEE": {
+    "script": "zephyr-hub-9",
+    "created": "2026-09-15T20:03:26.266389",
+    "expires": "2027-09-15T20:03:26.266390"
+  },
+  "SH-SJVF-F586-AATD": {
+    "script": "cyber-core-zero",
+    "created": "2026-09-15T20:03:26.266404",
+    "expires": "2027-09-15T20:03:26.266405"
+  },
+  "SH-NZYR-A7EF-2XXH": {
+    "script": "lunar-hub-8",
+    "created": "2026-09-15T20:03:26.266423",
+    "expires": "2027-09-15T20:03:26.266423"
+  },
+  "SH-G5YS-LD2U-Y6JB": {
+    "script": "astral-suite-max",
+    "created": "2026-09-15T20:03:26.266436",
+    "expires": "2027-09-15T20:03:26.266437"
+  },
+  "SH-R6WZ-S6V2-28EA": {
+    "script": "azure-bot-plus",
+    "created": "2026-09-15T20:03:26.266450",
+    "expires": "2027-09-15T20:03:26.266451"
+  },
+  "SH-3RXQ-JT3X-FD4B": {
+    "script": "iron-script-pro",
+    "created": "2026-09-15T20:03:26.266466",
+    "expires": "2027-09-15T20:03:26.266467"
+  },
+  "SH-Y7EU-2VLK-P9NP": {
+    "script": "cyber-hub-7",
+    "created": "2026-09-15T20:03:26.266479",
+    "expires": "2027-09-15T20:03:26.266480"
+  },
+  "SH-DFAE-D29T-Y9XG": {
+    "script": "nova-engine-elite",
+    "created": "2026-09-15T20:03:26.266491",
+    "expires": "2027-09-15T20:03:26.266492"
+  },
+  "SH-85NR-YW4Z-DJKT": {
+    "script": "vortex-engine-ultra",
+    "created": "2026-09-15T20:03:26.266505",
+    "expires": "2027-09-15T20:03:26.266507"
+  },
+  "SH-K79U-WLLK-NFHU": {
+    "script": "shadow-loader-ultra",
+    "created": "2026-09-15T20:03:26.266525",
+    "expires": "2027-09-15T20:03:26.266526"
+  },
+  "SH-5JHH-MLT3-XQYR": {
+    "script": "emerald-script-v2",
+    "created": "2026-09-15T20:03:26.266538",
+    "expires": "2027-09-15T20:03:26.266539"
+  },
+  "SH-LUW8-DPFH-XZED": {
+    "script": "storm-hub-5",
+    "created": "2026-09-15T20:03:26.266554",
+    "expires": "2027-09-15T20:03:26.266555"
+  },
+  "SH-WLJ8-ZATQ-WCVS": {
+    "script": "alpha-pack-lite",
+    "created": "2026-09-15T20:03:26.266565",
+    "expires": "2027-09-15T20:03:26.266566"
+  },
+  "SH-PERG-3AUK-8L8P": {
+    "script": "cosmic-enhancer-go",
+    "created": "2026-09-15T20:03:26.266581",
+    "expires": "2027-09-15T20:03:26.266582"
+  },
+  "SH-MEBU-BKA4-GK34": {
+    "script": "lunar-bot-plus",
+    "created": "2026-09-15T20:03:26.266598",
+    "expires": "2027-09-15T20:03:26.266599"
+  },
+  "SH-8K6V-EC8L-CK3B": {
+    "script": "vortex-hub-7",
+    "created": "2026-09-15T20:03:26.266612",
+    "expires": "2027-09-15T20:03:26.266613"
+  },
+  "SH-Z7GV-5NKE-XS5T": {
+    "script": "proto-hub-3",
+    "created": "2026-09-15T20:03:26.266634",
+    "expires": "2027-09-15T20:03:26.266635"
+  },
+  "SH-N79R-T27A-UEN9": {
+    "script": "azure-loader-max",
+    "created": "2026-09-15T20:03:26.266648",
+    "expires": "2027-09-15T20:03:26.266649"
+  },
+  "SH-VJF7-YJGQ-NU5M": {
+    "script": "storm-core-max",
+    "created": "2026-09-15T20:03:26.266663",
+    "expires": "2027-09-15T20:03:26.266664"
+  },
+  "SH-3JGR-7XG9-4W6T": {
+    "script": "mega-booster-pro",
+    "created": "2026-09-15T20:03:26.266679",
+    "expires": "2027-09-15T20:03:26.266679"
+  },
+  "SH-NA9F-5S3N-F2Y2": {
+    "script": "frost-suite-elite",
+    "created": "2026-09-15T20:03:26.266692",
+    "expires": "2027-09-15T20:03:26.266693"
+  },
+  "SH-4EEA-GGHP-HPXZ": {
+    "script": "emerald-utility-plus",
+    "created": "2026-09-15T20:03:26.266710",
+    "expires": "2027-09-15T20:03:26.266711"
+  },
+  "SH-VPKD-CU3A-QM3T": {
+    "script": "quasar-framework-max",
+    "created": "2026-09-15T20:03:26.266723",
+    "expires": "2027-09-15T20:03:26.266724"
+  },
+  "SH-FAT9-ZQXR-CE46": {
+    "script": "omega-coach-ultra",
+    "created": "2026-09-15T20:03:26.266737",
+    "expires": "2027-09-15T20:03:26.266738"
+  },
+  "SH-3JMR-46QE-W88G": {
+    "script": "lunar-hub-9",
+    "created": "2026-09-15T20:03:26.266753",
+    "expires": "2027-09-15T20:03:26.266753"
+  },
+  "SH-473C-DZHH-RW8D": {
+    "script": "proto-system-go",
+    "created": "2026-09-15T20:03:26.266768",
+    "expires": "2027-09-15T20:03:26.266769"
+  },
+  "SH-FRCR-JTUD-5JQL": {
+    "script": "azure-hub-2",
+    "created": "2026-09-15T20:03:26.266784",
+    "expires": "2027-09-15T20:03:26.266784"
+  },
+  "SH-VT7K-FV3E-WB2U": {
+    "script": "turbo-hub-6",
+    "created": "2026-09-15T20:03:26.266796",
+    "expires": "2027-09-15T20:03:26.266796"
+  },
+  "SH-XF3N-ALGM-SMKS": {
+    "script": "phantom-coach-zero",
+    "created": "2026-09-15T20:03:26.266806",
+    "expires": "2027-09-15T20:03:26.266807"
+  },
+  "SH-LD8G-Q7HD-J23W": {
+    "script": "phantom-suite-pro-2",
+    "created": "2026-09-15T20:03:26.266822",
+    "expires": "2027-09-15T20:03:26.266823"
+  },
+  "SH-UARM-Z7ED-S8GQ": {
+    "script": "titan-engine-ultra",
+    "created": "2026-09-15T20:03:26.266835",
+    "expires": "2027-09-15T20:03:26.266836"
+  },
+  "SH-MCTZ-YMEU-H9XL": {
+    "script": "turbo-bot-lite",
+    "created": "2026-09-15T20:03:26.266851",
+    "expires": "2027-09-15T20:03:26.266852"
+  },
+  "SH-XZ94-XWQV-CUPL": {
+    "script": "cyber-hub-8",
+    "created": "2026-09-15T20:03:26.266869",
+    "expires": "2027-09-15T20:03:26.266870"
+  },
+  "SH-53UZ-2ADT-CG6B": {
+    "script": "hyper-bot-pro",
+    "created": "2026-09-15T20:03:26.266886",
+    "expires": "2027-09-15T20:03:26.266888"
+  },
+  "SH-AEFF-FM2D-56R3": {
+    "script": "proto-hub-4",
+    "created": "2026-09-15T20:03:26.266902",
+    "expires": "2027-09-15T20:03:26.266903"
+  },
+  "SH-SHAJ-DF6L-GH79": {
+    "script": "apex-hub-3",
+    "created": "2026-09-15T20:03:26.266921",
+    "expires": "2027-09-15T20:03:26.266922"
+  },
+  "SH-AU8N-H9RY-UKD5": {
+    "script": "blade-forge-v2",
+    "created": "2026-09-15T20:03:26.266939",
+    "expires": "2027-09-15T20:03:26.266940"
+  },
+  "SH-CFT5-H5CN-WQHY": {
+    "script": "hyper-optimizer-elite",
+    "created": "2026-09-15T20:03:26.266956",
+    "expires": "2027-09-15T20:03:26.266957"
+  },
+  "SH-MZPJ-BAVE-YA3N": {
+    "script": "target-lock-x",
+    "created": "2026-09-15T20:13:26.869592",
+    "expires": "2027-09-15T20:13:26.869600"
+  },
+  "SH-BCXQ-YUB4-JJLR": {
+    "script": "aim-assist-rivals",
+    "created": "2026-09-15T20:13:26.869624",
+    "expires": "2027-09-15T20:13:26.869625"
+  },
+  "SH-ME46-ZLS4-MMZK": {
+    "script": "clan-war-bot",
+    "created": "2026-09-15T20:13:26.869641",
+    "expires": "2027-09-15T20:13:26.869642"
+  },
+  "SH-FPTZ-TMKN-VKL7": {
+    "script": "mega-matrix-zero",
+    "created": "2026-09-15T20:13:26.869658",
+    "expires": "2027-09-15T20:13:26.869659"
+  },
+  "SH-HGPR-B4PX-H9X7": {
+    "script": "silent-strike-x",
+    "created": "2026-09-15T20:13:26.869674",
+    "expires": "2027-09-15T20:13:26.869675"
+  },
+  "SH-33T6-28CX-CWK7": {
+    "script": "alpha-forge-plus",
+    "created": "2026-09-15T20:13:26.869687",
+    "expires": "2027-09-15T20:13:26.869688"
+  },
+  "SH-B9CK-FMLD-PTDP": {
+    "script": "golden-hub-6",
+    "created": "2026-09-15T20:13:26.869700",
+    "expires": "2027-09-15T20:13:26.869701"
+  },
+  "SH-3Q8E-MCXV-9H3E": {
+    "script": "omega-hub-2",
+    "created": "2026-09-15T20:13:26.869712",
+    "expires": "2027-09-15T20:13:26.869713"
+  },
+  "SH-UJSS-VA5N-443R": {
+    "script": "emerald-module-v2",
+    "created": "2026-09-15T20:13:26.869727",
+    "expires": "2027-09-15T20:13:26.869728"
+  },
+  "SH-URXQ-ZGZC-RKX3": {
+    "script": "diamond-digger",
+    "created": "2026-09-15T20:13:26.869743",
+    "expires": "2027-09-15T20:13:26.869744"
+  },
+  "SH-GJZR-VC8G-G76D": {
+    "script": "dragon-v2-hub",
+    "created": "2026-09-15T20:13:26.869755",
+    "expires": "2027-09-15T20:13:26.869755"
+  },
+  "SH-GEBV-25S7-3ZDY": {
+    "script": "omega-hub-4",
+    "created": "2026-09-15T20:13:26.869768",
+    "expires": "2027-09-15T20:13:26.869769"
+  },
+  "SH-3K4C-HJZB-PLWM": {
+    "script": "blade-matrix-max",
+    "created": "2026-09-15T20:13:26.869782",
+    "expires": "2027-09-15T20:13:26.869783"
+  },
+  "SH-M2K7-MVEY-YDKP": {
+    "script": "cosmic-enhancer-go",
+    "created": "2026-09-15T20:13:26.869794",
+    "expires": "2027-09-15T20:13:26.869795"
+  },
+  "SH-AD6D-WQQW-CMFJ": {
+    "script": "owner-kit",
+    "created": "2026-09-15T20:13:26.869810",
+    "expires": "2027-09-15T20:13:26.869810"
+  },
+  "SH-NDMV-FY3K-ETFK": {
+    "script": "quasar-matrix-max",
+    "created": "2026-09-15T20:13:26.869829",
+    "expires": "2027-09-15T20:13:26.869830"
+  },
+  "SH-4Q8W-85QJ-68C9": {
+    "script": "omega-optimizer-plus",
+    "created": "2026-09-15T20:13:26.869849",
+    "expires": "2027-09-15T20:13:26.869850"
+  },
+  "SH-33LT-9XH7-K87H": {
+    "script": "nano-booster-v2",
+    "created": "2026-09-15T20:13:26.869871",
+    "expires": "2027-09-15T20:13:26.869872"
+  },
+  "SH-6AVQ-6JL5-TU4D": {
+    "script": "hyper-toolkit-go",
+    "created": "2026-09-15T20:13:26.869888",
+    "expires": "2027-09-15T20:13:26.869889"
+  },
+  "SH-2GCC-T3TK-7DU7": {
+    "script": "quasar-hub-5",
+    "created": "2026-09-15T20:13:26.869901",
+    "expires": "2027-09-15T20:13:26.869902"
+  },
+  "SH-D5QX-Z8NW-JQ3D": {
+    "script": "mega-pack-lite",
+    "created": "2026-09-15T20:13:26.869914",
+    "expires": "2027-09-15T20:13:26.869915"
+  },
+  "SH-RVTF-J8EZ-RDT4": {
+    "script": "nova-loader-lite",
+    "created": "2026-09-15T20:13:26.869930",
+    "expires": "2027-09-15T20:13:26.869931"
+  },
+  "SH-RG4S-FR3Z-GYN3": {
+    "script": "cosmic-script-pro",
+    "created": "2026-09-15T20:13:26.869944",
+    "expires": "2027-09-15T20:13:26.869944"
+  },
+  "SH-SN9H-BA64-369Q": {
+    "script": "frost-assistant-plus",
+    "created": "2026-09-15T20:13:26.869957",
+    "expires": "2027-09-15T20:13:26.869958"
+  },
+  "SH-K5VQ-64VG-24R9": {
+    "script": "zephyr-pack-go",
+    "created": "2026-09-15T20:13:26.869969",
+    "expires": "2027-09-15T20:13:26.869970"
+  },
+  "SH-TQET-8693-QNHN": {
+    "script": "cyber-assistant-v2",
+    "created": "2026-09-15T20:13:26.870002",
+    "expires": "2027-09-15T20:13:26.870003"
+  },
+  "SH-ZLVT-RY3U-U6WW": {
+    "script": "mega-script-x",
+    "created": "2026-09-15T20:13:26.870022",
+    "expires": "2027-09-15T20:13:26.870023"
+  },
+  "SH-R2AG-EXYT-ZKF9": {
+    "script": "zephyr-system-x",
+    "created": "2026-09-15T20:13:26.870040",
+    "expires": "2027-09-15T20:13:26.870041"
+  },
+  "SH-XUJ6-MD3T-3P78": {
+    "script": "phantom-hub-4",
+    "created": "2026-09-15T20:13:26.870057",
+    "expires": "2027-09-15T20:13:26.870058"
+  },
+  "SH-UCDJ-BRFF-N7MA": {
+    "script": "lunar-module-x",
+    "created": "2026-09-15T20:13:26.870074",
+    "expires": "2027-09-15T20:13:26.870075"
+  },
+  "SH-YMFV-UH5S-FW5S": {
+    "script": "nova-hub-3",
+    "created": "2026-09-15T20:13:26.870092",
+    "expires": "2027-09-15T20:13:26.870094"
+  },
+  "SH-JHAX-BTKW-X2HR": {
+    "script": "nano-hub",
+    "created": "2026-09-15T20:13:26.870112",
+    "expires": "2027-09-15T20:13:26.870114"
+  },
+  "SH-38GX-RUS9-34WP": {
+    "script": "azure-assistant-pro",
+    "created": "2026-09-15T20:13:26.870162",
+    "expires": "2027-09-15T20:13:26.870167"
+  },
+  "SH-TVBV-GS7W-3F4F": {
+    "script": "nova-bot-elite",
+    "created": "2026-09-15T20:13:26.870187",
+    "expires": "2027-09-15T20:13:26.870188"
+  },
+  "SH-SUSF-2KN2-BNQL": {
+    "script": "iron-system-x",
+    "created": "2026-09-15T20:13:26.870205",
+    "expires": "2027-09-15T20:13:26.870206"
+  },
+  "SH-5VHA-FS4H-5ETB": {
+    "script": "apex-hub-2",
+    "created": "2026-09-15T20:13:26.870219",
+    "expires": "2027-09-15T20:13:26.870220"
+  },
+  "SH-6XNX-CTQG-EHCH": {
+    "script": "azure-pack-pro",
+    "created": "2026-09-15T20:13:26.870232",
+    "expires": "2027-09-15T20:13:26.870233"
+  },
+  "SH-UUSG-GPRU-DQB3": {
+    "script": "cosmic-system-go-2",
+    "created": "2026-09-15T20:13:26.870245",
+    "expires": "2027-09-15T20:13:26.870245"
+  },
+  "SH-GQD3-S7RG-2JQT": {
+    "script": "solar-optimizer-pro",
+    "created": "2026-09-15T20:13:26.870256",
+    "expires": "2027-09-15T20:13:26.870257"
+  },
+  "SH-NRF3-2PKX-Y6G6": {
+    "script": "nova-bot-zero",
+    "created": "2026-09-15T20:13:26.870269",
+    "expires": "2027-09-15T20:13:26.870270"
+  },
+  "SH-XW58-BPW4-JWQW": {
+    "script": "cyber-hub-2",
+    "created": "2026-09-15T20:13:26.870281",
+    "expires": "2027-09-15T20:13:26.870282"
+  },
+  "SH-4DAT-8PWC-HCMT": {
+    "script": "cosmic-forge-plus",
+    "created": "2026-09-15T20:13:26.870323",
+    "expires": "2027-09-15T20:13:26.870327"
+  },
+  "SH-NAG8-5GX3-PPQ2": {
+    "script": "quantum-hub-ultra",
+    "created": "2026-09-15T20:13:26.870343",
+    "expires": "2027-09-15T20:13:26.870344"
+  },
+  "SH-XEC5-8B9F-BFTJ": {
+    "script": "omega-coach-ultra",
+    "created": "2026-09-15T20:13:26.870360",
+    "expires": "2027-09-15T20:13:26.870361"
+  },
+  "SH-PRUZ-HZA9-XFYY": {
+    "script": "omega-booster-pro",
+    "created": "2026-09-15T20:13:26.870376",
+    "expires": "2027-09-15T20:13:26.870377"
+  },
+  "SH-WRXC-8BH4-7A5S": {
+    "script": "nova-hub-2",
+    "created": "2026-09-15T20:13:26.870388",
+    "expires": "2027-09-15T20:13:26.870389"
+  },
+  "SH-E2L5-BTMM-JVXK": {
+    "script": "solar-system-lite",
+    "created": "2026-09-15T20:13:26.870400",
+    "expires": "2027-09-15T20:13:26.870400"
+  },
+  "SH-BA7B-E2DC-UXY2": {
+    "script": "zephyr-hub-5",
+    "created": "2026-09-15T20:13:26.870415",
+    "expires": "2027-09-15T20:13:26.870415"
+  },
+  "SH-6B8K-4K3W-J5KS": {
+    "script": "omega-loader-x",
+    "created": "2026-09-15T20:13:26.870431",
+    "expires": "2027-09-15T20:13:26.870432"
+  },
+  "SH-T83D-JE5G-WPMT": {
+    "script": "titan-coach-pro",
+    "created": "2026-09-15T20:13:26.870445",
+    "expires": "2027-09-15T20:13:26.870445"
+  },
+  "SH-EAUR-8WZZ-VFZD": {
+    "script": "emerald-engine-max-2",
+    "created": "2026-09-15T20:13:26.870457",
+    "expires": "2027-09-15T20:13:26.870457"
+  },
+  "SH-PJBK-FZPM-WYZY": {
+    "script": "quasar-framework-v2",
+    "created": "2026-09-15T20:13:26.870469",
+    "expires": "2027-09-15T20:13:26.870470"
+  },
+  "SH-W8H3-82BQ-5JJK": {
+    "script": "solar-script-x",
+    "created": "2026-09-15T20:13:26.870481",
+    "expires": "2027-09-15T20:13:26.870482"
+  },
+  "SH-MAGQ-FME9-YRZ7": {
+    "script": "iron-hub-4",
+    "created": "2026-09-15T20:13:26.870495",
+    "expires": "2027-09-15T20:13:26.870496"
+  },
+  "SH-GBQ6-HLSG-5AK2": {
+    "script": "cyber-script-zero",
+    "created": "2026-09-15T20:13:26.870510",
+    "expires": "2027-09-15T20:13:26.870511"
+  },
+  "SH-K7TA-7R6U-BS55": {
+    "script": "lunar-bot-plus",
+    "created": "2026-09-15T20:13:26.870525",
+    "expires": "2027-09-15T20:13:26.870525"
+  },
+  "SH-QGR4-77B8-3FCC": {
+    "script": "alpha-hub-2",
+    "created": "2026-09-15T20:13:26.870538",
+    "expires": "2027-09-15T20:13:26.870539"
+  },
+  "SH-64F8-BSFM-7CLU": {
+    "script": "blade-suite-ultra",
+    "created": "2026-09-15T20:13:26.870550",
+    "expires": "2027-09-15T20:13:26.870551"
+  },
+  "SH-R378-C4NV-4TCJ": {
+    "script": "cyber-hub-8",
+    "created": "2026-09-15T20:13:26.870566",
+    "expires": "2027-09-15T20:13:26.870567"
+  },
+  "SH-MJLV-ANMS-HAPH": {
+    "script": "turbo-bot-lite",
+    "created": "2026-09-15T20:13:26.870583",
+    "expires": "2027-09-15T20:13:26.870584"
+  },
+  "SH-BWVD-3THK-78MA": {
+    "script": "cyber-module-elite",
+    "created": "2026-09-15T20:13:26.870675",
+    "expires": "2027-09-15T20:13:26.870679"
+  },
+  "SH-GLH6-EKRU-YUZ5": {
+    "script": "emerald-engine-max",
+    "created": "2026-09-15T20:13:26.870704",
+    "expires": "2027-09-15T20:13:26.870705"
+  },
+  "SH-2UUG-GJCJ-28C4": {
+    "script": "cyber-utility-max",
+    "created": "2026-09-15T20:13:26.870724",
+    "expires": "2027-09-15T20:13:26.870725"
+  },
+  "SH-AA5D-NJLB-NYSP": {
+    "script": "proto-system-plus",
+    "created": "2026-09-15T20:13:26.870744",
+    "expires": "2027-09-15T20:13:26.870745"
+  },
+  "SH-YTFP-B8PV-VXL3": {
+    "script": "zephyr-hub-3",
+    "created": "2026-09-15T20:13:26.870766",
+    "expires": "2027-09-15T20:13:26.870767"
+  },
+  "SH-9D7E-WDHQ-ENV3": {
+    "script": "emerald-matrix-lite",
+    "created": "2026-09-15T20:13:26.870781",
+    "expires": "2027-09-15T20:13:26.870782"
+  },
+  "SH-DRVP-CYJ7-RTH3": {
+    "script": "vortex-utility-lite",
+    "created": "2026-09-15T20:13:26.870795",
+    "expires": "2027-09-15T20:13:26.870796"
+  },
+  "SH-VLU8-3VTN-B6CC": {
+    "script": "alpha-bot-plus",
+    "created": "2026-09-15T20:13:26.870818",
+    "expires": "2027-09-15T20:13:26.870819"
+  },
+  "SH-MSUV-USUG-CAJA": {
+    "script": "astral-hub",
+    "created": "2026-09-15T20:13:26.870853",
+    "expires": "2027-09-15T20:13:26.870856"
+  },
+  "SH-V2LS-2EK4-83XH": {
+    "script": "astral-coach-max",
+    "created": "2026-09-15T20:13:26.870876",
+    "expires": "2027-09-15T20:13:26.870877"
+  },
+  "SH-59ZX-X445-9D52": {
+    "script": "shadow-utility-elite",
+    "created": "2026-09-15T20:13:26.870950",
+    "expires": "2027-09-15T20:13:26.870953"
+  },
+  "SH-4SDB-S3AQ-SRVC": {
+    "script": "solar-hub-4",
+    "created": "2026-09-15T20:13:26.870994",
+    "expires": "2027-09-15T20:13:26.870996"
+  },
+  "SH-FNBF-7LHU-8PZY": {
+    "script": "turbo-hub",
+    "created": "2026-09-15T20:13:26.871026",
+    "expires": "2027-09-15T20:13:26.871028"
+  },
+  "SH-8JZ8-GE39-9EFP": {
+    "script": "crimson-pack-max",
+    "created": "2026-09-15T20:13:26.871093",
+    "expires": "2027-09-15T20:13:26.871097"
+  },
+  "SH-N2B8-66WY-4BF3": {
+    "script": "turbo-forge-plus",
+    "created": "2026-09-15T20:13:26.871137",
+    "expires": "2027-09-15T20:13:26.871138"
+  },
+  "SH-TFP6-4FQ8-MUW2": {
+    "script": "alpha-system-x",
+    "created": "2026-09-15T20:13:26.871163",
+    "expires": "2027-09-15T20:13:26.871165"
+  },
+  "SH-ARJ3-HR5G-WGVH": {
+    "script": "omega-module-pro",
+    "created": "2026-09-15T20:13:26.871193",
+    "expires": "2027-09-15T20:13:26.871195"
+  },
+  "SH-JLD2-M686-ELXF": {
+    "script": "blade-matrix-ultra",
+    "created": "2026-09-15T20:13:26.871219",
+    "expires": "2027-09-15T20:13:26.871220"
+  },
+  "SH-RUTN-AH73-VURZ": {
+    "script": "titan-loader-v2",
+    "created": "2026-09-15T20:13:26.871326",
+    "expires": "2027-09-15T20:13:26.871334"
+  },
+  "SH-PHBE-ZSNH-TWXE": {
+    "script": "shadow-coach-lite",
+    "created": "2026-09-15T20:13:26.871409",
+    "expires": "2027-09-15T20:13:26.871412"
+  },
+  "SH-5K2B-GTGR-YEBG": {
+    "script": "zephyr-pack-elite",
+    "created": "2026-09-15T20:13:26.871429",
+    "expires": "2027-09-15T20:13:26.871431"
+  },
+  "SH-GFXN-VKDU-WR7E": {
+    "script": "omega-hub-3",
+    "created": "2026-09-15T20:13:26.871451",
+    "expires": "2027-09-15T20:13:26.871452"
+  },
+  "SH-CACT-RA4C-2TTL": {
+    "script": "cyber-coach-x",
+    "created": "2026-09-15T20:13:26.871481",
+    "expires": "2027-09-15T20:13:26.871482"
+  },
+  "SH-TUR5-AM7J-V5MR": {
+    "script": "quasar-bot-lite",
+    "created": "2026-09-15T20:13:26.871535",
+    "expires": "2027-09-15T20:13:26.871627"
+  },
+  "SH-K7S2-NYYR-H9T7": {
+    "script": "shadow-loader-ultra",
+    "created": "2026-09-15T20:13:26.871770",
+    "expires": "2027-09-15T20:13:26.871774"
+  },
+  "SH-WX5M-VVA2-NSUQ": {
+    "script": "exclusive-hunter",
+    "created": "2026-09-15T20:13:26.871798",
+    "expires": "2027-09-15T20:13:26.871799"
+  },
+  "SH-66KP-GU25-V887": {
+    "script": "tailed-beast-hunter",
+    "created": "2026-09-15T20:13:26.871812",
+    "expires": "2027-09-15T20:13:26.871812"
+  },
+  "SH-UBRK-QLN3-RDJC": {
+    "script": "server-suite-admin",
+    "created": "2026-09-15T20:13:26.871826",
+    "expires": "2027-09-15T20:13:26.871827"
+  },
+  "SH-2BFA-GY2E-PGUY": {
+    "script": "cosmic-suite-plus",
+    "created": "2026-09-15T20:13:26.871837",
+    "expires": "2027-09-15T20:13:26.871838"
+  },
+  "SH-CNDA-VYUS-4G4Q": {
+    "script": "jump-booster",
+    "created": "2026-09-15T20:13:26.871853",
+    "expires": "2027-09-15T20:13:26.871854"
+  },
+  "SH-WWUB-AHK4-TSGF": {
+    "script": "anti-afk-x",
+    "created": "2026-09-15T20:13:26.871868",
+    "expires": "2027-09-15T20:13:26.871869"
+  },
+  "SH-MJJQ-3W93-EF6P": {
+    "script": "blade-forge-v2",
+    "created": "2026-09-15T20:13:26.871890",
+    "expires": "2027-09-15T20:13:26.871891"
+  },
+  "SH-T923-SUDF-V3LM": {
+    "script": "quasar-framework-max",
+    "created": "2026-09-15T20:13:26.871910",
+    "expires": "2027-09-15T20:13:26.871911"
+  },
+  "SH-RMU9-C527-RA22": {
+    "script": "iron-script-pro",
+    "created": "2026-09-15T20:13:26.871931",
+    "expires": "2027-09-15T20:13:26.871932"
+  },
+  "SH-CVFA-BN7K-E9GL": {
+    "script": "vortex-engine-ultra",
+    "created": "2026-09-15T20:13:26.871970",
+    "expires": "2027-09-15T20:13:26.871973"
+  },
+  "SH-Y6JW-YMG8-GDML": {
+    "script": "proto-hub-3",
+    "created": "2026-09-15T20:13:26.871991",
+    "expires": "2027-09-15T20:13:26.871992"
+  },
+  "SH-3ZB6-VV68-432N": {
+    "script": "emerald-utility-plus",
+    "created": "2026-09-15T20:13:26.872004",
+    "expires": "2027-09-15T20:13:26.872005"
+  },
+  "SH-T7YT-YEBM-6AW2": {
+    "script": "azure-framework-go-2",
+    "created": "2026-09-15T20:13:26.872017",
+    "expires": "2027-09-15T20:13:26.872017"
+  },
+  "SH-K5MK-RPDY-KCFS": {
+    "script": "vortex-hub-5",
+    "created": "2026-09-15T20:13:26.872033",
+    "expires": "2027-09-15T20:13:26.872034"
+  },
+  "SH-S6RL-5YPG-NHEP": {
+    "script": "emerald-hub-v2",
+    "created": "2026-09-15T20:13:26.872051",
+    "expires": "2027-09-15T20:13:26.872052"
+  },
+  "SH-KBZP-8NR9-ESG4": {
+    "script": "blade-fruit-hub",
+    "created": "2026-09-15T20:14:05.384083",
+    "expires": "2027-09-15T20:14:05.384090"
+  },
+  "SH-GXYW-QSX7-LMAM": {
+    "script": "sea-beast-hunter-x",
+    "created": "2026-09-15T20:14:05.384107",
+    "expires": "2027-09-15T20:14:05.384108"
+  },
+  "SH-RTKK-7P9Y-CYU6": {
+    "script": "fruit-finder-pro",
+    "created": "2026-09-15T20:14:05.384122",
+    "expires": "2027-09-15T20:14:05.384123"
+  },
+  "SH-UWR2-V8HK-ZC3W": {
+    "script": "awakened-trainer",
+    "created": "2026-09-15T20:14:05.384135",
+    "expires": "2027-09-15T20:14:05.384136"
+  },
+  "SH-LN2X-SWV8-JGXA": {
+    "script": "racial-v4-master",
+    "created": "2026-09-15T20:14:05.384151",
+    "expires": "2027-09-15T20:14:05.384151"
+  },
+  "SH-5GWQ-5FRQ-DR2F": {
+    "script": "boss-stomp",
+    "created": "2026-09-15T20:14:05.384162",
+    "expires": "2027-09-15T20:14:05.384162"
+  },
+  "SH-4R6G-5VPR-HSGB": {
+    "script": "auto-quest-blox",
+    "created": "2026-09-15T20:14:05.384178",
+    "expires": "2027-09-15T20:14:05.384178"
+  },
+  "SH-82C4-RJVD-V5ZN": {
+    "script": "tiki-villain-hunter",
+    "created": "2026-09-15T20:14:05.384191",
+    "expires": "2027-09-15T20:14:05.384191"
+  },
+  "SH-JHYG-FX2Y-JWXE": {
+    "script": "sailor-gp-farm",
+    "created": "2026-09-15T20:14:05.384204",
+    "expires": "2027-09-15T20:14:05.384205"
+  },
+  "SH-2GGS-UFNU-CCN4": {
+    "script": "quick-draw-aim",
+    "created": "2026-09-15T20:14:05.384217",
+    "expires": "2027-09-15T20:14:05.384218"
+  },
+  "SH-MS9P-NPQA-KBDW": {
+    "script": "trigger-finger",
+    "created": "2026-09-15T20:14:05.384230",
+    "expires": "2027-09-15T20:14:05.384231"
+  },
+  "SH-UE5D-VA4C-J3XN": {
+    "script": "recoil-killer",
+    "created": "2026-09-15T20:14:05.384242",
+    "expires": "2027-09-15T20:14:05.384242"
+  },
+  "SH-AGUE-BVWN-Q9X9": {
+    "script": "headshot-master",
+    "created": "2026-09-15T20:14:05.384254",
+    "expires": "2027-09-15T20:14:05.384255"
+  },
+  "SH-QBEE-J9E5-MWT8": {
+    "script": "wallbang-assist",
+    "created": "2026-09-15T20:14:05.384267",
+    "expires": "2027-09-15T20:14:05.384268"
+  },
+  "SH-LF43-EBLY-9KZV": {
+    "script": "portal-farmer-x",
+    "created": "2026-09-15T20:14:05.384278",
+    "expires": "2027-09-15T20:14:05.384279"
+  },
+  "SH-YTK6-79ZP-ZL3V": {
+    "script": "summon-reroller",
+    "created": "2026-09-15T20:14:05.384290",
+    "expires": "2027-09-15T20:14:05.384290"
+  },
+  "SH-48LF-Z42E-F9Y2": {
+    "script": "quest-automator-anime",
+    "created": "2026-09-15T20:14:05.384300",
+    "expires": "2027-09-15T20:14:05.384301"
+  },
+  "SH-MNRU-YV4D-24VG": {
+    "script": "raid-slayer-anime",
+    "created": "2026-09-15T20:14:05.384314",
+    "expires": "2027-09-15T20:14:05.384315"
+  },
+  "SH-ZGWU-J8PB-HSBG": {
+    "script": "evolution-buddy",
+    "created": "2026-09-15T20:14:05.384329",
+    "expires": "2027-09-15T20:14:05.384330"
+  },
+  "SH-GVV7-VCEK-4Q6W": {
+    "script": "scroll-farm",
+    "created": "2026-09-15T20:14:05.384343",
+    "expires": "2027-09-15T20:14:05.384343"
+  },
+  "SH-NXQK-V4YC-TXPE": {
+    "script": "zanpakuto-maxer",
+    "created": "2026-09-15T20:14:05.384355",
+    "expires": "2027-09-15T20:14:05.384356"
+  },
+  "SH-25VE-92Y8-H95Q": {
+    "script": "mode-switcher-shindo",
+    "created": "2026-09-15T20:14:05.384367",
+    "expires": "2027-09-15T20:14:05.384368"
+  },
+  "SH-YQWB-CMZJ-HVWT": {
+    "script": "auto-clicker-pro",
+    "created": "2026-09-15T20:14:05.384379",
+    "expires": "2027-09-15T20:14:05.384380"
+  },
+  "SH-SPHZ-HFRB-BY2P": {
+    "script": "speed-runner-x",
+    "created": "2026-09-15T20:14:05.384392",
+    "expires": "2027-09-15T20:14:05.384392"
+  },
+  "SH-XMCD-MYC2-SWCX": {
+    "script": "loot-grabber",
+    "created": "2026-09-15T20:14:05.384403",
+    "expires": "2027-09-15T20:14:05.384404"
+  },
+  "SH-LSVW-LABC-R4KX": {
+    "script": "macro-recorder",
+    "created": "2026-09-15T20:14:05.384415",
+    "expires": "2027-09-15T20:14:05.384416"
+  },
+  "SH-GLVP-XSUX-ADY5": {
+    "script": "teleport-helper",
+    "created": "2026-09-15T20:14:05.384429",
+    "expires": "2027-09-15T20:14:05.384430"
+  },
+  "SH-6D7L-RSUA-3U3W": {
+    "script": "npc-talker",
+    "created": "2026-09-15T20:14:05.384442",
+    "expires": "2027-09-15T20:14:05.384443"
+  },
+  "SH-A6SA-2SMH-XH7H": {
+    "script": "spawn-tracer",
+    "created": "2026-09-15T20:14:05.384456",
+    "expires": "2027-09-15T20:14:05.384457"
+  },
+  "SH-S2SP-UPJ4-D6GY": {
+    "script": "free-cam-pro",
+    "created": "2026-09-15T20:14:05.384468",
+    "expires": "2027-09-15T20:14:05.384469"
+  },
+  "SH-PYKP-RCB4-FLVR": {
+    "script": "xp-glyph",
+    "created": "2026-09-15T20:14:05.384484",
+    "expires": "2027-09-15T20:14:05.384484"
+  },
+  "SH-L22R-VXMF-7NK7": {
+    "script": "vip-admin",
+    "created": "2026-09-15T20:14:05.384497",
+    "expires": "2027-09-15T20:14:05.384498"
+  },
+  "SH-LFN8-3WVG-7H3G": {
+    "script": "mod-panel-pro",
+    "created": "2026-09-15T20:14:05.384510",
+    "expires": "2027-09-15T20:14:05.384510"
+  },
+  "SH-3VMN-SDAC-THR8": {
+    "script": "role-swapper-x",
+    "created": "2026-09-15T20:14:05.384525",
+    "expires": "2027-09-15T20:14:05.384526"
+  },
+  "SH-MWUU-ANSX-BGYS": {
+    "script": "world-tool",
+    "created": "2026-09-15T20:14:05.384537",
+    "expires": "2027-09-15T20:14:05.384538"
+  },
+  "SH-8DN9-C584-DFKS": {
+    "script": "banshee-tools",
+    "created": "2026-09-15T20:14:05.384618",
+    "expires": "2027-09-15T20:14:05.384625"
+  },
+  "SH-MYVV-3KYB-XPUW": {
+    "script": "staff-hub",
+    "created": "2026-09-15T20:14:05.384653",
+    "expires": "2027-09-15T20:14:05.384654"
+  },
+  "SH-G383-SHHJ-BQE8": {
+    "script": "hood-aim",
+    "created": "2026-09-15T20:14:05.384678",
+    "expires": "2027-09-15T20:14:05.384680"
+  },
+  "SH-3YH2-57FG-D7ST": {
+    "script": "car-collector",
+    "created": "2026-09-15T20:14:05.384735",
+    "expires": "2027-09-15T20:14:05.384738"
+  },
+  "SH-5QFA-7FUT-Y47G": {
+    "script": "money-grinder",
+    "created": "2026-09-15T20:14:05.384764",
+    "expires": "2027-09-15T20:14:05.384766"
+  },
+  "SH-6LCS-7BXR-TVSF": {
+    "script": "raid-helper-hood",
+    "created": "2026-09-15T20:14:05.384787",
+    "expires": "2027-09-15T20:14:05.384788"
+  },
+  "SH-MD7G-5EL9-CNDC": {
+    "script": "arrest-escape",
+    "created": "2026-09-15T20:14:05.384811",
+    "expires": "2027-09-15T20:14:05.384813"
+  },
+  "SH-BE5L-BK8W-5TW6": {
+    "script": "egg-hatcher-x",
+    "created": "2026-09-15T20:14:05.384831",
+    "expires": "2027-09-15T20:14:05.384832"
+  },
+  "SH-QLZN-8HUH-TH29": {
+    "script": "coin-magnet-x",
+    "created": "2026-09-15T20:14:05.384887",
+    "expires": "2027-09-15T20:14:05.384892"
+  },
+  "SH-2LP7-KSPY-Y7RR": {
+    "script": "rebirth-loop-x",
+    "created": "2026-09-15T20:14:05.384924",
+    "expires": "2027-09-15T20:14:05.384925"
+  },
+  "SH-YBVZ-ZQEK-TUQ9": {
+    "script": "pet-trainer-x",
+    "created": "2026-09-15T20:14:05.384947",
+    "expires": "2027-09-15T20:14:05.384949"
+  },
+  "SH-FJWD-TVNG-42UL": {
+    "script": "knife-tracker",
+    "created": "2026-09-15T20:14:05.384998",
+    "expires": "2027-09-15T20:14:05.385000"
+  },
+  "SH-5QPY-YURB-BYUH": {
+    "script": "coin-farmer-mmx",
+    "created": "2026-09-15T20:14:05.385024",
+    "expires": "2027-09-15T20:14:05.385025"
+  },
+  "SH-RXGU-EH4W-EDEP": {
+    "script": "godmode-jail",
+    "created": "2026-09-15T20:14:05.385064",
+    "expires": "2027-09-15T20:14:05.385065"
+  },
+  "SH-XD7R-49JG-XS5X": {
+    "script": "sea-sailor",
+    "created": "2026-09-15T20:14:05.385088",
+    "expires": "2027-09-15T20:14:05.385090"
+  },
+  "SH-KGCW-NST6-AMCX": {
+    "script": "fruit-finder-gpo",
+    "created": "2026-09-15T20:14:05.385115",
+    "expires": "2027-09-15T20:14:05.385116"
+  },
+  "SH-H8KJ-HU79-5YXU": {
+    "script": "boss-farm-cruise",
+    "created": "2026-09-15T20:14:05.385136",
+    "expires": "2027-09-15T20:14:05.385138"
+  },
+  "SH-FMFN-YP2C-XY64": {
+    "script": "island-traveler",
+    "created": "2026-09-15T20:14:05.385159",
+    "expires": "2027-09-15T20:14:05.385161"
+  },
+  "SH-EN35-2DVY-GNZ2": {
+    "script": "pvp-combo-gpo",
+    "created": "2026-09-15T20:14:05.385181",
+    "expires": "2027-09-15T20:14:05.385182"
+  },
+  "SH-8N5H-SEQS-PLVL": {
+    "script": "fruit-shop-bot",
+    "created": "2026-09-15T20:14:05.385205",
+    "expires": "2027-09-15T20:14:05.385206"
+  },
+  "SH-JMPF-U5W9-BZXA": {
+    "script": "island-hop",
+    "created": "2026-09-15T20:14:05.385311",
+    "expires": "2027-09-15T20:14:05.385316"
+  },
+  "SH-B8BU-M39F-LR53": {
+    "script": "bounty-booster",
+    "created": "2026-09-15T20:14:05.385427",
+    "expires": "2027-09-15T20:14:05.385430"
+  },
+  "SH-YXN4-EQED-HNNL": {
+    "script": "sword-maxer",
+    "created": "2026-09-15T20:14:05.385451",
+    "expires": "2027-09-15T20:14:05.385452"
+  },
+  "SH-K3HT-PHMU-QWBP": {
+    "script": "stand-arrow-farm",
+    "created": "2026-09-15T20:14:05.385473",
+    "expires": "2027-09-15T20:14:05.385474"
+  },
+  "SH-AK9N-KHD5-XU9U": {
+    "script": "quest-grinder-aut",
+    "created": "2026-09-15T20:14:05.385492",
+    "expires": "2027-09-15T20:14:05.385493"
+  },
+  "SH-FVJA-DZPM-WJAJ": {
+    "script": "boss-king-aut",
+    "created": "2026-09-15T20:14:05.385572",
+    "expires": "2027-09-15T20:14:05.385575"
+  },
+  "SH-SFJA-BULE-ED95": {
+    "script": "floor-runner",
+    "created": "2026-09-15T20:14:05.385600",
+    "expires": "2027-09-15T20:14:05.385602"
+  },
+  "SH-45MD-J4PX-PVEH": {
+    "script": "entity-hider",
+    "created": "2026-09-15T20:14:05.385625",
+    "expires": "2027-09-15T20:14:05.385626"
+  },
+  "SH-D48U-HCUB-DFL4": {
+    "script": "light-guide",
+    "created": "2026-09-15T20:14:05.385681",
+    "expires": "2027-09-15T20:14:05.385685"
+  },
+  "SH-7HSK-Y9UH-GGPE": {
+    "script": "vault-opener",
+    "created": "2026-09-15T20:14:05.385805",
+    "expires": "2027-09-15T20:14:05.385807"
+  },
+  "SH-N3SH-RW3C-CY5Y": {
+    "script": "combo-macro",
+    "created": "2026-09-15T20:14:05.385834",
+    "expires": "2027-09-15T20:14:05.385836"
+  },
+  "SH-RZRX-HKLQ-YW26": {
+    "script": "chi-charger",
+    "created": "2026-09-15T20:14:05.385859",
+    "expires": "2027-09-15T20:14:05.385861"
+  },
+  "SH-P4XD-CGWF-QTN4": {
+    "script": "duck-master",
+    "created": "2026-09-15T20:14:05.385885",
+    "expires": "2027-09-15T20:14:05.385886"
+  },
+  "SH-BYBF-PYCQ-JX5N": {
+    "script": "dash-cooldown",
+    "created": "2026-09-15T20:14:05.385908",
+    "expires": "2027-09-15T20:14:05.385910"
+  },
+  "SH-A5XV-42Y7-L3HQ": {
+    "script": "hitbox-viewer",
+    "created": "2026-09-15T20:14:05.385935",
+    "expires": "2027-09-15T20:14:05.385937"
+  },
+  "SH-W4YS-55PU-T42T": {
+    "script": "ball-tracker",
+    "created": "2026-09-15T20:14:05.385961",
+    "expires": "2027-09-15T20:14:05.385962"
+  },
+  "SH-34K6-A4PE-USKX": {
+    "script": "dash-bot-blade",
+    "created": "2026-09-15T20:14:05.385986",
+    "expires": "2027-09-15T20:14:05.385987"
+  },
+  "SH-NEUR-7VYN-55CF": {
+    "script": "wave-builder",
+    "created": "2026-09-15T20:14:05.386006",
+    "expires": "2027-09-15T20:14:05.386008"
+  },
+  "SH-8ZVD-EP5Z-9GZP": {
+    "script": "cash-bank-tds",
+    "created": "2026-09-15T20:14:05.386032",
+    "expires": "2027-09-15T20:14:05.386034"
+  },
+  "SH-3LE4-M562-QTDJ": {
+    "script": "placement-optimizer",
+    "created": "2026-09-15T20:14:05.386056",
+    "expires": "2027-09-15T20:14:05.386057"
+  },
+  "SH-DLJY-24YT-HHPN": {
+    "script": "belt-maxer",
+    "created": "2026-09-15T20:14:05.386076",
+    "expires": "2027-09-15T20:14:05.386077"
+  },
+  "SH-Y4HF-WYQ2-TAUY": {
+    "script": "shuriken-splitter",
+    "created": "2026-09-15T20:14:05.386096",
+    "expires": "2027-09-15T20:14:05.386097"
+  },
+  "SH-5PVB-6U3Y-BV8H": {
+    "script": "zombie-auto-shooter",
+    "created": "2026-09-15T20:14:05.386119",
+    "expires": "2027-09-15T20:14:05.386120"
+  },
+  "SH-5NEC-RUL5-F6UA": {
+    "script": "fruit-selector",
+    "created": "2026-09-15T20:14:05.386141",
+    "expires": "2027-09-15T20:14:05.386143"
+  },
+  "SH-9GVQ-2AMG-CF2Z": {
+    "script": "move-combo-fb",
+    "created": "2026-09-15T20:14:05.386166",
+    "expires": "2027-09-15T20:14:05.386167"
+  },
+  "SH-3KN2-EUGH-BHXN": {
+    "script": "boss-slayer-fb",
+    "created": "2026-09-15T20:14:05.386197",
+    "expires": "2027-09-15T20:14:05.386198"
+  },
+  "SH-WHUJ-QBCE-E5UH": {
+    "script": "wave-coin-utd",
+    "created": "2026-09-15T20:14:05.386221",
+    "expires": "2027-09-15T20:14:05.386222"
+  },
+  "SH-73XX-DCBV-59J2": {
+    "script": "kp-farmer",
+    "created": "2026-09-15T20:14:05.386239",
+    "expires": "2027-09-15T20:14:05.386240"
+  },
+  "SH-MFAV-DAG2-RACE": {
+    "script": "kaiju-finder",
+    "created": "2026-09-15T20:14:05.386253",
+    "expires": "2027-09-15T20:14:05.386254"
+  },
+  "SH-3B29-B5US-5TUR": {
+    "script": "pet-sim-99-farm",
+    "created": "2026-09-15T20:14:05.386266",
+    "expires": "2027-09-15T20:14:05.386267"
+  },
+  "SH-MUVL-8J22-6MJD": {
+    "script": "blox-fruits-v2-combo",
+    "created": "2026-09-15T20:14:05.386278",
+    "expires": "2027-09-15T20:14:05.386278"
+  },
+  "SH-2UNN-TQZL-LZRM": {
+    "script": "obby-obstacle",
+    "created": "2026-09-15T20:14:05.386291",
+    "expires": "2027-09-15T20:14:05.386292"
+  },
+  "SH-XM2M-5VVF-QQFD": {
+    "script": "tycoon-manager",
+    "created": "2026-09-15T20:14:05.386304",
+    "expires": "2027-09-15T20:14:05.386305"
+  },
+  "SH-V6HW-MUMB-TRGE": {
+    "script": "zephyr-hub",
+    "created": "2026-09-15T20:14:05.386315",
+    "expires": "2027-09-15T20:14:05.386316"
+  },
+  "SH-KXUQ-VDFG-VNQM": {
+    "script": "nano-framework-x",
+    "created": "2026-09-15T20:14:05.386329",
+    "expires": "2027-09-15T20:14:05.386330"
+  },
+  "SH-CW43-FR9E-VP93": {
+    "script": "zephyr-script-lite",
+    "created": "2026-09-15T20:14:05.386345",
+    "expires": "2027-09-15T20:14:05.386346"
+  },
+  "SH-BMTN-HHG5-MR5B": {
+    "script": "vortex-coach-go",
+    "created": "2026-09-15T20:14:05.386361",
+    "expires": "2027-09-15T20:14:05.386362"
+  },
+  "SH-XJ7T-A37Z-QZ7F": {
+    "script": "mega-hub-elite",
+    "created": "2026-09-15T20:14:05.386377",
+    "expires": "2027-09-15T20:14:05.386378"
+  },
+  "SH-7CT5-LT5D-JGPR": {
+    "script": "nano-toolkit-lite",
+    "created": "2026-09-15T20:14:05.386391",
+    "expires": "2027-09-15T20:14:05.386392"
+  },
+  "SH-VDSP-A4K9-4LS8": {
+    "script": "emerald-enhancer-x",
+    "created": "2026-09-15T20:14:05.386403",
+    "expires": "2027-09-15T20:14:05.386404"
+  },
+  "SH-A2J8-MRCD-W4D9": {
+    "script": "cosmic-pack-pro",
+    "created": "2026-09-15T20:14:05.386420",
+    "expires": "2027-09-15T20:14:05.386421"
+  },
+  "SH-YEGY-5ARS-4V7Z": {
+    "script": "phantom-suite-pro",
+    "created": "2026-09-15T20:14:05.386434",
+    "expires": "2027-09-15T20:14:05.386435"
+  },
+  "SH-599B-QSQF-K3M4": {
+    "script": "titan-hub",
+    "created": "2026-09-15T20:14:05.386446",
+    "expires": "2027-09-15T20:14:05.386447"
+  },
+  "SH-7BXX-XB5E-TAXD": {
+    "script": "solar-toolkit-max",
+    "created": "2026-09-15T20:14:05.386459",
+    "expires": "2027-09-15T20:14:05.386459"
+  },
+  "SH-LQGH-BLWH-7B56": {
+    "script": "titan-script-lite",
+    "created": "2026-09-15T20:14:05.386473",
+    "expires": "2027-09-15T20:14:05.386475"
+  },
+  "SH-XRGQ-KBL8-BUTB": {
+    "script": "hyper-script-zero",
+    "created": "2026-09-15T20:14:05.386493",
+    "expires": "2027-09-15T20:14:05.386494"
+  },
+  "SH-DBZP-7BN2-GLDU": {
+    "script": "cosmic-matrix-max",
+    "created": "2026-09-15T20:14:05.386517",
+    "expires": "2027-09-15T20:14:05.386519"
+  },
+  "SH-TBFE-TKSK-5BS7": {
+    "script": "zephyr-suite-v2",
+    "created": "2026-09-15T20:14:05.386543",
+    "expires": "2027-09-15T20:14:05.386545"
+  },
+  "SH-YQ2Y-GM4D-63Z5": {
+    "script": "quantum-hub",
+    "created": "2026-09-15T20:14:05.386564",
+    "expires": "2027-09-15T20:14:05.386566"
+  },
+  "SH-W5BG-P467-E8LX": {
+    "script": "golden-system-x",
+    "created": "2026-09-15T20:14:05.386584",
+    "expires": "2027-09-15T20:14:05.386586"
+  },
+  "SH-V9RS-SDF2-MNH7": {
+    "script": "cosmic-hub",
+    "created": "2026-09-15T20:14:05.386608",
+    "expires": "2027-09-15T20:14:05.386610"
+  },
+  "SH-495Y-52C4-P4QD": {
+    "script": "alpha-hub",
+    "created": "2026-09-15T20:14:05.386630",
+    "expires": "2027-09-15T20:14:05.386632"
+  },
+  "SH-UAJL-SM6F-RKSX": {
+    "script": "cyber-hub",
+    "created": "2026-09-15T20:14:05.386652",
+    "expires": "2027-09-15T20:14:05.386653"
+  },
+  "SH-P29R-6M94-NQ5E": {
+    "script": "blade-core-v2",
+    "created": "2026-09-15T20:14:05.386677",
+    "expires": "2027-09-15T20:14:05.386678"
+  },
+  "SH-YN3L-NRKF-RDS6": {
+    "script": "quasar-utility-max",
+    "created": "2026-09-15T20:14:05.386704",
+    "expires": "2027-09-15T20:14:05.386706"
+  },
+  "SH-AF37-EVYK-WHSR": {
+    "script": "apex-enhancer-x",
+    "created": "2026-09-15T20:14:05.386726",
+    "expires": "2027-09-15T20:14:05.386728"
+  },
+  "SH-X9VP-RJYW-T4X2": {
+    "script": "quantum-core-lite",
+    "created": "2026-09-15T20:14:05.386752",
+    "expires": "2027-09-15T20:14:05.386753"
+  },
+  "SH-HLYC-4EGK-TLV4": {
+    "script": "vortex-hub",
+    "created": "2026-09-15T20:14:05.386771",
+    "expires": "2027-09-15T20:14:05.386772"
+  },
+  "SH-SZHJ-3533-6Q5R": {
+    "script": "golden-hub",
+    "created": "2026-09-15T20:14:05.386793",
+    "expires": "2027-09-15T20:14:05.386794"
+  },
+  "SH-JP8L-SR2F-NMAZ": {
+    "script": "vortex-framework-pro",
+    "created": "2026-09-15T20:14:05.386815",
+    "expires": "2027-09-15T20:14:05.386817"
+  },
+  "SH-7YLL-PB72-4YDN": {
+    "script": "solaris-system-elite",
+    "created": "2026-09-15T20:14:05.386836",
+    "expires": "2027-09-15T20:14:05.386837"
+  },
+  "SH-HXSZ-2Y52-P9AR": {
+    "script": "crimson-enhancer-v2",
+    "created": "2026-09-15T20:14:05.386857",
+    "expires": "2027-09-15T20:14:05.386859"
+  },
+  "SH-9AR7-ULXP-VR6Q": {
+    "script": "nova-hub",
+    "created": "2026-09-15T20:14:05.386877",
+    "expires": "2027-09-15T20:14:05.386878"
+  },
+  "SH-KW6R-FYWU-YDYQ": {
+    "script": "omega-optimizer-ultra",
+    "created": "2026-09-15T20:14:05.386901",
+    "expires": "2027-09-15T20:14:05.386902"
+  },
+  "SH-BVD8-QR9H-CS95": {
+    "script": "nano-script-lite",
+    "created": "2026-09-15T20:14:05.386923",
+    "expires": "2027-09-15T20:14:05.386924"
+  },
+  "SH-V4FE-QU22-TAR8": {
+    "script": "proto-booster-pro",
+    "created": "2026-09-15T20:14:05.386950",
+    "expires": "2027-09-15T20:14:05.386952"
+  },
+  "SH-JTP9-XA45-8F5X": {
+    "script": "frost-hub",
+    "created": "2026-09-15T20:14:05.386968",
+    "expires": "2027-09-15T20:14:05.386969"
+  },
+  "SH-CKQ3-WZH7-5FT9": {
+    "script": "solaris-system-elite-2",
+    "created": "2026-09-15T20:14:05.386986",
+    "expires": "2027-09-15T20:14:05.386987"
+  },
+  "SH-4WZ8-WN85-NM8F": {
+    "script": "golden-hub-2",
+    "created": "2026-09-15T20:14:05.387007",
+    "expires": "2027-09-15T20:14:05.387008"
+  },
+  "SH-6AAY-YJE5-HCPS": {
+    "script": "cosmic-assistant-pro",
+    "created": "2026-09-15T20:14:05.387026",
+    "expires": "2027-09-15T20:14:05.387027"
+  },
+  "SH-EUDD-R64M-CDCA": {
+    "script": "crimson-loader-go",
+    "created": "2026-09-15T20:14:05.387047",
+    "expires": "2027-09-15T20:14:05.387048"
+  },
+  "SH-CDGT-LN5Y-NF22": {
+    "script": "astral-coach-v2",
+    "created": "2026-09-15T20:14:05.387068",
+    "expires": "2027-09-15T20:14:05.387069"
+  },
+  "SH-JFRN-6U3G-6963": {
+    "script": "storm-hub",
+    "created": "2026-09-15T20:14:05.387089",
+    "expires": "2027-09-15T20:14:05.387090"
+  },
+  "SH-JUZD-TQ56-FMH6": {
+    "script": "vortex-coach-lite",
+    "created": "2026-09-15T20:14:05.387112",
+    "expires": "2027-09-15T20:14:05.387114"
+  },
+  "SH-6RRT-5Y8L-5L3Z": {
+    "script": "shadow-script-v2",
+    "created": "2026-09-15T20:14:05.387136",
+    "expires": "2027-09-15T20:14:05.387138"
+  },
+  "SH-DFDE-XMEY-ABKB": {
+    "script": "lunar-loader-plus",
+    "created": "2026-09-15T20:14:05.387159",
+    "expires": "2027-09-15T20:14:05.387161"
+  },
+  "SH-4M5Z-YXPL-28TN": {
+    "script": "nano-system-ultra",
+    "created": "2026-09-15T20:14:05.387176",
+    "expires": "2027-09-15T20:14:05.387177"
+  },
+  "SH-X2M2-HDLN-7UZR": {
+    "script": "crimson-hub",
+    "created": "2026-09-15T20:14:05.387206",
+    "expires": "2027-09-15T20:14:05.387207"
+  },
+  "SH-YRDW-AJKS-2Q7Q": {
+    "script": "storm-hub-zero",
+    "created": "2026-09-15T20:14:05.387225",
+    "expires": "2027-09-15T20:14:05.387226"
+  },
+  "SH-67A2-DNNR-VAXN": {
+    "script": "cosmic-system-go",
+    "created": "2026-09-15T20:14:05.387243",
+    "expires": "2027-09-15T20:14:05.387244"
+  },
+  "SH-CBHW-59UZ-EYF5": {
+    "script": "cyber-hub-3",
+    "created": "2026-09-15T20:14:05.387261",
+    "expires": "2027-09-15T20:14:05.387262"
+  },
+  "SH-SKYF-AGXX-CVNX": {
+    "script": "phantom-hub",
+    "created": "2026-09-15T20:14:05.387277",
+    "expires": "2027-09-15T20:14:05.387278"
+  },
+  "SH-XYDQ-UKZ7-HQGX": {
+    "script": "solar-hub",
+    "created": "2026-09-15T20:14:05.387297",
+    "expires": "2027-09-15T20:14:05.387298"
+  },
+  "SH-983B-EBLN-EK9K": {
+    "script": "cosmic-toolkit-x",
+    "created": "2026-09-15T20:14:05.387314",
+    "expires": "2027-09-15T20:14:05.387315"
+  },
+  "SH-X9LY-DSAG-UB89": {
+    "script": "golden-hub-3",
+    "created": "2026-09-15T20:14:05.387329",
+    "expires": "2027-09-15T20:14:05.387330"
+  },
+  "SH-RLDJ-JPH8-QE2E": {
+    "script": "mega-module-plus",
+    "created": "2026-09-15T20:14:05.387342",
+    "expires": "2027-09-15T20:14:05.387343"
+  },
+  "SH-H3Y9-FKZY-7ENX": {
+    "script": "golden-hub-plus",
+    "created": "2026-09-15T20:14:05.387355",
+    "expires": "2027-09-15T20:14:05.387356"
+  },
+  "SH-N5XY-5X6E-W2VH": {
+    "script": "blade-loader-go",
+    "created": "2026-09-15T20:14:05.387368",
+    "expires": "2027-09-15T20:14:05.387370"
+  },
+  "SH-HMBG-U5U4-9MAZ": {
+    "script": "nova-booster-pro",
+    "created": "2026-09-15T20:14:05.387390",
+    "expires": "2027-09-15T20:14:05.387391"
+  },
+  "SH-J99B-NF68-P2CM": {
+    "script": "solaris-hub",
+    "created": "2026-09-15T20:14:05.387406",
+    "expires": "2027-09-15T20:14:05.387407"
+  },
+  "SH-Y6DG-B4H3-69GK": {
+    "script": "quantum-assistant-lite",
+    "created": "2026-09-15T20:14:05.387420",
+    "expires": "2027-09-15T20:14:05.387420"
+  },
+  "SH-6WNV-QQC2-QBSB": {
+    "script": "quantum-booster-go",
+    "created": "2026-09-15T20:14:05.387434",
+    "expires": "2027-09-15T20:14:05.387435"
+  },
+  "SH-DVME-XMQC-43MC": {
+    "script": "azure-loader-plus",
+    "created": "2026-09-15T20:14:05.387446",
+    "expires": "2027-09-15T20:14:05.387447"
+  },
+  "SH-RSJ5-PKVP-LBA9": {
+    "script": "zephyr-engine-ultra",
+    "created": "2026-09-15T20:14:05.387460",
+    "expires": "2027-09-15T20:14:05.387461"
+  },
+  "SH-3VY3-S7M9-TV28": {
+    "script": "nova-module-pro",
+    "created": "2026-09-15T20:14:05.387471",
+    "expires": "2027-09-15T20:14:05.387472"
+  },
+  "SH-LEB5-3Z8Z-GA3X": {
+    "script": "mega-hub",
+    "created": "2026-09-15T20:14:05.387483",
+    "expires": "2027-09-15T20:14:05.387484"
+  },
+  "SH-WY38-NZVS-YPLA": {
+    "script": "nova-core-zero",
+    "created": "2026-09-15T20:14:05.387494",
+    "expires": "2027-09-15T20:14:05.387495"
+  },
+  "SH-6U4A-PKU3-B7B2": {
+    "script": "solaris-hub-2",
+    "created": "2026-09-15T20:14:05.387507",
+    "expires": "2027-09-15T20:14:05.387508"
+  },
+  "SH-5EQA-PX85-D6DN": {
+    "script": "phantom-matrix-elite",
+    "created": "2026-09-15T20:14:05.387521",
+    "expires": "2027-09-15T20:14:05.387521"
+  },
+  "SH-PZVU-NKVR-NHYY": {
+    "script": "apex-utility-max",
+    "created": "2026-09-15T20:14:05.387534",
+    "expires": "2027-09-15T20:14:05.387535"
+  },
+  "SH-YN7K-JGFU-NEHY": {
+    "script": "apex-hub-x",
+    "created": "2026-09-15T20:14:05.387547",
+    "expires": "2027-09-15T20:14:05.387548"
+  },
+  "SH-9ZYS-J5N3-NCG8": {
+    "script": "quantum-framework-zero",
+    "created": "2026-09-15T20:14:05.387561",
+    "expires": "2027-09-15T20:14:05.387562"
+  },
+  "SH-BPZV-DM74-9ACN": {
+    "script": "omega-booster-lite",
+    "created": "2026-09-15T20:14:05.387571",
+    "expires": "2027-09-15T20:14:05.387572"
+  },
+  "SH-WH5M-VJFZ-EFMJ": {
+    "script": "cosmic-hub-2",
+    "created": "2026-09-15T20:14:05.387583",
+    "expires": "2027-09-15T20:14:05.387583"
+  },
+  "SH-4W7G-SJBD-X8EV": {
+    "script": "quasar-hub-pro",
+    "created": "2026-09-15T20:14:05.387596",
+    "expires": "2027-09-15T20:14:05.387597"
+  },
+  "SH-PZRG-87HK-K2JR": {
+    "script": "mega-module-lite",
+    "created": "2026-09-15T20:14:05.387609",
+    "expires": "2027-09-15T20:14:05.387610"
+  },
+  "SH-PYYV-N843-76DB": {
+    "script": "phantom-hub-2",
+    "created": "2026-09-15T20:14:05.387624",
+    "expires": "2027-09-15T20:14:05.387624"
+  },
+  "SH-BH3X-WPDA-GFAK": {
+    "script": "mega-matrix-ultra",
+    "created": "2026-09-15T20:14:05.387638",
+    "expires": "2027-09-15T20:14:05.387638"
+  },
+  "SH-VZGF-QNMR-WZY7": {
+    "script": "blade-hub",
+    "created": "2026-09-15T20:14:05.387650",
+    "expires": "2027-09-15T20:14:05.387650"
+  },
+  "SH-S6T5-2U7V-MNSZ": {
+    "script": "frost-forge-max",
+    "created": "2026-09-15T20:14:05.387663",
+    "expires": "2027-09-15T20:14:05.387664"
+  },
+  "SH-GM45-DRUU-GZNH": {
+    "script": "crimson-forge-ultra",
+    "created": "2026-09-15T20:14:05.387675",
+    "expires": "2027-09-15T20:14:05.387676"
+  },
+  "SH-ARBJ-CEZL-8CKD": {
+    "script": "cyber-engine-v2",
+    "created": "2026-09-15T20:14:05.387687",
+    "expires": "2027-09-15T20:14:05.387688"
+  },
+  "SH-VU6L-34AW-FKYS": {
+    "script": "storm-framework-v2",
+    "created": "2026-09-15T20:14:05.387701",
+    "expires": "2027-09-15T20:14:05.387702"
+  },
+  "SH-YQ66-U5CG-XV48": {
+    "script": "nano-loader-lite",
+    "created": "2026-09-15T20:14:05.387716",
+    "expires": "2027-09-15T20:14:05.387717"
+  },
+  "SH-MQZG-G2VM-PAKL": {
+    "script": "quasar-optimizer-ultra",
+    "created": "2026-09-15T20:14:05.387729",
+    "expires": "2027-09-15T20:14:05.387729"
+  },
+  "SH-DCHU-KXXW-KFZP": {
+    "script": "golden-hub-4",
+    "created": "2026-09-15T20:14:05.387744",
+    "expires": "2027-09-15T20:14:05.387745"
+  },
+  "SH-NEGF-SYH4-5THN": {
+    "script": "frost-core-zero",
+    "created": "2026-09-15T20:14:05.387756",
+    "expires": "2027-09-15T20:14:05.387757"
+  },
+  "SH-SZWF-Z427-NSKC": {
+    "script": "nova-forge-max",
+    "created": "2026-09-15T20:14:05.387770",
+    "expires": "2027-09-15T20:14:05.387771"
+  },
+  "SH-2X9J-ZMFA-V3VG": {
+    "script": "hyper-suite-x",
+    "created": "2026-09-15T20:14:05.387783",
+    "expires": "2027-09-15T20:14:05.387784"
+  },
+  "SH-8QLT-8ZJD-W6DL": {
+    "script": "quasar-module-zero",
+    "created": "2026-09-15T20:14:05.387798",
+    "expires": "2027-09-15T20:14:05.387798"
+  },
+  "SH-JR7N-KTRB-7LKL": {
+    "script": "titan-script-go",
+    "created": "2026-09-15T20:14:05.387813",
+    "expires": "2027-09-15T20:14:05.387814"
+  },
+  "SH-34AP-22Z7-C36P": {
+    "script": "nano-module-go",
+    "created": "2026-09-15T20:14:05.387826",
+    "expires": "2027-09-15T20:14:05.387827"
+  },
+  "SH-YV64-KS6R-XNHS": {
+    "script": "phantom-forge-pro",
+    "created": "2026-09-15T20:14:05.387840",
+    "expires": "2027-09-15T20:14:05.387840"
+  },
+  "SH-Y8QJ-CK72-YF98": {
+    "script": "shadow-hub",
+    "created": "2026-09-15T20:14:05.387851",
+    "expires": "2027-09-15T20:14:05.387852"
+  },
+  "SH-GN9P-WJLW-XDF9": {
+    "script": "cyber-forge-lite",
+    "created": "2026-09-15T20:14:05.387872",
+    "expires": "2027-09-15T20:14:05.387873"
+  },
+  "SH-BAUK-WFED-R3V9": {
+    "script": "apex-module-elite",
+    "created": "2026-09-15T20:14:05.387896",
+    "expires": "2027-09-15T20:14:05.387898"
+  },
+  "SH-45YV-QZY5-QWCX": {
+    "script": "azure-framework-go",
+    "created": "2026-09-15T20:14:05.387976",
+    "expires": "2027-09-15T20:14:05.387986"
+  },
+  "SH-EJKL-AKHY-FWDW": {
+    "script": "crimson-hub-2",
+    "created": "2026-09-15T20:14:05.388038",
+    "expires": "2027-09-15T20:14:05.388041"
+  },
+  "SH-AWAY-QVU3-6FT9": {
+    "script": "phantom-system-elite",
+    "created": "2026-09-15T20:14:05.388065",
+    "expires": "2027-09-15T20:14:05.388066"
+  },
+  "SH-H9Z2-A5DB-BK4M": {
+    "script": "solaris-loader-pro",
+    "created": "2026-09-15T20:14:05.388082",
+    "expires": "2027-09-15T20:14:05.388083"
+  },
+  "SH-3Y47-TCH3-45QQ": {
+    "script": "azure-script-pro",
+    "created": "2026-09-15T20:14:05.388102",
+    "expires": "2027-09-15T20:14:05.388103"
+  },
+  "SH-B6UP-7JPE-YMZF": {
+    "script": "azure-engine-v2",
+    "created": "2026-09-15T20:14:05.388140",
+    "expires": "2027-09-15T20:14:05.388142"
+  },
+  "SH-J3YW-483W-7HXF": {
+    "script": "azure-matrix-elite",
+    "created": "2026-09-15T20:14:05.388166",
+    "expires": "2027-09-15T20:14:05.388168"
+  },
+  "SH-NWEG-BX9D-T37L": {
+    "script": "alpha-loader-pro",
+    "created": "2026-09-15T20:14:05.388219",
+    "expires": "2027-09-15T20:14:05.388221"
+  },
+  "SH-GBZ6-QYK9-QXQX": {
+    "script": "blade-loader-ultra",
+    "created": "2026-09-15T20:14:05.388240",
+    "expires": "2027-09-15T20:14:05.388241"
+  },
+  "SH-FHV4-HMPX-4AU9": {
+    "script": "proto-assistant-x",
+    "created": "2026-09-15T20:14:05.388261",
+    "expires": "2027-09-15T20:14:05.388262"
+  },
+  "SH-XH8L-Q3DF-WXQE": {
+    "script": "blade-hub-2",
+    "created": "2026-09-15T20:14:05.388280",
+    "expires": "2027-09-15T20:14:05.388281"
+  },
+  "SH-J4XN-F4XM-TY98": {
+    "script": "astral-assistant-lite",
+    "created": "2026-09-15T20:14:05.388297",
+    "expires": "2027-09-15T20:14:05.388298"
+  },
+  "SH-JET2-7MC2-FGYR": {
+    "script": "storm-module-lite",
+    "created": "2026-09-15T20:14:05.388356",
+    "expires": "2027-09-15T20:14:05.388357"
+  },
+  "SH-P9CL-G4GH-DCY8": {
+    "script": "phantom-bot-plus",
+    "created": "2026-09-15T20:14:05.388379",
+    "expires": "2027-09-15T20:14:05.388380"
+  },
+  "SH-APD8-Q6D7-NF7V": {
+    "script": "storm-loader-v2",
+    "created": "2026-09-15T20:14:05.388399",
+    "expires": "2027-09-15T20:14:05.388400"
+  },
+  "SH-3E9V-NT9N-CKM5": {
+    "script": "solaris-hub-3",
+    "created": "2026-09-15T20:14:05.388423",
+    "expires": "2027-09-15T20:14:05.388424"
+  },
+  "SH-63N5-S2VR-57PN": {
+    "script": "cyber-hub-4",
+    "created": "2026-09-15T20:14:05.388444",
+    "expires": "2027-09-15T20:14:05.388445"
+  },
+  "SH-R6EM-QCM2-XQU7": {
+    "script": "phantom-hub-3",
+    "created": "2026-09-15T20:14:05.388465",
+    "expires": "2027-09-15T20:14:05.388467"
+  },
+  "SH-XT7A-M95K-3LTX": {
+    "script": "zephyr-hub-2",
+    "created": "2026-09-15T20:14:05.388515",
+    "expires": "2027-09-15T20:14:05.388518"
+  },
+  "SH-NBY4-QNGD-VTNG": {
+    "script": "vortex-hub-2",
+    "created": "2026-09-15T20:14:05.388543",
+    "expires": "2027-09-15T20:14:05.388546"
+  },
+  "SH-QKMA-HPEC-Y2VW": {
+    "script": "hyper-engine-plus",
+    "created": "2026-09-15T20:14:05.388765",
+    "expires": "2027-09-15T20:14:05.388769"
+  },
+  "SH-26LQ-HU8C-YZSR": {
+    "script": "solaris-engine-elite",
+    "created": "2026-09-15T20:14:05.388841",
+    "expires": "2027-09-15T20:14:05.388845"
+  },
+  "SH-96CP-LY5D-WEB6": {
+    "script": "vortex-engine-max",
+    "created": "2026-09-15T20:14:05.388862",
+    "expires": "2027-09-15T20:14:05.388863"
+  },
+  "SH-HUB7-ZL9P-FB97": {
+    "script": "solar-script-zero",
+    "created": "2026-09-15T20:14:05.388886",
+    "expires": "2027-09-15T20:14:05.388887"
+  },
+  "SH-UNCS-Q9FZ-KXEG": {
+    "script": "storm-suite-v2",
+    "created": "2026-09-15T20:14:05.388933",
+    "expires": "2027-09-15T20:14:05.388952"
+  },
+  "SH-UW9H-PDCS-EAQ9": {
+    "script": "nova-enhancer-v2",
+    "created": "2026-09-15T20:14:05.388983",
+    "expires": "2027-09-15T20:14:05.388985"
+  },
+  "SH-N9EY-RNE3-W7FH": {
+    "script": "golden-hub-5",
+    "created": "2026-09-15T20:14:05.389018",
+    "expires": "2027-09-15T20:14:05.389022"
+  },
+  "SH-Y3Q4-GNX7-DV65": {
+    "script": "quasar-engine-v2",
+    "created": "2026-09-15T20:14:05.389054",
+    "expires": "2027-09-15T20:14:05.389055"
+  },
+  "SH-GTCE-KCNZ-G8E3": {
+    "script": "hyper-hub",
+    "created": "2026-09-15T20:14:05.389074",
+    "expires": "2027-09-15T20:14:05.389075"
+  },
+  "SH-YY5H-GWZA-6EU6": {
+    "script": "iron-system-max",
+    "created": "2026-09-15T20:14:05.389097",
+    "expires": "2027-09-15T20:14:05.389098"
+  },
+  "SH-7Q8F-JKNR-VQH4": {
+    "script": "titan-optimizer-go",
+    "created": "2026-09-15T20:14:05.389180",
+    "expires": "2027-09-15T20:14:05.389183"
+  },
+  "SH-KEFU-KSAL-FKAJ": {
+    "script": "zephyr-hub-4",
+    "created": "2026-09-15T20:14:05.389205",
+    "expires": "2027-09-15T20:14:05.389206"
+  },
+  "SH-EBLM-4APQ-NE4S": {
+    "script": "turbo-assistant-max",
+    "created": "2026-09-15T20:14:05.389231",
+    "expires": "2027-09-15T20:14:05.389232"
+  },
+  "SH-2G4S-8SDL-QXCP": {
+    "script": "blade-hub-3",
+    "created": "2026-09-15T20:14:05.389249",
+    "expires": "2027-09-15T20:14:05.389251"
+  },
+  "SH-28QV-6BWU-KZZM": {
+    "script": "nano-enhancer-v2",
+    "created": "2026-09-15T20:14:05.389270",
+    "expires": "2027-09-15T20:14:05.389271"
+  },
+  "SH-WKSN-FTJK-T7YP": {
+    "script": "crimson-forge-v2",
+    "created": "2026-09-15T20:14:05.389292",
+    "expires": "2027-09-15T20:14:05.389293"
+  },
+  "SH-EY9G-UEWM-2LWC": {
+    "script": "blade-booster-pro",
+    "created": "2026-09-15T20:14:05.389309",
+    "expires": "2027-09-15T20:14:05.389309"
+  },
+  "SH-QAFH-Q6T9-28YT": {
+    "script": "cyber-hub-5",
+    "created": "2026-09-15T20:14:05.389322",
+    "expires": "2027-09-15T20:14:05.389323"
+  },
+  "SH-UEM8-ET3S-3R4A": {
+    "script": "quantum-hub-2",
+    "created": "2026-09-15T20:14:05.389335",
+    "expires": "2027-09-15T20:14:05.389336"
+  },
+  "SH-NFYG-J6RL-LD6G": {
+    "script": "zephyr-booster-elite",
+    "created": "2026-09-15T20:14:05.389349",
+    "expires": "2027-09-15T20:14:05.389350"
+  },
+  "SH-L4LU-JV8Z-FS9G": {
+    "script": "solaris-hub-4",
+    "created": "2026-09-15T20:14:05.389363",
+    "expires": "2027-09-15T20:14:05.389364"
+  },
+  "SH-TE75-ARRH-5MV8": {
+    "script": "emerald-optimizer-go",
+    "created": "2026-09-15T20:14:05.389379",
+    "expires": "2027-09-15T20:14:05.389380"
+  },
+  "SH-8THV-5CCZ-CRTH": {
+    "script": "alpha-matrix-ultra",
+    "created": "2026-09-15T20:14:05.389404",
+    "expires": "2027-09-15T20:14:05.389406"
+  },
+  "SH-H6S7-2V54-K7NG": {
+    "script": "vortex-hub-3",
+    "created": "2026-09-15T20:14:05.389420",
+    "expires": "2027-09-15T20:14:05.389421"
+  },
+  "SH-TVD2-3QRL-V8UA": {
+    "script": "quasar-framework-go",
+    "created": "2026-09-15T20:14:05.389437",
+    "expires": "2027-09-15T20:14:05.389438"
+  },
+  "SH-UA5U-3N26-EDHC": {
+    "script": "lunar-utility-lite",
+    "created": "2026-09-15T20:14:05.389450",
+    "expires": "2027-09-15T20:14:05.389451"
+  },
+  "SH-KWR5-2HJH-W4S5": {
+    "script": "titan-hub-2",
+    "created": "2026-09-15T20:14:05.389464",
+    "expires": "2027-09-15T20:14:05.389465"
+  },
+  "SH-HQ6X-H9G9-KSV9": {
+    "script": "cosmic-bot-pro",
+    "created": "2026-09-15T20:14:05.389477",
+    "expires": "2027-09-15T20:14:05.389478"
+  },
+  "SH-Y88M-XNAR-EGX6": {
+    "script": "azure-utility-pro",
+    "created": "2026-09-15T20:14:05.389497",
+    "expires": "2027-09-15T20:14:05.389499"
+  },
+  "SH-9JH4-BDGL-59ML": {
+    "script": "solar-module-zero",
+    "created": "2026-09-15T20:14:05.389516",
+    "expires": "2027-09-15T20:14:05.389517"
+  },
+  "SH-G73D-EYB5-GJ7C": {
+    "script": "azure-bot-go",
+    "created": "2026-09-15T20:14:05.389528",
+    "expires": "2027-09-15T20:14:05.389529"
+  },
+  "SH-BQT9-SFGK-DEPX": {
+    "script": "vortex-hub-4",
+    "created": "2026-09-15T20:14:05.389542",
+    "expires": "2027-09-15T20:14:05.389542"
+  },
+  "SH-A27V-76Z5-8RLA": {
+    "script": "quantum-hub-3",
+    "created": "2026-09-15T20:14:05.389557",
+    "expires": "2027-09-15T20:14:05.389558"
+  },
+  "SH-XDZW-7WDV-ZFMX": {
+    "script": "lunar-hub",
+    "created": "2026-09-15T20:14:05.389568",
+    "expires": "2027-09-15T20:14:05.389568"
+  },
+  "SH-PTHQ-ZGZN-8XW4": {
+    "script": "cyber-hub-6",
+    "created": "2026-09-15T20:14:05.389578",
+    "expires": "2027-09-15T20:14:05.389579"
+  },
+  "SH-XGZL-C64D-3C3P": {
+    "script": "hyper-system-go",
+    "created": "2026-09-15T20:14:05.389592",
+    "expires": "2027-09-15T20:14:05.389593"
+  },
+  "SH-WFQU-ERMA-UZL3": {
+    "script": "quasar-hub",
+    "created": "2026-09-15T20:14:05.389608",
+    "expires": "2027-09-15T20:14:05.389609"
+  },
+  "SH-GTQG-JP6B-B2LU": {
+    "script": "nano-utility-max",
+    "created": "2026-09-15T20:14:05.389624",
+    "expires": "2027-09-15T20:14:05.389625"
+  },
+  "SH-X4QJ-T89M-WZRS": {
+    "script": "nano-system-elite",
+    "created": "2026-09-15T20:14:05.389639",
+    "expires": "2027-09-15T20:14:05.389640"
+  },
+  "SH-JBET-BVP3-4HAF": {
+    "script": "vortex-suite-zero",
+    "created": "2026-09-15T20:14:05.389652",
+    "expires": "2027-09-15T20:14:05.389653"
+  },
+  "SH-GNVY-6H78-9GPQ": {
+    "script": "vortex-suite-zero-2",
+    "created": "2026-09-15T20:14:05.389665",
+    "expires": "2027-09-15T20:14:05.389666"
+  },
+  "SH-VB2A-J5N6-42K6": {
+    "script": "solaris-booster-v2",
+    "created": "2026-09-15T20:14:05.389676",
+    "expires": "2027-09-15T20:14:05.389677"
+  },
+  "SH-BM3S-5566-XMAN": {
+    "script": "storm-hub-2",
+    "created": "2026-09-15T20:14:05.389689",
+    "expires": "2027-09-15T20:14:05.389689"
+  },
+  "SH-8X7G-YSBV-37BL": {
+    "script": "frost-matrix-pro",
+    "created": "2026-09-15T20:14:05.389700",
+    "expires": "2027-09-15T20:14:05.389701"
+  },
+  "SH-AY29-9WX7-C76G": {
+    "script": "crimson-utility-plus",
+    "created": "2026-09-15T20:14:05.389727",
+    "expires": "2027-09-15T20:14:05.389729"
+  },
+  "SH-QLMT-UHCM-AFWC": {
+    "script": "nova-framework-plus",
+    "created": "2026-09-15T20:14:05.389749",
+    "expires": "2027-09-15T20:14:05.389750"
+  },
+  "SH-WMXL-ZD4G-56DV": {
+    "script": "crimson-toolkit-ultra",
+    "created": "2026-09-15T20:14:05.389767",
+    "expires": "2027-09-15T20:14:05.389769"
+  },
+  "SH-LB22-X5GT-S6Q8": {
+    "script": "quasar-hub-2",
+    "created": "2026-09-15T20:14:05.389800",
+    "expires": "2027-09-15T20:14:05.389802"
+  },
+  "SH-3UGN-HY85-BJJD": {
+    "script": "lunar-hub-2",
+    "created": "2026-09-15T20:14:05.389827",
+    "expires": "2027-09-15T20:14:05.389830"
+  },
+  "SH-DGHP-2TD4-E3FE": {
+    "script": "cyber-matrix-pro",
+    "created": "2026-09-15T20:14:05.389854",
+    "expires": "2027-09-15T20:14:05.389856"
+  },
+  "SH-BDGJ-XVB8-QDPA": {
+    "script": "titan-toolkit-zero",
+    "created": "2026-09-15T20:14:05.389873",
+    "expires": "2027-09-15T20:14:05.389874"
+  },
+  "SH-8XJT-YFFB-ZVA6": {
+    "script": "titan-suite-v2",
+    "created": "2026-09-15T20:14:05.389891",
+    "expires": "2027-09-15T20:14:05.389892"
+  },
+  "SH-WHAA-93SX-C849": {
+    "script": "shadow-hub-2",
+    "created": "2026-09-15T20:14:05.389914",
+    "expires": "2027-09-15T20:14:05.389915"
+  },
+  "SH-U6W7-C3VK-PCSK": {
+    "script": "emerald-hub",
+    "created": "2026-09-15T20:14:05.389931",
+    "expires": "2027-09-15T20:14:05.389932"
+  },
+  "SH-ZAEN-Z7SF-W47S": {
+    "script": "nano-script-go",
+    "created": "2026-09-15T20:14:05.389948",
+    "expires": "2027-09-15T20:14:05.389949"
+  },
+  "SH-YUZE-YWWZ-8P43": {
+    "script": "shadow-hub-3",
+    "created": "2026-09-15T20:14:05.389966",
+    "expires": "2027-09-15T20:14:05.389967"
+  },
+  "SH-9H2S-QLKK-CF4A": {
+    "script": "proto-core-zero",
+    "created": "2026-09-15T20:14:05.389981",
+    "expires": "2027-09-15T20:14:05.389982"
+  },
+  "SH-F93E-5RJA-246C": {
+    "script": "apex-suite-lite",
+    "created": "2026-09-15T20:14:05.389995",
+    "expires": "2027-09-15T20:14:05.389996"
+  },
+  "SH-TJDT-3LP6-JEPD": {
+    "script": "omega-hub",
+    "created": "2026-09-15T20:14:05.390020",
+    "expires": "2027-09-15T20:14:05.390022"
+  },
+  "SH-45DS-ER8M-NTFH": {
+    "script": "alpha-suite-pro",
+    "created": "2026-09-15T20:14:05.390042",
+    "expires": "2027-09-15T20:14:05.390044"
+  },
+  "SH-3YPJ-W5RD-5L9T": {
+    "script": "emerald-loader-v2",
+    "created": "2026-09-15T20:14:05.390064",
+    "expires": "2027-09-15T20:14:05.390066"
+  },
+  "SH-D3VS-YGPA-USM8": {
+    "script": "solar-hub-2",
+    "created": "2026-09-15T20:14:05.390085",
+    "expires": "2027-09-15T20:14:05.390087"
+  },
+  "SH-AE2Y-TXZ8-GA23": {
+    "script": "mega-optimizer-elite",
+    "created": "2026-09-15T20:14:05.390110",
+    "expires": "2027-09-15T20:14:05.390112"
+  },
+  "SH-MQ98-2TAG-NASS": {
+    "script": "hyper-utility-pro",
+    "created": "2026-09-15T20:14:05.390129",
+    "expires": "2027-09-15T20:14:05.390130"
+  },
+  "SH-FG4P-YHPG-UZHG": {
+    "script": "frost-bot-zero",
+    "created": "2026-09-15T20:14:05.390156",
+    "expires": "2027-09-15T20:14:05.390157"
+  },
+  "SH-8WLD-CZDE-PNAN": {
+    "script": "frost-utility-pro",
+    "created": "2026-09-15T20:14:05.390178",
+    "expires": "2027-09-15T20:14:05.390179"
+  },
+  "SH-PRDA-U7BF-UU7X": {
+    "script": "proto-bot-pro",
+    "created": "2026-09-15T20:14:05.390189",
+    "expires": "2027-09-15T20:14:05.390190"
+  },
+  "SH-HJF2-Y4RV-SZCR": {
+    "script": "quasar-toolkit-elite",
+    "created": "2026-09-15T20:14:05.390211",
+    "expires": "2027-09-15T20:14:05.390212"
+  },
+  "SH-PQEG-SZ7K-TDV3": {
+    "script": "quasar-hub-3",
+    "created": "2026-09-15T20:14:05.390229",
+    "expires": "2027-09-15T20:14:05.390230"
+  },
+  "SH-BD4L-G9CN-ULYL": {
+    "script": "lunar-hub-3",
+    "created": "2026-09-15T20:14:05.390249",
+    "expires": "2027-09-15T20:14:05.390250"
+  },
+  "SH-E5Y2-487M-PP5M": {
+    "script": "nano-hub-2",
+    "created": "2026-09-15T20:14:05.390261",
+    "expires": "2027-09-15T20:14:05.390262"
+  },
+  "SH-7PRH-TN9K-EWM3": {
+    "script": "lunar-hub-4",
+    "created": "2026-09-15T20:14:05.390280",
+    "expires": "2027-09-15T20:14:05.390281"
+  },
+  "SH-2FG2-Y9A5-X79L": {
+    "script": "zephyr-toolkit-lite",
+    "created": "2026-09-15T20:14:05.390294",
+    "expires": "2027-09-15T20:14:05.390294"
+  },
+  "SH-DDUN-RMWY-CVSC": {
+    "script": "iron-hub",
+    "created": "2026-09-15T20:14:05.390306",
+    "expires": "2027-09-15T20:14:05.390306"
+  },
+  "SH-4LMU-SP5G-R6ZL": {
+    "script": "solar-hub-3",
+    "created": "2026-09-15T20:14:05.390319",
+    "expires": "2027-09-15T20:14:05.390320"
+  },
+  "SH-2RSS-CTX5-KS5T": {
+    "script": "emerald-module-lite",
+    "created": "2026-09-15T20:14:05.390335",
+    "expires": "2027-09-15T20:14:05.390336"
+  },
+  "SH-LAFC-Z4VS-V53K": {
+    "script": "apex-script-elite",
+    "created": "2026-09-15T20:14:05.390348",
+    "expires": "2027-09-15T20:14:05.390349"
+  },
+  "SH-7SWY-NAC5-ZGWZ": {
+    "script": "emerald-assistant-zero",
+    "created": "2026-09-15T20:14:05.390359",
+    "expires": "2027-09-15T20:14:05.390360"
+  },
+  "SH-UZPZ-R2QW-HN3G": {
+    "script": "frost-hub-2",
+    "created": "2026-09-15T20:14:05.390371",
+    "expires": "2027-09-15T20:14:05.390372"
+  },
+  "SH-X6LK-RQLP-6JFF": {
+    "script": "lunar-script-elite",
+    "created": "2026-09-15T20:14:05.390385",
+    "expires": "2027-09-15T20:14:05.390386"
+  },
+  "SH-W93N-VURW-VSST": {
+    "script": "storm-assistant-pro",
+    "created": "2026-09-15T20:14:05.390400",
+    "expires": "2027-09-15T20:14:05.390401"
+  },
+  "SH-EKT9-W53C-ZAQH": {
+    "script": "titan-framework-max",
+    "created": "2026-09-15T20:14:05.390414",
+    "expires": "2027-09-15T20:14:05.390415"
+  },
+  "SH-9AL7-K52U-LNHM": {
+    "script": "astral-coach-max-2",
+    "created": "2026-09-15T20:14:05.390429",
+    "expires": "2027-09-15T20:14:05.390431"
+  },
+  "SH-JBYQ-P2WT-RAPU": {
+    "script": "zephyr-loader-plus",
+    "created": "2026-09-15T20:14:05.390448",
+    "expires": "2027-09-15T20:14:05.390450"
+  },
+  "SH-3WPX-7ND7-2L65": {
+    "script": "apex-hub",
+    "created": "2026-09-15T20:14:05.390472",
+    "expires": "2027-09-15T20:14:05.390473"
+  },
+  "SH-VZBM-GLEG-9ZH6": {
+    "script": "phantom-engine-ultra",
+    "created": "2026-09-15T20:14:05.390490",
+    "expires": "2027-09-15T20:14:05.390491"
+  },
+  "SH-4JTW-FVGY-6MWF": {
+    "script": "iron-utility-max",
+    "created": "2026-09-15T20:14:05.390504",
+    "expires": "2027-09-15T20:14:05.390505"
+  },
+  "SH-XPBL-U4PK-CHCA": {
+    "script": "quasar-script-lite",
+    "created": "2026-09-15T20:14:05.390517",
+    "expires": "2027-09-15T20:14:05.390518"
+  },
+  "SH-6YL4-KQ26-NXSC": {
+    "script": "cyber-forge-pro",
+    "created": "2026-09-15T20:14:05.390528",
+    "expires": "2027-09-15T20:14:05.390529"
+  },
+  "SH-MRM5-TC7R-FPEN": {
+    "script": "solar-engine-zero",
+    "created": "2026-09-15T20:14:05.390541",
+    "expires": "2027-09-15T20:14:05.390542"
+  },
+  "SH-97P3-C5S2-UE2U": {
+    "script": "phantom-core-go",
+    "created": "2026-09-15T20:14:05.390555",
+    "expires": "2027-09-15T20:14:05.390556"
+  },
+  "SH-5TKK-AP9D-KHGW": {
+    "script": "nano-matrix-elite",
+    "created": "2026-09-15T20:14:05.390567",
+    "expires": "2027-09-15T20:14:05.390568"
+  },
+  "SH-H4WN-RY8H-J5NE": {
+    "script": "hyper-suite-ultra",
+    "created": "2026-09-15T20:14:05.390580",
+    "expires": "2027-09-15T20:14:05.390581"
+  },
+  "SH-65TE-NVCX-TW8N": {
+    "script": "proto-booster-v2",
+    "created": "2026-09-15T20:14:05.390592",
+    "expires": "2027-09-15T20:14:05.390593"
+  },
+  "SH-384B-MENR-VTSB": {
+    "script": "quasar-hub-4",
+    "created": "2026-09-15T20:14:05.390604",
+    "expires": "2027-09-15T20:14:05.390605"
+  },
+  "SH-BZP3-587G-FWMV": {
+    "script": "astral-loader-go",
+    "created": "2026-09-15T20:14:05.390615",
+    "expires": "2027-09-15T20:14:05.390616"
+  },
+  "SH-BXXC-WYCZ-E8KZ": {
+    "script": "hyper-hub-2",
+    "created": "2026-09-15T20:14:05.390628",
+    "expires": "2027-09-15T20:14:05.390629"
+  },
+  "SH-YBRM-WJLQ-XWKS": {
+    "script": "zephyr-toolkit-go",
+    "created": "2026-09-15T20:14:05.390640",
+    "expires": "2027-09-15T20:14:05.390641"
+  },
+  "SH-HURJ-PRLV-2EM7": {
+    "script": "frost-bot-pro",
+    "created": "2026-09-15T20:14:05.390653",
+    "expires": "2027-09-15T20:14:05.390654"
+  },
+  "SH-Q7FE-F96V-ZY5P": {
+    "script": "titan-matrix-ultra",
+    "created": "2026-09-15T20:14:05.390666",
+    "expires": "2027-09-15T20:14:05.390666"
+  },
+  "SH-NCYQ-453X-S7YA": {
+    "script": "azure-engine-v2-2",
+    "created": "2026-09-15T20:14:05.390677",
+    "expires": "2027-09-15T20:14:05.390678"
+  },
+  "SH-9N4W-RKPT-CNQZ": {
+    "script": "nova-hub-4",
+    "created": "2026-09-15T20:14:05.390691",
+    "expires": "2027-09-15T20:14:05.390692"
+  },
+  "SH-DUV3-ZBDE-M92H": {
+    "script": "crimson-assistant-zero",
+    "created": "2026-09-15T20:14:05.390712",
+    "expires": "2027-09-15T20:14:05.390713"
+  },
+  "SH-EBZ3-AH84-9V3M": {
+    "script": "frost-loader-go",
+    "created": "2026-09-15T20:14:05.390734",
+    "expires": "2027-09-15T20:14:05.390735"
+  },
+  "SH-5Q7W-MUGD-TXR6": {
+    "script": "blade-pack-zero",
+    "created": "2026-09-15T20:14:05.390749",
+    "expires": "2027-09-15T20:14:05.390750"
+  },
+  "SH-NSFE-ZSRN-A3RY": {
+    "script": "phantom-matrix-lite",
+    "created": "2026-09-15T20:14:05.390764",
+    "expires": "2027-09-15T20:14:05.390764"
+  },
+  "SH-XKUB-24UU-G7EC": {
+    "script": "blade-booster-pro-2",
+    "created": "2026-09-15T20:14:05.390776",
+    "expires": "2027-09-15T20:14:05.390777"
+  },
+  "SH-UQEQ-657Q-JWDN": {
+    "script": "shadow-core-plus",
+    "created": "2026-09-15T20:14:05.390788",
+    "expires": "2027-09-15T20:14:05.390788"
+  },
+  "SH-TYV8-FZZ8-Q8D8": {
+    "script": "proto-hub",
+    "created": "2026-09-15T20:14:05.390800",
+    "expires": "2027-09-15T20:14:05.390801"
+  },
+  "SH-G24N-4F3B-XSFH": {
+    "script": "blade-bot-ultra",
+    "created": "2026-09-15T20:14:05.390814",
+    "expires": "2027-09-15T20:14:05.390815"
+  },
+  "SH-S24B-TB9E-FJ8Z": {
+    "script": "quantum-core-max",
+    "created": "2026-09-15T20:14:05.390828",
+    "expires": "2027-09-15T20:14:05.390829"
+  },
+  "SH-6PJY-YTXW-6PCA": {
+    "script": "phantom-hub-5",
+    "created": "2026-09-15T20:14:05.390844",
+    "expires": "2027-09-15T20:14:05.390844"
+  },
+  "SH-8MWK-YGEL-8QDQ": {
+    "script": "apex-optimizer-max",
+    "created": "2026-09-15T20:14:05.390859",
+    "expires": "2027-09-15T20:14:05.390860"
+  },
+  "SH-A6V4-5NEQ-76G5": {
+    "script": "mega-hub-2",
+    "created": "2026-09-15T20:14:05.390870",
+    "expires": "2027-09-15T20:14:05.390871"
+  },
+  "SH-V8KE-EATQ-UXAT": {
+    "script": "alpha-hub-3",
+    "created": "2026-09-15T20:14:05.390883",
+    "expires": "2027-09-15T20:14:05.390884"
+  },
+  "SH-6GHT-QH3K-3VX7": {
+    "script": "astral-hub-2",
+    "created": "2026-09-15T20:14:05.390896",
+    "expires": "2027-09-15T20:14:05.390897"
+  },
+  "SH-FYTN-GRAX-69SE": {
+    "script": "iron-hub-2",
+    "created": "2026-09-15T20:14:05.390909",
+    "expires": "2027-09-15T20:14:05.390911"
+  },
+  "SH-WC66-9H69-6QD8": {
+    "script": "lunar-hub-5",
+    "created": "2026-09-15T20:14:05.390923",
+    "expires": "2027-09-15T20:14:05.390924"
+  },
+  "SH-GF6H-LWH3-CC4B": {
+    "script": "proto-hub-2",
+    "created": "2026-09-15T20:14:05.390937",
+    "expires": "2027-09-15T20:14:05.390938"
+  },
+  "SH-FDVT-7NSE-KS7P": {
+    "script": "cyber-coach-pro",
+    "created": "2026-09-15T20:14:05.390949",
+    "expires": "2027-09-15T20:14:05.390949"
+  },
+  "SH-V2W5-7ATJ-GB47": {
+    "script": "emerald-coach-elite",
+    "created": "2026-09-15T20:14:05.390960",
+    "expires": "2027-09-15T20:14:05.390961"
+  },
+  "SH-KHBU-VARZ-2G67": {
+    "script": "hyper-module-zero",
+    "created": "2026-09-15T20:14:05.390971",
+    "expires": "2027-09-15T20:14:05.390972"
+  },
+  "SH-HXTS-926V-7F4R": {
+    "script": "emerald-optimizer-go-2",
+    "created": "2026-09-15T20:14:05.390985",
+    "expires": "2027-09-15T20:14:05.390986"
+  },
+  "SH-FFUF-VWYB-6PXJ": {
+    "script": "quantum-assistant-pro",
+    "created": "2026-09-15T20:14:05.390997",
+    "expires": "2027-09-15T20:14:05.390998"
+  },
+  "SH-4NWD-W32L-U6HC": {
+    "script": "solaris-loader-zero",
+    "created": "2026-09-15T20:14:05.391010",
+    "expires": "2027-09-15T20:14:05.391011"
+  },
+  "SH-CX6X-ZWPQ-MXNF": {
+    "script": "cyber-core-x",
+    "created": "2026-09-15T20:14:05.391024",
+    "expires": "2027-09-15T20:14:05.391025"
+  },
+  "SH-9L3F-WDHL-CZKK": {
+    "script": "quantum-optimizer-pro",
+    "created": "2026-09-15T20:14:05.391041",
+    "expires": "2027-09-15T20:14:05.391042"
+  },
+  "SH-N6YE-4YDS-QFV4": {
+    "script": "titan-hub-3",
+    "created": "2026-09-15T20:14:05.391054",
+    "expires": "2027-09-15T20:14:05.391055"
+  },
+  "SH-WK8Z-XULS-RPNT": {
+    "script": "solaris-hub-5",
+    "created": "2026-09-15T20:14:05.391067",
+    "expires": "2027-09-15T20:14:05.391068"
+  },
+  "SH-MHYU-D4R7-PYZH": {
+    "script": "nova-bot-ultra",
+    "created": "2026-09-15T20:14:05.391081",
+    "expires": "2027-09-15T20:14:05.391082"
+  },
+  "SH-25RQ-PAND-V52E": {
+    "script": "golden-hub-7",
+    "created": "2026-09-15T20:14:05.391093",
+    "expires": "2027-09-15T20:14:05.391093"
+  },
+  "SH-ADWS-7W58-AREW": {
+    "script": "solar-core-lite",
+    "created": "2026-09-15T20:14:05.391105",
+    "expires": "2027-09-15T20:14:05.391105"
+  },
+  "SH-DPR2-ZW2N-WM9E": {
+    "script": "storm-hub-3",
+    "created": "2026-09-15T20:14:05.391117",
+    "expires": "2027-09-15T20:14:05.391117"
+  },
+  "SH-XFT3-858F-BF99": {
+    "script": "phantom-system-pro",
+    "created": "2026-09-15T20:14:05.391129",
+    "expires": "2027-09-15T20:14:05.391130"
+  },
+  "SH-P2UQ-GYSP-XQGT": {
+    "script": "alpha-assistant-zero",
+    "created": "2026-09-15T20:14:05.391150",
+    "expires": "2027-09-15T20:14:05.391151"
+  },
+  "SH-VJUX-GWQA-XX7W": {
+    "script": "alpha-module-pro",
+    "created": "2026-09-15T20:14:05.391171",
+    "expires": "2027-09-15T20:14:05.391172"
+  },
+  "SH-CLEA-XCHK-86UT": {
+    "script": "proto-system-lite",
+    "created": "2026-09-15T20:14:05.391192",
+    "expires": "2027-09-15T20:14:05.391193"
+  },
+  "SH-VYSZ-NRWZ-JRB7": {
+    "script": "emerald-bot-v2",
+    "created": "2026-09-15T20:14:05.391218",
+    "expires": "2027-09-15T20:14:05.391219"
+  },
+  "SH-PK4D-3GPK-GEFB": {
+    "script": "zephyr-engine-elite",
+    "created": "2026-09-15T20:14:05.391239",
+    "expires": "2027-09-15T20:14:05.391241"
+  },
+  "SH-3PLY-CJPF-PYTW": {
+    "script": "hyper-utility-elite",
+    "created": "2026-09-15T20:14:05.391300",
+    "expires": "2027-09-15T20:14:05.391304"
+  },
+  "SH-VDLY-QYGM-FFDX": {
+    "script": "cyber-enhancer-zero",
+    "created": "2026-09-15T20:14:05.391346",
+    "expires": "2027-09-15T20:14:05.391353"
+  },
+  "SH-QGED-SBSK-NR7T": {
+    "script": "titan-hub-4",
+    "created": "2026-09-15T20:14:05.391395",
+    "expires": "2027-09-15T20:14:05.391397"
+  },
+  "SH-3TB7-KNG4-ULWB": {
+    "script": "omega-module-max",
+    "created": "2026-09-15T20:14:05.391414",
+    "expires": "2027-09-15T20:14:05.391415"
+  },
+  "SH-YKNR-6KX2-GQSX": {
+    "script": "astral-assistant-x",
+    "created": "2026-09-15T20:14:05.391440",
+    "expires": "2027-09-15T20:14:05.391441"
+  },
+  "SH-PXZY-GX85-N8C9": {
+    "script": "astral-core-zero",
+    "created": "2026-09-15T20:14:05.391529",
+    "expires": "2027-09-15T20:14:05.391534"
+  },
+  "SH-L9M6-9GLH-YZWS": {
+    "script": "emerald-engine-v2",
+    "created": "2026-09-15T20:14:05.391564",
+    "expires": "2027-09-15T20:14:05.391565"
+  },
+  "SH-BTEL-5XXK-B2ZV": {
+    "script": "cyber-utility-max-2",
+    "created": "2026-09-15T20:14:05.391586",
+    "expires": "2027-09-15T20:14:05.391587"
+  },
+  "SH-HXFQ-KPCN-N8EH": {
+    "script": "storm-loader-max",
+    "created": "2026-09-15T20:14:05.391609",
+    "expires": "2027-09-15T20:14:05.391610"
+  },
+  "SH-BP4R-Z9ZZ-QTFY": {
+    "script": "shadow-booster-v2",
+    "created": "2026-09-15T20:14:05.391664",
+    "expires": "2027-09-15T20:14:05.391666"
+  },
+  "SH-K9BY-RAWE-4AAL": {
+    "script": "shadow-assistant-lite",
+    "created": "2026-09-15T20:14:05.391687",
+    "expires": "2027-09-15T20:14:05.391689"
+  },
+  "SH-52DR-FY5T-B9KN": {
+    "script": "shadow-pack-plus",
+    "created": "2026-09-15T20:14:05.391714",
+    "expires": "2027-09-15T20:14:05.391716"
+  },
+  "SH-XYTR-WXT4-SHWU": {
+    "script": "frost-matrix-ultra",
+    "created": "2026-09-15T20:14:05.391740",
+    "expires": "2027-09-15T20:14:05.391741"
+  },
+  "SH-HXV2-8Y6F-VWJ5": {
+    "script": "shadow-matrix-go",
+    "created": "2026-09-15T20:14:05.391768",
+    "expires": "2027-09-15T20:14:05.391769"
+  },
+  "SH-VEQ9-CDMZ-AMUW": {
+    "script": "astral-loader-max",
+    "created": "2026-09-15T20:14:05.391791",
+    "expires": "2027-09-15T20:14:05.391792"
+  },
+  "SH-44C4-323U-83XZ": {
+    "script": "emerald-toolkit-x",
+    "created": "2026-09-15T20:14:05.391818",
+    "expires": "2027-09-15T20:14:05.391821"
+  },
+  "SH-SBL2-MB3B-3E8R": {
+    "script": "azure-utility-lite",
+    "created": "2026-09-15T20:14:05.391940",
+    "expires": "2027-09-15T20:14:05.391945"
+  },
+  "SH-QBTQ-RSZ6-EAKX": {
+    "script": "quantum-hub-4",
+    "created": "2026-09-15T20:14:05.392085",
+    "expires": "2027-09-15T20:14:05.392089"
+  },
+  "SH-Y88M-PTTN-SYCS": {
+    "script": "astral-hub-max",
+    "created": "2026-09-15T20:14:05.392113",
+    "expires": "2027-09-15T20:14:05.392114"
+  },
+  "SH-NRS7-CNHB-7H7N": {
+    "script": "zephyr-hub-6",
+    "created": "2026-09-15T20:14:05.392132",
+    "expires": "2027-09-15T20:14:05.392133"
+  },
+  "SH-FZGV-ZXEM-G2YW": {
+    "script": "omega-framework-x",
+    "created": "2026-09-15T20:14:05.392154",
+    "expires": "2027-09-15T20:14:05.392155"
+  },
+  "SH-7AXA-82W6-7F4P": {
+    "script": "iron-hub-3",
+    "created": "2026-09-15T20:14:05.392182",
+    "expires": "2027-09-15T20:14:05.392183"
+  },
+  "SH-S4ST-B7AB-GW9J": {
+    "script": "shadow-hub-4",
+    "created": "2026-09-15T20:14:05.392202",
+    "expires": "2027-09-15T20:14:05.392203"
+  },
+  "SH-TNU5-A62S-JMTW": {
+    "script": "lunar-toolkit-go",
+    "created": "2026-09-15T20:14:05.392221",
+    "expires": "2027-09-15T20:14:05.392222"
+  },
+  "SH-NYJL-A28K-Z4AK": {
+    "script": "mega-engine-plus",
+    "created": "2026-09-15T20:14:05.392265",
+    "expires": "2027-09-15T20:14:05.392269"
+  },
+  "SH-HGMB-AMQT-7NX4": {
+    "script": "mega-matrix-zero-2",
+    "created": "2026-09-15T20:14:05.392299",
+    "expires": "2027-09-15T20:14:05.392300"
+  },
+  "SH-WPAS-WGJS-B4D6": {
+    "script": "nano-hub-3",
+    "created": "2026-09-15T20:14:05.392315",
+    "expires": "2027-09-15T20:14:05.392316"
+  },
+  "SH-P7VF-DE59-7WAR": {
+    "script": "vortex-enhancer-go",
+    "created": "2026-09-15T20:14:05.392337",
+    "expires": "2027-09-15T20:14:05.392339"
+  },
+  "SH-SPJW-EC5M-AZWX": {
+    "script": "lunar-hub-6",
+    "created": "2026-09-15T20:14:05.392359",
+    "expires": "2027-09-15T20:14:05.392361"
+  },
+  "SH-HQ3E-EEW5-5WMQ": {
+    "script": "storm-core-go",
+    "created": "2026-09-15T20:14:05.392376",
+    "expires": "2027-09-15T20:14:05.392377"
+  },
+  "SH-HQS4-G3XD-5NZK": {
+    "script": "nova-script-elite",
+    "created": "2026-09-15T20:14:05.392396",
+    "expires": "2027-09-15T20:14:05.392398"
+  },
+  "SH-K8QL-ZYSM-RPA5": {
+    "script": "crimson-module-ultra",
+    "created": "2026-09-15T20:14:05.392417",
+    "expires": "2027-09-15T20:14:05.392418"
+  },
+  "SH-42KK-39Z6-3BPN": {
+    "script": "phantom-hub-6",
+    "created": "2026-09-15T20:14:05.392438",
+    "expires": "2027-09-15T20:14:05.392439"
+  },
+  "SH-JR97-WNUH-VGL8": {
+    "script": "solar-engine-plus",
+    "created": "2026-09-15T20:14:05.392459",
+    "expires": "2027-09-15T20:14:05.392460"
+  },
+  "SH-YXXS-YU7Z-HMQA": {
+    "script": "phantom-system-max",
+    "created": "2026-09-15T20:14:05.392479",
+    "expires": "2027-09-15T20:14:05.392480"
+  },
+  "SH-AFF7-UYLL-JFD7": {
+    "script": "blade-hub-4",
+    "created": "2026-09-15T20:14:05.392498",
+    "expires": "2027-09-15T20:14:05.392500"
+  },
+  "SH-PGMJ-L7HH-ME2H": {
+    "script": "blade-hub-max",
+    "created": "2026-09-15T20:14:05.392522",
+    "expires": "2027-09-15T20:14:05.392523"
+  },
+  "SH-3W8D-72WN-K24S": {
+    "script": "lunar-booster-go",
+    "created": "2026-09-15T20:14:05.392540",
+    "expires": "2027-09-15T20:14:05.392541"
+  },
+  "SH-SGRD-YPK5-TTJ3": {
+    "script": "zephyr-framework-ultra",
+    "created": "2026-09-15T20:14:05.392553",
+    "expires": "2027-09-15T20:14:05.392554"
+  },
+  "SH-DR3J-LM3M-MCJX": {
+    "script": "phantom-hub-7",
+    "created": "2026-09-15T20:14:05.392566",
+    "expires": "2027-09-15T20:14:05.392567"
+  },
+  "SH-GX5Z-28AF-8ZSX": {
+    "script": "turbo-coach-lite",
+    "created": "2026-09-15T20:14:05.392580",
+    "expires": "2027-09-15T20:14:05.392580"
+  },
+  "SH-AE25-KN2N-L3KK": {
+    "script": "nano-optimizer-plus",
+    "created": "2026-09-15T20:14:05.392591",
+    "expires": "2027-09-15T20:14:05.392592"
+  },
+  "SH-MVRY-3H4T-4996": {
+    "script": "crimson-enhancer-zero",
+    "created": "2026-09-15T20:14:05.392604",
+    "expires": "2027-09-15T20:14:05.392605"
+  },
+  "SH-7APE-F4ZG-Y2YJ": {
+    "script": "lunar-assistant-v2",
+    "created": "2026-09-15T20:14:05.392619",
+    "expires": "2027-09-15T20:14:05.392620"
+  },
+  "SH-ZUBV-8TA8-MNP6": {
+    "script": "emerald-toolkit-pro",
+    "created": "2026-09-15T20:14:05.392632",
+    "expires": "2027-09-15T20:14:05.392633"
+  },
+  "SH-E6MP-7SC2-T6SN": {
+    "script": "lunar-enhancer-max",
+    "created": "2026-09-15T20:14:05.392646",
+    "expires": "2027-09-15T20:14:05.392648"
+  },
+  "SH-ZN2X-B55H-5GVN": {
+    "script": "vortex-system-elite",
+    "created": "2026-09-15T20:14:05.392665",
+    "expires": "2027-09-15T20:14:05.392666"
+  },
+  "SH-KUKF-JJQU-N95D": {
+    "script": "alpha-pack-elite",
+    "created": "2026-09-15T20:14:05.392691",
+    "expires": "2027-09-15T20:14:05.392692"
+  },
+  "SH-WBH8-37YP-B4GA": {
+    "script": "solaris-suite-go",
+    "created": "2026-09-15T20:14:05.392706",
+    "expires": "2027-09-15T20:14:05.392707"
+  },
+  "SH-AKKB-L7MT-RBB8": {
+    "script": "cosmic-hub-3",
+    "created": "2026-09-15T20:14:05.392719",
+    "expires": "2027-09-15T20:14:05.392720"
+  },
+  "SH-543S-HYT2-NN2B": {
+    "script": "titan-module-lite",
+    "created": "2026-09-15T20:14:05.392732",
+    "expires": "2027-09-15T20:14:05.392733"
+  },
+  "SH-L76W-R7DV-9DCR": {
+    "script": "proto-engine-lite",
+    "created": "2026-09-15T20:14:05.392744",
+    "expires": "2027-09-15T20:14:05.392745"
+  },
+  "SH-WVBX-TEUP-NUB4": {
+    "script": "proto-suite-go",
+    "created": "2026-09-15T20:14:05.392755",
+    "expires": "2027-09-15T20:14:05.392756"
+  },
+  "SH-MFRT-8AWP-EWW9": {
+    "script": "golden-hub-8",
+    "created": "2026-09-15T20:14:05.392768",
+    "expires": "2027-09-15T20:14:05.392769"
+  },
+  "SH-7QT8-W82E-GWZ3": {
+    "script": "nano-hub-4",
+    "created": "2026-09-15T20:14:05.392781",
+    "expires": "2027-09-15T20:14:05.392781"
+  },
+  "SH-ZNLZ-PYHQ-XUT3": {
+    "script": "phantom-loader-elite",
+    "created": "2026-09-15T20:14:05.392793",
+    "expires": "2027-09-15T20:14:05.392793"
+  },
+  "SH-E283-4TZW-35VB": {
+    "script": "solar-framework-v2",
+    "created": "2026-09-15T20:14:05.392807",
+    "expires": "2027-09-15T20:14:05.392808"
+  },
+  "SH-YPGJ-G9XL-2WBH": {
+    "script": "shadow-utility-lite",
+    "created": "2026-09-15T20:14:05.392819",
+    "expires": "2027-09-15T20:14:05.392820"
+  },
+  "SH-Z2AC-29W4-3XWF": {
+    "script": "nano-hub-5",
+    "created": "2026-09-15T20:14:05.392832",
+    "expires": "2027-09-15T20:14:05.392833"
+  },
+  "SH-PQY2-CWGX-2QMN": {
+    "script": "vortex-forge-v2",
+    "created": "2026-09-15T20:14:05.392844",
+    "expires": "2027-09-15T20:14:05.392845"
+  },
+  "SH-P57X-3T62-65JK": {
+    "script": "blade-engine-lite",
+    "created": "2026-09-15T20:14:05.392859",
+    "expires": "2027-09-15T20:14:05.392860"
+  },
+  "SH-XP48-UBM8-MB99": {
+    "script": "mega-enhancer-zero",
+    "created": "2026-09-15T20:14:05.392874",
+    "expires": "2027-09-15T20:14:05.392875"
+  },
+  "SH-58M6-NC9U-K8SM": {
+    "script": "cyber-bot-pro",
+    "created": "2026-09-15T20:14:05.392888",
+    "expires": "2027-09-15T20:14:05.392889"
+  },
+  "SH-RLTH-83E9-LSTA": {
+    "script": "quasar-hub-6",
+    "created": "2026-09-15T20:14:05.392900",
+    "expires": "2027-09-15T20:14:05.392901"
+  },
+  "SH-NJRZ-S3HX-ESBZ": {
+    "script": "azure-forge-max",
+    "created": "2026-09-15T20:14:05.392914",
+    "expires": "2027-09-15T20:14:05.392914"
+  },
+  "SH-KN4U-V2W3-XAPQ": {
+    "script": "cyber-engine-lite",
+    "created": "2026-09-15T20:14:05.392929",
+    "expires": "2027-09-15T20:14:05.392930"
+  },
+  "SH-5MAY-UQVZ-EHLG": {
+    "script": "quantum-utility-elite",
+    "created": "2026-09-15T20:14:05.392944",
+    "expires": "2027-09-15T20:14:05.392945"
+  },
+  "SH-CARQ-HJLM-Q6PG": {
+    "script": "iron-booster-elite",
+    "created": "2026-09-15T20:14:05.392956",
+    "expires": "2027-09-15T20:14:05.392956"
+  },
+  "SH-UQ2N-XPST-BLGZ": {
+    "script": "solaris-script-lite",
+    "created": "2026-09-15T20:14:05.392967",
+    "expires": "2027-09-15T20:14:05.392968"
+  },
+  "SH-73ZS-ZPZF-YDTE": {
+    "script": "phantom-loader-max",
+    "created": "2026-09-15T20:14:05.392979",
+    "expires": "2027-09-15T20:14:05.392979"
+  },
+  "SH-R27X-XF9N-4K2H": {
+    "script": "vortex-utility-lite-2",
+    "created": "2026-09-15T20:14:05.392991",
+    "expires": "2027-09-15T20:14:05.392992"
+  },
+  "SH-JGPP-C2UP-YD2S": {
+    "script": "proto-toolkit-ultra",
+    "created": "2026-09-15T20:14:05.393004",
+    "expires": "2027-09-15T20:14:05.393005"
+  },
+  "SH-CTB7-WEUK-M66F": {
+    "script": "shadow-hub-ultra",
+    "created": "2026-09-15T20:14:05.393017",
+    "expires": "2027-09-15T20:14:05.393018"
+  },
+  "SH-K7D9-6LH5-QKET": {
+    "script": "quasar-system-lite",
+    "created": "2026-09-15T20:14:05.393028",
+    "expires": "2027-09-15T20:14:05.393029"
+  },
+  "SH-2EF5-ZK92-SSGQ": {
+    "script": "nova-hub-5",
+    "created": "2026-09-15T20:14:05.393042",
+    "expires": "2027-09-15T20:14:05.393043"
+  },
+  "SH-UX7U-R8Q5-WMS3": {
+    "script": "storm-hub-4",
+    "created": "2026-09-15T20:14:05.393056",
+    "expires": "2027-09-15T20:14:05.393057"
+  },
+  "SH-UG9N-GZEA-HNF7": {
+    "script": "mega-hub-3",
+    "created": "2026-09-15T20:14:05.393068",
+    "expires": "2027-09-15T20:14:05.393069"
+  },
+  "SH-Z9PS-KMCM-YKUK": {
+    "script": "phantom-hub-zero",
+    "created": "2026-09-15T20:14:05.393083",
+    "expires": "2027-09-15T20:14:05.393083"
+  },
+  "SH-LHJT-3RWA-RW59": {
+    "script": "emerald-hub-2",
+    "created": "2026-09-15T20:14:05.393097",
+    "expires": "2027-09-15T20:14:05.393098"
+  },
+  "SH-UXNQ-6L79-HWK8": {
+    "script": "cyber-coach-zero",
+    "created": "2026-09-15T20:14:05.393110",
+    "expires": "2027-09-15T20:14:05.393111"
+  },
+  "SH-KGN3-L98W-ZEZ2": {
+    "script": "shadow-hub-5",
+    "created": "2026-09-15T20:14:05.393124",
+    "expires": "2027-09-15T20:14:05.393125"
+  },
+  "SH-W7HZ-WBHM-GFFR": {
+    "script": "iron-loader-lite",
+    "created": "2026-09-15T20:14:05.393137",
+    "expires": "2027-09-15T20:14:05.393137"
+  },
+  "SH-HWHD-KPHW-YGNM": {
+    "script": "blade-hub-5",
+    "created": "2026-09-15T20:14:05.393149",
+    "expires": "2027-09-15T20:14:05.393150"
+  },
+  "SH-5C6W-A3UH-D39Y": {
+    "script": "iron-optimizer-x",
+    "created": "2026-09-15T20:14:05.393164",
+    "expires": "2027-09-15T20:14:05.393165"
+  },
+  "SH-W8FG-E8PR-K38H": {
+    "script": "turbo-coach-v2",
+    "created": "2026-09-15T20:14:05.393175",
+    "expires": "2027-09-15T20:14:05.393176"
+  },
+  "SH-QTHU-R3NH-KL94": {
+    "script": "astral-utility-plus",
+    "created": "2026-09-15T20:14:05.393188",
+    "expires": "2027-09-15T20:14:05.393189"
+  },
+  "SH-KHEP-BLX3-QB4B": {
+    "script": "emerald-engine-go",
+    "created": "2026-09-15T20:14:05.393202",
+    "expires": "2027-09-15T20:14:05.393203"
+  },
+  "SH-LYFC-9D3U-LLN4": {
+    "script": "lunar-booster-x",
+    "created": "2026-09-15T20:14:05.393217",
+    "expires": "2027-09-15T20:14:05.393218"
+  },
+  "SH-5NEM-V89T-FCXQ": {
+    "script": "blade-hub-v2",
+    "created": "2026-09-15T20:14:05.393228",
+    "expires": "2027-09-15T20:14:05.393229"
+  },
+  "SH-YMEK-KDK8-MMCM": {
+    "script": "nano-hub-6",
+    "created": "2026-09-15T20:14:05.393241",
+    "expires": "2027-09-15T20:14:05.393242"
+  },
+  "SH-X9CP-34J6-2GG8": {
+    "script": "vortex-core-x",
+    "created": "2026-09-15T20:14:05.393254",
+    "expires": "2027-09-15T20:14:05.393255"
+  },
+  "SH-PFZM-DVRU-2MT6": {
+    "script": "lunar-bot-x",
+    "created": "2026-09-15T20:14:05.393267",
+    "expires": "2027-09-15T20:14:05.393268"
+  },
+  "SH-FQKS-63NS-KTET": {
+    "script": "blade-engine-x",
+    "created": "2026-09-15T20:14:05.393279",
+    "expires": "2027-09-15T20:14:05.393280"
+  },
+  "SH-U4LN-X7W6-MHBC": {
+    "script": "apex-booster-elite",
+    "created": "2026-09-15T20:14:05.393292",
+    "expires": "2027-09-15T20:14:05.393293"
+  },
+  "SH-VTG3-AZW8-925P": {
+    "script": "titan-hub-5",
+    "created": "2026-09-15T20:14:05.393306",
+    "expires": "2027-09-15T20:14:05.393307"
+  },
+  "SH-CEV4-M8YC-37G3": {
+    "script": "turbo-hub-2",
+    "created": "2026-09-15T20:14:05.393319",
+    "expires": "2027-09-15T20:14:05.393320"
+  },
+  "SH-36FR-R7UW-8EV8": {
+    "script": "shadow-hub-6",
+    "created": "2026-09-15T20:14:05.393334",
+    "expires": "2027-09-15T20:14:05.393335"
+  },
+  "SH-G6SY-55J3-HPBE": {
+    "script": "nano-coach-zero",
+    "created": "2026-09-15T20:14:05.393347",
+    "expires": "2027-09-15T20:14:05.393348"
+  },
+  "SH-ZVFQ-ZQE4-5HQT": {
+    "script": "shadow-optimizer-go",
+    "created": "2026-09-15T20:14:05.393362",
+    "expires": "2027-09-15T20:14:05.393363"
+  },
+  "SH-P7ZD-8P97-QJQ5": {
+    "script": "alpha-hub-4",
+    "created": "2026-09-15T20:14:05.393377",
+    "expires": "2027-09-15T20:14:05.393378"
+  },
+  "SH-GCGA-XMRY-PUAD": {
+    "script": "astral-toolkit-plus",
+    "created": "2026-09-15T20:14:05.393390",
+    "expires": "2027-09-15T20:14:05.393391"
+  },
+  "SH-KBYG-BZRJ-GLBR": {
+    "script": "solar-hub-5",
+    "created": "2026-09-15T20:14:05.393404",
+    "expires": "2027-09-15T20:14:05.393405"
+  },
+  "SH-ELTN-NFDS-T9GD": {
+    "script": "shadow-pack-v2",
+    "created": "2026-09-15T20:14:05.393420",
+    "expires": "2027-09-15T20:14:05.393421"
+  },
+  "SH-VG8Z-5N3V-T3MV": {
+    "script": "solaris-engine-zero",
+    "created": "2026-09-15T20:14:05.393435",
+    "expires": "2027-09-15T20:14:05.393436"
+  },
+  "SH-AP2S-5L96-XCL5": {
+    "script": "zephyr-hub-7",
+    "created": "2026-09-15T20:14:05.393450",
+    "expires": "2027-09-15T20:14:05.393451"
+  },
+  "SH-FDM2-MUV6-JKNA": {
+    "script": "zephyr-assistant-zero",
+    "created": "2026-09-15T20:14:05.393464",
+    "expires": "2027-09-15T20:14:05.393465"
+  },
+  "SH-BQUG-PDE2-KKAK": {
+    "script": "cyber-enhancer-go",
+    "created": "2026-09-15T20:14:05.393475",
+    "expires": "2027-09-15T20:14:05.393476"
+  },
+  "SH-VRE3-7GJP-48EK": {
+    "script": "zephyr-matrix-pro",
+    "created": "2026-09-15T20:14:05.393493",
+    "expires": "2027-09-15T20:14:05.393493"
+  },
+  "SH-BEGT-R9ZA-RJJ5": {
+    "script": "lunar-hub-7",
+    "created": "2026-09-15T20:14:05.393507",
+    "expires": "2027-09-15T20:14:05.393508"
+  },
+  "SH-G5ZJ-E8QU-445A": {
+    "script": "lunar-system-max",
+    "created": "2026-09-15T20:14:05.393519",
+    "expires": "2027-09-15T20:14:05.393520"
+  },
+  "SH-RTTY-LPV8-FWPT": {
+    "script": "turbo-hub-3",
+    "created": "2026-09-15T20:14:05.393536",
+    "expires": "2027-09-15T20:14:05.393536"
+  },
+  "SH-UK9C-N2PN-R7RQ": {
+    "script": "vortex-forge-lite",
+    "created": "2026-09-15T20:14:05.393548",
+    "expires": "2027-09-15T20:14:05.393549"
+  },
+  "SH-CA43-ET2A-FTQB": {
+    "script": "blade-hub-6",
+    "created": "2026-09-15T20:14:05.393561",
+    "expires": "2027-09-15T20:14:05.393562"
+  },
+  "SH-VSJ7-UFC9-H2GP": {
+    "script": "hyper-enhancer-ultra",
+    "created": "2026-09-15T20:14:05.393578",
+    "expires": "2027-09-15T20:14:05.393580"
+  },
+  "SH-YEHX-XRR5-XC3R": {
+    "script": "nova-hub-6",
+    "created": "2026-09-15T20:14:05.393594",
+    "expires": "2027-09-15T20:14:05.393595"
+  },
+  "SH-W9M8-4UEM-BTC8": {
+    "script": "alpha-hub-5",
+    "created": "2026-09-15T20:14:05.393607",
+    "expires": "2027-09-15T20:14:05.393607"
+  },
+  "SH-PWNX-TZ6Q-LCCY": {
+    "script": "turbo-hub-4",
+    "created": "2026-09-15T20:14:05.393620",
+    "expires": "2027-09-15T20:14:05.393621"
+  },
+  "SH-L8R4-7PWF-3QRM": {
+    "script": "azure-suite-plus",
+    "created": "2026-09-15T20:14:05.393638",
+    "expires": "2027-09-15T20:14:05.393638"
+  },
+  "SH-AMT7-6E7E-C7PV": {
+    "script": "quasar-matrix-lite",
+    "created": "2026-09-15T20:14:05.393649",
+    "expires": "2027-09-15T20:14:05.393650"
+  },
+  "SH-TXJN-LSD9-UZT7": {
+    "script": "iron-core-go",
+    "created": "2026-09-15T20:14:05.393662",
+    "expires": "2027-09-15T20:14:05.393663"
+  },
+  "SH-WJ29-ZB4H-CYWN": {
+    "script": "azure-hub",
+    "created": "2026-09-15T20:14:05.393681",
+    "expires": "2027-09-15T20:14:05.393681"
+  },
+  "SH-JGJC-H752-6CLM": {
+    "script": "vortex-forge-v2-2",
+    "created": "2026-09-15T20:14:05.393693",
+    "expires": "2027-09-15T20:14:05.393693"
+  },
+  "SH-8ZCZ-5EAH-3ENQ": {
+    "script": "storm-toolkit-ultra",
+    "created": "2026-09-15T20:14:05.393709",
+    "expires": "2027-09-15T20:14:05.393710"
+  },
+  "SH-ENPK-CK3U-R7KP": {
+    "script": "emerald-loader-elite",
+    "created": "2026-09-15T20:14:05.393723",
+    "expires": "2027-09-15T20:14:05.393724"
+  },
+  "SH-FNK4-HTTQ-7PG2": {
+    "script": "cosmic-engine-x",
+    "created": "2026-09-15T20:14:05.393735",
+    "expires": "2027-09-15T20:14:05.393735"
+  },
+  "SH-JEWJ-M3K3-TLQG": {
+    "script": "vortex-hub-6",
+    "created": "2026-09-15T20:14:05.393746",
+    "expires": "2027-09-15T20:14:05.393747"
+  },
+  "SH-VJWS-AF5H-BDBS": {
+    "script": "emerald-framework-lite",
+    "created": "2026-09-15T20:14:05.393760",
+    "expires": "2027-09-15T20:14:05.393761"
+  },
+  "SH-MC4F-UQ6K-H7KZ": {
+    "script": "solaris-hub-6",
+    "created": "2026-09-15T20:14:05.393773",
+    "expires": "2027-09-15T20:14:05.393774"
+  },
+  "SH-W5EM-STPM-FLPM": {
+    "script": "lunar-engine-max",
+    "created": "2026-09-15T20:14:05.393785",
+    "expires": "2027-09-15T20:14:05.393786"
+  },
+  "SH-UNZY-XVJ4-C6UC": {
+    "script": "emerald-utility-x",
+    "created": "2026-09-15T20:14:05.393808",
+    "expires": "2027-09-15T20:14:05.393809"
+  },
+  "SH-WUUQ-UHF9-9YS7": {
+    "script": "turbo-hub-5",
+    "created": "2026-09-15T20:14:05.393827",
+    "expires": "2027-09-15T20:14:05.393827"
+  },
+  "SH-DHVA-N5VS-NZN7": {
+    "script": "mega-matrix-v2",
+    "created": "2026-09-15T20:14:05.393840",
+    "expires": "2027-09-15T20:14:05.393841"
+  },
+  "SH-4KMA-Y7LJ-XNNX": {
+    "script": "hyper-hub-v2",
+    "created": "2026-09-15T20:14:05.393855",
+    "expires": "2027-09-15T20:14:05.393856"
+  },
+  "SH-UMKW-U8FM-6CV2": {
+    "script": "zephyr-hub-8",
+    "created": "2026-09-15T20:14:05.393884",
+    "expires": "2027-09-15T20:14:05.393885"
+  },
+  "SH-Q9US-2XY4-L3VX": {
+    "script": "zephyr-hub-9",
+    "created": "2026-09-15T20:14:05.393896",
+    "expires": "2027-09-15T20:14:05.393896"
+  },
+  "SH-86BD-4RQX-74X5": {
+    "script": "cyber-core-zero",
+    "created": "2026-09-15T20:14:05.393909",
+    "expires": "2027-09-15T20:14:05.393910"
+  },
+  "SH-DH98-CNGF-778K": {
+    "script": "lunar-hub-8",
+    "created": "2026-09-15T20:14:05.393921",
+    "expires": "2027-09-15T20:14:05.393922"
+  },
+  "SH-NEU8-KTLY-BVXT": {
+    "script": "astral-suite-max",
+    "created": "2026-09-15T20:14:05.393935",
+    "expires": "2027-09-15T20:14:05.393936"
+  },
+  "SH-2VCL-THPE-FM2M": {
+    "script": "azure-bot-plus",
+    "created": "2026-09-15T20:14:05.393949",
+    "expires": "2027-09-15T20:14:05.393950"
+  },
+  "SH-8D3U-3EBC-8J49": {
+    "script": "cyber-hub-7",
+    "created": "2026-09-15T20:14:05.393963",
+    "expires": "2027-09-15T20:14:05.393964"
+  },
+  "SH-UG4P-82BE-EZLS": {
+    "script": "nova-engine-elite",
+    "created": "2026-09-15T20:14:05.394005",
+    "expires": "2027-09-15T20:14:05.394009"
+  },
+  "SH-WGJP-37DE-BH5Y": {
+    "script": "emerald-script-v2",
+    "created": "2026-09-15T20:14:05.394033",
+    "expires": "2027-09-15T20:14:05.394034"
+  },
+  "SH-XCQE-KJZF-BPZT": {
+    "script": "storm-hub-5",
+    "created": "2026-09-15T20:14:05.394045",
+    "expires": "2027-09-15T20:14:05.394046"
+  },
+  "SH-5P23-8YVM-ZWHY": {
+    "script": "alpha-pack-lite",
+    "created": "2026-09-15T20:14:05.394059",
+    "expires": "2027-09-15T20:14:05.394060"
+  },
+  "SH-QJL6-49SQ-6J9V": {
+    "script": "vortex-hub-7",
+    "created": "2026-09-15T20:14:05.394080",
+    "expires": "2027-09-15T20:14:05.394081"
+  },
+  "SH-BWDK-ARCG-HWA5": {
+    "script": "azure-loader-max",
+    "created": "2026-09-15T20:14:05.394098",
+    "expires": "2027-09-15T20:14:05.394100"
+  },
+  "SH-8GJ2-N6PH-BPAE": {
+    "script": "storm-core-max",
+    "created": "2026-09-15T20:14:05.394117",
+    "expires": "2027-09-15T20:14:05.394118"
+  },
+  "SH-GCUT-ZM54-VS4E": {
+    "script": "mega-booster-pro",
+    "created": "2026-09-15T20:14:05.394142",
+    "expires": "2027-09-15T20:14:05.394142"
+  },
+  "SH-N85S-BZ6R-KJR8": {
+    "script": "frost-suite-elite",
+    "created": "2026-09-15T20:14:05.394157",
+    "expires": "2027-09-15T20:14:05.394158"
+  },
+  "SH-57NS-PYVF-XF39": {
+    "script": "lunar-hub-9",
+    "created": "2026-09-15T20:14:05.394169",
+    "expires": "2027-09-15T20:14:05.394170"
+  },
+  "SH-PJKF-UGG3-9PR6": {
+    "script": "proto-system-go",
+    "created": "2026-09-15T20:14:05.394182",
+    "expires": "2027-09-15T20:14:05.394183"
+  },
+  "SH-XU9B-U7CH-GQCU": {
+    "script": "azure-hub-2",
+    "created": "2026-09-15T20:14:05.394195",
+    "expires": "2027-09-15T20:14:05.394195"
+  },
+  "SH-94VJ-C5ZA-NYP9": {
+    "script": "turbo-hub-6",
+    "created": "2026-09-15T20:14:05.394209",
+    "expires": "2027-09-15T20:14:05.394210"
+  },
+  "SH-5NVS-5GWG-XLX6": {
+    "script": "phantom-coach-zero",
+    "created": "2026-09-15T20:14:05.394221",
+    "expires": "2027-09-15T20:14:05.394222"
+  },
+  "SH-5FP4-5AH6-2MM9": {
+    "script": "phantom-suite-pro-2",
+    "created": "2026-09-15T20:14:05.394236",
+    "expires": "2027-09-15T20:14:05.394236"
+  },
+  "SH-DE35-KNPW-NUJE": {
+    "script": "titan-engine-ultra",
+    "created": "2026-09-15T20:14:05.394249",
+    "expires": "2027-09-15T20:14:05.394250"
+  },
+  "SH-GPT8-JDKM-6RVK": {
+    "script": "hyper-bot-pro",
+    "created": "2026-09-15T20:14:05.394261",
+    "expires": "2027-09-15T20:14:05.394262"
+  },
+  "SH-F2WJ-W3J3-KHXU": {
+    "script": "proto-hub-4",
+    "created": "2026-09-15T20:14:05.394273",
+    "expires": "2027-09-15T20:14:05.394274"
+  },
+  "SH-6TJM-5X6Y-AR86": {
+    "script": "apex-hub-3",
+    "created": "2026-09-15T20:14:05.394286",
+    "expires": "2027-09-15T20:14:05.394286"
+  },
+  "SH-55ES-RFWA-A8HL": {
+    "script": "hyper-optimizer-elite",
+    "created": "2026-09-15T20:14:05.394298",
+    "expires": "2027-09-15T20:14:05.394299"
+  },
+  "SH-R5TC-5Z8W-SYAC": {
+    "script": "infinity-hub",
+    "created": "2026-09-16T22:45:20.608623",
+    "expires": "2027-09-16T22:45:20.608654"
+  },
+  "SH-C3AP-R37Z-JBXM": {
+    "script": "alpha-assistant-zero",
+    "created": "2026-09-16T22:45:20.608754",
+    "expires": "2027-09-16T22:45:20.608755"
+  },
+  "SH-VUQ3-WCA5-G8EV": {
+    "script": "infinity-hub",
+    "created": "2026-09-16T22:46:18.897906",
+    "expires": "2027-09-16T22:46:18.897916"
+  },
+  "SH-UH8G-6PBB-HU2P": {
+    "script": "alpha-assistant-zero",
+    "created": "2026-09-16T22:46:18.897970",
+    "expires": "2027-09-16T22:46:18.897971"
+  },
+  "SH-RU7W-Q82K-XTHY": {
+    "script": "silent-strike-x",
+    "created": "2026-09-23T22:16:38.488992",
+    "expires": "2027-09-23T22:16:38.489015"
+  }
+}

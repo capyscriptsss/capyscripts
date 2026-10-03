@@ -1,0 +1,11 @@
+# Gizli ortam değişkenleri (PythonAnywhere token)
+.env
+
+# Derleme/zip'ler
+pythonanywhere_deploy.zip
+
+# Ngrok konfigürasyonu (isteğe bağlı)
+.nGROK_*
+
+# Geçici dosyalar
+*.tmp

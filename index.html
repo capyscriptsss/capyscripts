@@ -1,0 +1,840 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Capy Scripts — Chill Roblox Script Hub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink: #100b07;
+    --ink-2: #1c140e;
+    --panel: rgba(45,30,18,0.56);
+    --panel-hi: rgba(65,42,26,0.70);
+    --glass-border: rgba(220,150,80,0.24);
+    --line: rgba(245,225,200,0.12);
+    --mikan: #d88032;
+    --mikan-lt: #f2a45a;
+    --moss: #689f38;
+    --text-hi: #fdf6ec;
+    --text-lo: rgba(253,246,236,0.70);
+    --text-faint: rgba(253,246,236,0.40);
+    --radius: 16px;
+    --glass-blur: blur(20px) saturate(150%);
+  }
+  *{ box-sizing: border-box; }
+  html,body{ margin:0; height:100%; }
+  body{
+    font-family:'Inter',sans-serif;
+    color: var(--text-hi);
+    min-height:100vh;
+    background:
+      radial-gradient(ellipse 640px 420px at 85% 4%, rgba(216,128,50,0.30), transparent 60%),
+      radial-gradient(ellipse 560px 520px at 4% 28%, rgba(104,159,56,0.14), transparent 58%),
+      radial-gradient(ellipse 760px 560px at 55% 96%, rgba(85,45,18,0.35), transparent 62%),
+      linear-gradient(160deg, #100b07 0%, #1a120c 45%, #0d0805 100%);
+    background-attachment: fixed;
+  }
+  a{ color:inherit; }
+  button{ font-family:'Inter',sans-serif; }
+
+  /* ---------- glass surfaces ---------- */
+  .icon-btn, .user-chip, .float-card, .search-wrap, select.sort, .card,
+  .lib-row, .modal, .drawer, .cart-item, .auth-tab.active,
+  .card-thumb, .lib-thumb, .cart-thumb, .ft-thumb, .detail-cover,
+  .chip, .auth-tabs, .success-list div {
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+    border: 1px solid var(--glass-border);
+    box-shadow: inset 0 1px 0 rgba(255,255,255,0.08);
+  }
+
+  /* ---------- layout shell ---------- */
+  .wrap{ max-width: 1120px; margin:0 auto; padding: 0 28px; }
+
+  header{
+    position: sticky; top:0; z-index: 40;
+    background: rgba(10,21,19,0.42);
+    backdrop-filter: var(--glass-blur);
+    -webkit-backdrop-filter: var(--glass-blur);
+    border-bottom: 1px solid var(--glass-border);
+  }
+  .header-row{
+    display:flex; align-items:center; justify-content:space-between;
+    padding: 16px 0;
+  }
+  .brand{ display:flex; align-items:center; gap:10px; text-decoration:none; cursor:pointer; }
+  .brand-mark{
+    width:34px; height:34px; border-radius:10px;
+    background: linear-gradient(135deg, var(--mikan-lt), var(--mikan) 75%);
+    display:flex; align-items:center; justify-content:center;
+    box-shadow: 0 6px 16px rgba(216,30,44,0.32);
+  }
+  .brand-mark svg{ width:20px; height:20px; }
+  .brand-name{ font-family:'Cinzel',serif; font-weight:600; font-size:18px; letter-spacing:-0.01em; }
+  .brand-name b{ color: var(--mikan); font-weight:600; }
+
+  nav.main{ display:flex; gap:28px; }
+  nav.main a{
+    text-decoration:none; color: var(--text-lo); font-size:14.5px; font-weight:500;
+    padding-bottom:4px; border-bottom:2px solid transparent; cursor:pointer;
+  }
+  nav.main a.active, nav.main a:hover{ color: var(--text-hi); border-color: var(--mikan); }
+
+  .header-actions{ display:flex; align-items:center; gap:10px; }
+  .icon-btn{
+    position:relative; width:38px; height:38px; border-radius:10px; border:1px solid var(--line);
+    background: var(--panel); color: var(--text-hi); cursor:pointer; display:flex; align-items:center; justify-content:center;
+  }
+  .icon-btn:hover{ background: var(--panel-hi); }
+  .icon-btn svg{ width:18px; height:18px; }
+  .badge{
+    position:absolute; top:-6px; right:-6px; min-width:17px; height:17px; padding:0 4px;
+    background: var(--mikan); color:#23150a; font-size:10.5px; font-weight:700;
+    border-radius:9px; display:flex; align-items:center; justify-content:center;
+  }
+  .hidden{ display:none !important; }
+
+  .btn{
+    border:none; border-radius:11px; padding:10px 18px; font-weight:600; font-size:14px; cursor:pointer;
+    transition: transform .12s ease, box-shadow .12s ease, background .12s ease;
+  }
+  .btn-primary{
+    background: linear-gradient(135deg, var(--mikan-lt), var(--mikan) 80%); color:#23150a;
+    box-shadow: 0 8px 20px rgba(216,30,44,0.3);
+  }
+  .btn-primary:hover{ transform: translateY(-1px); box-shadow: 0 12px 26px rgba(216,30,44,0.42); }
+  .btn-outline{
+    background: transparent; color: var(--text-hi); border:1px solid var(--line);
+  }
+  .btn-outline:hover{ background: var(--panel-hi); }
+  .btn-block{ width:100%; }
+  .btn-lg{ padding:13px 20px; font-size:15px; }
+  .btn:disabled{ opacity:.5; cursor:default; transform:none; box-shadow:none; }
+
+  .user-chip{ display:flex; align-items:center; gap:8px; background:var(--panel); border:1px solid var(--line); border-radius:20px; padding:5px 6px 5px 14px; font-size:13.5px; }
+  .user-chip button{ width:26px; height:26px; border-radius:50%; border:none; background:var(--panel-hi); color:var(--text-lo); cursor:pointer; }
+
+  /* ---------- hero ---------- */
+  .hero{
+    padding: 76px 0 56px; position:relative; overflow:hidden;
+    display:grid; grid-template-columns: 1.15fr 1fr; gap:20px; align-items:center;
+  }
+  .hero-scene{
+    position:absolute; inset:-40px -28px auto auto; width:640px; height:520px; z-index:0;
+    pointer-events:none; opacity: 0.9;
+  }
+  .hero-content{ position:relative; z-index:1; }
+  .hero-eyebrow{
+    display:inline-flex; align-items:center; gap:8px; color: var(--moss); font-size:13.5px; font-weight:600;
+    margin-bottom:18px; background: rgba(212,175,55,0.1); border:1px solid rgba(212,175,55,0.28);
+    padding: 6px 13px 6px 10px; border-radius:20px;
+  }
+  .hero-eyebrow .dot{ width:6px; height:6px; border-radius:50%; background: var(--moss); animation: pulse 2.4s ease-in-out infinite; }
+  @keyframes pulse{ 0%,100%{ opacity:1; transform:scale(1);} 50%{ opacity:.4; transform:scale(.7);} }
+  .hero h1{
+    font-family:'Cinzel',serif; font-weight:600; font-size:52px; line-height:1.05; margin:0 0 18px;
+    max-width: 560px; letter-spacing:-0.02em;
+  }
+  .hero h1 i{
+    font-style:normal; position:relative; display:inline-block;
+    background: linear-gradient(100deg, var(--mikan-lt), var(--mikan) 60%);
+    -webkit-background-clip:text; background-clip:text; color:transparent;
+  }
+  .hero h1 i::after{
+    content:''; position:absolute; left:-4px; right:-4px; bottom:2px; height:0.32em; z-index:-1;
+    background: rgba(216,30,44,0.2); border-radius:4px;
+  }
+  .hero p{ color: var(--text-lo); font-size:16.5px; line-height:1.65; max-width:440px; margin:0 0 30px; }
+  .hero-cta-row{ display:flex; gap:12px; margin-bottom:38px; }
+  .hero-stats{ display:flex; gap:38px; }
+  .hero-stat{ display:flex; flex-direction:column; gap:3px; }
+  .hero-stat b{ font-family:'Cinzel',serif; font-size:26px; font-weight:600; letter-spacing:-0.01em; }
+  .hero-stat span{ font-size:12.5px; color: var(--text-faint); }
+
+  .hero-visual{ position:relative; z-index:1; height:420px; }
+  .float-card{
+    position:absolute; width:196px; background: var(--panel); border:1px solid var(--line);
+    border-radius:16px; padding:14px; box-shadow: 0 24px 50px -18px rgba(0,0,0,0.55);
+    animation: bob 7s ease-in-out infinite;
+  }
+  .float-card .ft-thumb{ height:74px; border-radius:10px; display:flex; align-items:center; justify-content:center; margin-bottom:10px; position:relative; overflow:hidden; font-size:34px; }
+  .float-card .ft-thumb .thumb-img{ position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+  .float-card .ft-thumb .thumb-tint{ position:absolute; inset:0; z-index:1; }
+  .float-card .ft-thumb>.ft-em{ position:relative; z-index:2; filter: drop-shadow(0 1px 3px rgba(0,0,0,0.4)); }
+  .float-card b{ display:block; font-size:13px; margin-bottom:2px; }
+  .float-card span{ font-size:11.5px; color: var(--text-faint); }
+  .fc-1{ top:8px; left:38px; animation-delay: 0s; }
+  .fc-2{ top:158px; left:210px; width:172px; animation-delay: -2.4s; }
+  .fc-3{ top:290px; left:10px; width:180px; animation-delay: -4.8s; }
+  @keyframes bob{ 0%,100%{ transform: translateY(0); } 50%{ transform: translateY(-12px); } }
+
+  @media (prefers-reduced-motion: reduce){
+    .float-card{ animation:none; } .hero-eyebrow .dot{ animation:none; }
+  }
+
+  /* ---------- toolbar ---------- */
+  .toolbar{ padding: 6px 0 28px; display:flex; flex-direction:column; gap:16px; }
+  .search-wrap{
+    display:flex; align-items:center; gap:10px; background: var(--panel); border:1px solid var(--line);
+    border-radius:12px; padding:11px 14px; max-width: 420px;
+  }
+  .search-wrap svg{ width:17px; height:17px; color: var(--text-faint); flex-shrink:0; }
+  .search-wrap input{
+    border:none; background:transparent; outline:none; color: var(--text-hi); font-size:14px; width:100%;
+  }
+  .search-wrap input::placeholder{ color: var(--text-faint); }
+
+  .filter-row{ display:flex; align-items:center; justify-content:space-between; gap:16px; flex-wrap:wrap; }
+  .chips{ display:flex; gap:8px; flex-wrap:wrap; }
+  .chip{
+    padding: 7px 14px; border-radius:20px; border:1px solid var(--line); background: rgba(255,255,255,0.04);
+    color: var(--text-lo); font-size:13px; cursor:pointer; transition: all .12s ease;
+  }
+  .chip.active{ background: var(--mikan); border-color: var(--mikan); color:#23150a; font-weight:600; backdrop-filter:none; -webkit-backdrop-filter:none; }
+  .chip:hover:not(.active){ border-color: var(--moss); color: var(--text-hi); background: rgba(255,255,255,0.08); }
+
+  select.sort{
+    background: var(--panel); border:1px solid var(--line); color: var(--text-hi);
+    border-radius:10px; padding:9px 12px; font-size:13.5px; cursor:pointer;
+  }
+
+  /* ---------- product grid ---------- */
+  .grid{ display:grid; grid-template-columns: repeat(3, 1fr); gap:20px; padding-bottom:70px; }
+  .card{
+    background: var(--panel); border:1px solid var(--line); border-radius: var(--radius);
+    overflow:hidden; cursor:pointer; transition: border-color .18s ease, box-shadow .18s ease;
+    display:flex; flex-direction:column;
+    opacity:0; transform: translateY(14px);
+    animation: cardIn .5s ease forwards;
+    position:relative; will-change: transform;
+    transform-style: preserve-3d;
+  }
+  .card::before{
+    content:''; position:absolute; inset:0; z-index:2; pointer-events:none; opacity:0;
+    background: linear-gradient(115deg, transparent 30%, rgba(255,255,255,0.16) 45%, rgba(255,255,255,0.02) 60%, transparent 70%);
+    background-size: 250% 250%; background-position: 120% 0%;
+    transition: opacity .25s ease;
+  }
+  .card:hover::before{ opacity:1; animation: shine 1.1s ease forwards; }
+  @keyframes shine{ from{ background-position: 120% 0%; } to{ background-position: -20% 100%; } }
+  .card:hover{
+    border-color: rgba(216,30,44,0.5);
+    box-shadow: 0 24px 50px -20px rgba(0,0,0,0.55), 0 0 0 1px rgba(255,255,255,0.04) inset;
+  }
+  @keyframes cardIn{ to{ opacity:1; transform: translateY(0); } }
+  .card-thumb{
+    height:150px; position:relative; display:flex; align-items:center; justify-content:center; overflow:hidden;
+  }
+  .thumb-em{
+    font-size:54px; position:relative; z-index:2; transition: transform .25s ease;
+    filter: drop-shadow(0 2px 6px rgba(0,0,0,0.4));
+  }
+  .card:hover .thumb-em{ transform: scale(1.08) rotate(-3deg); }
+  .thumb-tint{
+    position:absolute; inset:0; z-index:1;
+    backdrop-filter: blur(2px) saturate(135%);
+    -webkit-backdrop-filter: blur(2px) saturate(135%);
+  }
+  .card-thumb::after{
+    content:''; position:absolute; inset:0; z-index:1;
+    background: radial-gradient(circle at 30% 20%, rgba(255,255,255,0.14), transparent 55%);
+  }
+  .card-cat{
+    position:absolute; top:10px; left:10px; z-index:2; background: rgba(10,21,19,0.55); backdrop-filter: blur(4px);
+    padding:4px 9px; border-radius:8px; font-size:11.5px; font-weight:600; color:var(--text-hi);
+  }
+  .card-body{ padding:16px; display:flex; flex-direction:column; gap:6px; flex:1; }
+  .card-title{ font-weight:600; font-size:15px; }
+  .card-maker{ font-size:12.5px; color: var(--text-faint); }
+  .card-foot{ display:flex; align-items:center; justify-content:space-between; margin-top:10px; }
+  .card-price{ font-family:'Cinzel',serif; font-weight:600; font-size:17px; color: var(--mikan-lt); }
+  .card-price .old{ font-size:12px; color: var(--text-faint); text-decoration: line-through; margin-right:6px; font-family:'Inter',sans-serif; font-weight:400; }
+  .card-rating{ font-size:12.5px; color: var(--text-lo); display:flex; align-items:center; gap:4px; }
+  .owned-pill{ font-size:11.5px; color: var(--moss); font-weight:600; }
+
+  .empty-state{ text-align:center; padding: 60px 20px; color: var(--text-lo); }
+  .empty-state .em{ font-size:34px; margin-bottom:10px; }
+
+  /* ---------- library ---------- */
+  .lib-grid{ display:grid; grid-template-columns: repeat(2,1fr); gap:14px; padding: 10px 0 70px; }
+  .lib-row{
+    display:flex; align-items:center; gap:14px; background: var(--panel); border:1px solid var(--line);
+    border-radius:14px; padding:14px;
+  }
+  .lib-thumb{ width:46px; height:46px; border-radius:10px; flex-shrink:0; display:flex; align-items:center; justify-content:center; position:relative; overflow:hidden; font-size:22px; }
+  .lib-thumb .thumb-em{ font-size:22px; position:relative; z-index:2; filter: drop-shadow(0 1px 3px rgba(0,0,0,0.4)); }
+  .lib-thumb .thumb-tint{ position:absolute; inset:0; z-index:1; }
+  .lib-info{ flex:1; min-width:0; }
+  .lib-info b{ display:block; font-size:14.5px; margin-bottom:2px; }
+  .lib-info span{ font-size:12px; color: var(--text-faint); }
+  .lib-key{ display:flex; align-items:center; gap:10px; margin-top:8px; font-size:12px; }
+  .lib-key code{ background:rgba(0,0,0,0.25); border:1px solid var(--line); padding:5px 9px; border-radius:8px; font-size:11.5px; color:var(--moss); }
+  .copy-btn{ background: rgba(255,255,255,0.06); border:1px solid var(--line); color:var(--text-hi); border-radius:8px; padding:5px 10px; font-size:12px; cursor:pointer; text-decoration:none; }
+  .copy-btn:hover{ background: rgba(255,255,255,0.12); }
+  .status-badge{ display:inline-block; margin-top:8px; font-size:11px; font-weight:700; letter-spacing:.03em; padding:3px 8px; border-radius:8px; }
+  .status-live{ color:#7dbf6a; background:rgba(125,191,106,0.12); border:1px solid rgba(125,191,106,0.3); }
+  .status-act{ color:var(--moss); background:rgba(212,175,55,0.12); border:1px solid rgba(212,175,55,0.3); }
+
+  .section-head{ padding: 44px 0 20px; }
+  .section-head h2{ font-family:'Cinzel',serif; font-weight:600; font-size:28px; margin:0 0 6px; }
+  .section-head p{ color: var(--text-lo); font-size:14.5px; margin:0; }
+
+  /* ---------- modal shared ---------- */
+  .backdrop{
+    position:fixed; inset:0; background: rgba(4,9,8,0.55); backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    opacity:0; pointer-events:none; transition: opacity .18s ease; z-index:60;
+  }
+  .backdrop.show{ opacity:1; pointer-events:all; }
+
+  .modal{
+    position:fixed; top:50%; left:50%; transform: translate(-50%,-46%); width:92%;
+    background: var(--panel); border:1px solid var(--line); border-radius:20px;
+    opacity:0; pointer-events:none; transition: opacity .18s ease, transform .18s ease; z-index:70;
+    max-height: 86vh; overflow-y:auto;
+    box-shadow: 0 40px 90px -30px rgba(0,0,0,0.65), inset 0 1px 0 rgba(255,255,255,0.1);
+  }
+  .modal.show{ opacity:1; pointer-events:all; transform: translate(-50%,-50%); }
+  .modal-close{
+    position:absolute; top:16px; right:16px; width:32px; height:32px; border-radius:50%;
+    border:1px solid var(--glass-border); background: rgba(10,21,19,0.4); color: var(--text-lo); cursor:pointer; z-index:2;
+    backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+  }
+  .modal-close:hover{ color: var(--text-hi); }
+
+  /* product detail */
+  #detailModal{ max-width:520px; }
+  .detail-cover{ height:180px; display:flex; align-items:center; justify-content:center; border-radius:20px 20px 0 0; position:relative; overflow:hidden; font-size:64px; }
+  .detail-cover .thumb-em{ font-size:64px; position:relative; z-index:2; filter: drop-shadow(0 2px 6px rgba(0,0,0,0.4)); }
+  .detail-cover .thumb-tint{ position:absolute; inset:0; z-index:1; }
+  .detail-body{ padding:26px 28px 28px; }
+  .detail-cat{ font-size:12.5px; font-weight:600; color: var(--moss); margin-bottom:8px; }
+  .detail-name{ font-family:'Cinzel',serif; font-weight:600; font-size:24px; margin:0 0 8px; }
+  .detail-meta{ display:flex; gap:14px; font-size:13px; color: var(--text-faint); margin-bottom:16px; flex-wrap:wrap; }
+  .detail-desc{ color: var(--text-lo); font-size:14.5px; line-height:1.6; margin:0 0 18px; }
+  .detail-features{ list-style:none; padding:0; margin:0 0 22px; display:flex; flex-direction:column; gap:9px; }
+  .detail-features li{ font-size:13.5px; color: var(--text-hi); display:flex; gap:9px; align-items:flex-start; }
+  .detail-features li svg{ width:15px; height:15px; color: var(--moss); flex-shrink:0; margin-top:2px; }
+  .detail-foot{ display:flex; align-items:center; gap:14px; padding-top:16px; border-top:1px solid var(--line); }
+  .detail-price{ font-family:'Cinzel',serif; font-weight:600; font-size:22px; color: var(--mikan-lt); flex:1; }
+  .detail-price .old{ font-size:14px; color: var(--text-faint); text-decoration: line-through; margin-right:8px; font-family:'Inter',sans-serif; font-weight:400; }
+
+  /* cart drawer */
+  .drawer-backdrop{ position:fixed; inset:0; background: rgba(4,9,8,0.5); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); opacity:0; pointer-events:none; transition:opacity .18s ease; z-index:60; }
+  .drawer-backdrop.show{ opacity:1; pointer-events:all; }
+  .drawer{
+    position:fixed; top:0; right:0; height:100%; width:380px; max-width:92vw; background: var(--panel-hi);
+    border-left:1px solid var(--glass-border); z-index:70; display:flex; flex-direction:column;
+    transform: translateX(100%); transition: transform .2s ease;
+    box-shadow: -30px 0 70px -30px rgba(0,0,0,0.6);
+  }
+  .drawer.show{ transform: translateX(0); }
+  .drawer-head{ display:flex; align-items:center; justify-content:space-between; padding:20px 22px; border-bottom:1px solid var(--line); }
+  .drawer-head h3{ font-family:'Cinzel',serif; font-size:19px; margin:0; font-weight:600; }
+  .drawer-items{ flex:1; overflow-y:auto; padding: 8px 22px; }
+  .cart-item{ display:flex; gap:12px; padding:14px 0; border-bottom:1px solid var(--line); align-items:center; }
+  .cart-thumb{ width:44px; height:44px; border-radius:9px; flex-shrink:0; display:flex; align-items:center; justify-content:center; position:relative; overflow:hidden; font-size:20px; }
+  .cart-thumb .thumb-em{ font-size:20px; position:relative; z-index:2; filter: drop-shadow(0 1px 3px rgba(0,0,0,0.4)); }
+  .cart-thumb .thumb-tint{ position:absolute; inset:0; z-index:1; }
+  .cart-info{ flex:1; min-width:0; }
+  .cart-info b{ display:block; font-size:13.5px; }
+  .cart-info span{ font-size:12px; color: var(--text-faint); }
+  .cart-remove{ background:none; border:none; color: var(--text-faint); cursor:pointer; font-size:13px; }
+  .cart-remove:hover{ color: var(--mikan); }
+  .drawer-empty{ flex:1; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:10px; color: var(--text-lo); padding: 20px; text-align:center; }
+  .drawer-foot{ padding: 18px 22px 22px; border-top:1px solid var(--line); }
+  .cart-total{ display:flex; justify-content:space-between; font-size:15px; margin-bottom:14px; }
+  .cart-total span:last-child{ font-family:'Cinzel',serif; font-weight:600; color: var(--mikan-lt); }
+
+  /* checkout */
+  #checkoutModal{ max-width:440px; }
+  .checkout-body{ padding: 28px 28px 30px; }
+  .checkout-title{ font-family:'Cinzel',serif; font-weight:600; font-size:22px; margin:0 0 4px; }
+  .checkout-sub{ color: var(--text-lo); font-size:13.5px; margin:0 0 20px; }
+  .checkout-line{ display:flex; justify-content:space-between; font-size:13.5px; padding:7px 0; color: var(--text-lo); }
+  .checkout-line b{ color: var(--text-hi); font-weight:600; }
+  .checkout-total{ display:flex; justify-content:space-between; font-size:16px; padding-top:12px; margin-top:6px; border-top:1px solid var(--line); }
+  .checkout-total span:last-child{ font-family:'Cinzel',serif; font-weight:600; color: var(--mikan-lt); }
+  .pay-methods{ display:flex; gap:8px; margin-top:16px; }
+  .pay-method{
+    flex:1; border:1px solid var(--line); background: rgba(0,0,0,0.18); color:var(--text-lo);
+    border-radius:10px; padding:12px 10px; cursor:pointer; text-align:center; font-size:13px; font-weight:600;
+  }
+  .pay-method.active{ border-color: var(--mikan); color:var(--text-hi); background: rgba(216,30,44,0.14); }
+  .secure-note{ font-size:11.5px; color: var(--text-faint); text-align:center; margin: 16px 0 0; }
+
+  /* success */
+  #successModal{ max-width:420px; text-align:center; }
+  .success-body{ padding: 40px 28px 30px; }
+  .success-check{
+    width:56px; height:56px; border-radius:50%; background: linear-gradient(135deg, var(--moss), #5c8a4f);
+    display:flex; align-items:center; justify-content:center; margin: 0 auto 18px;
+  }
+  .success-check svg{ width:26px; height:26px; color:#0a1513; }
+  .success-title{ font-family:'Cinzel',serif; font-weight:600; font-size:21px; margin:0 0 8px; }
+  .success-sub{ color: var(--text-lo); font-size:13.5px; margin:0 0 22px; }
+  .success-list{ text-align:left; display:flex; flex-direction:column; gap:8px; margin-bottom:22px; }
+  .success-list div{ background: rgba(0,0,0,0.22); border:1px solid var(--line); border-radius:10px; padding:10px 13px; font-size:13px; display:flex; flex-direction:column; gap:8px; }
+  .success-list .sl-name{ display:flex; justify-content:space-between; }
+  .success-list .sl-key{ font-family:'Consolas',monospace; color: var(--moss); font-size:12.5px; }
+  .success-list .sl-actions{ display:flex; gap:8px; }
+
+  /* auth */
+  #authModal{ max-width:400px; }
+  .auth-body{ padding: 30px 28px 30px; }
+  .auth-title{ font-family:'Cinzel',serif; font-weight:600; font-size:23px; margin:0 0 4px; }
+  .auth-title i{ font-style:normal; color:var(--mikan); }
+  .auth-sub{ color: var(--text-lo); font-size:13.5px; margin:0 0 20px; }
+  .auth-tabs{ display:flex; background: rgba(0,0,0,0.2); border-radius:11px; padding:4px; margin-bottom:20px; }
+  .auth-tab{ flex:1; padding:9px; border:none; background:transparent; color: var(--text-lo); border-radius:8px; font-size:13.5px; font-weight:600; cursor:pointer; }
+  .auth-tab.active{ background: var(--panel-hi); color: var(--text-hi); }
+  .auth-field{ margin-bottom:14px; }
+  .auth-field label{ display:block; font-size:12.5px; color: var(--text-lo); margin-bottom:6px; }
+  .auth-error{ background: rgba(242,90,65,0.12); border:1px solid rgba(242,90,65,0.3); color:#ff9d80; font-size:13px; padding:9px 12px; border-radius:9px; margin-bottom:14px; }
+  .auth-foot{ text-align:center; font-size:13.5px; color: var(--text-lo); margin-top:16px; }
+  .auth-foot a{ color: var(--mikan); font-weight:600; text-decoration:none; cursor:pointer; }
+  input.form-input{
+    width:100%; padding:11px 13px; background: rgba(0,0,0,0.22); border:1px solid var(--glass-border); border-radius:10px;
+    color: var(--text-hi); font-size:14px; outline:none;
+    backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
+  }
+  input.form-input:focus{ border-color: var(--mikan); background: rgba(0,0,0,0.32); }
+  .terms-row{ display:flex; align-items:center; gap:8px; font-size:12.5px; color:var(--text-lo); margin-bottom:14px; }
+
+  .toast{
+    position:fixed; bottom:26px; left:50%; transform: translateX(-50%) translateY(20px);
+    background: var(--panel-hi); border:1px solid var(--line); color: var(--text-hi);
+    padding:12px 20px; border-radius:12px; font-size:14px; z-index:90; opacity:0; pointer-events:none;
+    transition: all .2s ease; box-shadow: 0 12px 30px rgba(0,0,0,0.35);
+  }
+  .toast.show{ opacity:1; transform: translateX(-50%) translateY(0); }
+  .toast.error{ border-color: rgba(242,90,65,0.5); }
+  .toast.success{ border-color: rgba(125,191,106,0.5); }
+
+  footer{ border-top:1px solid var(--line); padding: 26px 0 40px; margin-top:20px; }
+  footer p{ color: var(--text-faint); font-size:12.5px; text-align:center; margin:0; }
+
+  /* ---------- announce banner ---------- */
+  .announce-banner{
+    position:fixed; top:0; left:0; right:0; z-index:95;
+    background: linear-gradient(90deg, rgba(216,30,44,0.9), rgba(120,10,20,0.92));
+    border-bottom:1px solid var(--glass-border);
+    padding:10px 28px; text-align:center; font-weight:600; font-size:13.5px;
+    display:flex; align-items:center; justify-content:center; gap:8px;
+  }
+  .announce-text{ color:#fff; }
+
+  /* ---------- secret consoles (F1+F2 admin, F5+F10 dev) ---------- */
+  #devConsole, #adminConsole{
+    position:fixed; inset:0; z-index:200; background:rgba(3,1,1,0.94);
+    display:none; flex-direction:column;
+    font-family:'Consolas','Menlo',monospace;
+    backdrop-filter: var(--glass-blur); -webkit-backdrop-filter: var(--glass-blur);
+  }
+  #devConsole.show, #adminConsole.show{ display:flex; }
+  .console-head{
+    height:38px; display:flex; align-items:center; justify-content:space-between;
+    border-bottom:1px solid var(--line); padding:0 14px; font-size:13px; color:var(--text-lo);
+  }
+  .console-head b{ color:var(--mikan); }
+  .console-head .ch-actions{ display:flex; gap:8px; }
+  .console-head button{
+    background: rgba(255,255,255,0.06); border:1px solid var(--line); color:var(--text-lo);
+    border-radius:6px; padding:3px 10px; font-size:11.5px; cursor:pointer;
+  }
+  .console-head button:hover{ color:var(--text-hi); border-color:var(--mikan); }
+  #devLog{ flex:1; overflow-y:auto; padding:12px 16px; font-size:12.5px; line-height:1.7; }
+  #devLog .l-err{ color:#ff9d80; } #devLog .l-warn{ color:#ffcf6a; } #devLog .l-ok{ color:#7dbf6a; }
+  #devLog .l-net{ color:#8ab4ff; } #devLog .l-info{ color:var(--text-lo); }
+  #adminOut{ flex:1; overflow-y:auto; padding:12px 16px; font-size:12.5px; line-height:1.7; }
+  #adminOut .a-in{ color:var(--text-faint); } #adminOut .a-dim{ color:var(--text-lo); }
+  #adminOut .a-ok{ color:#7dbf6a; } #adminOut .a-warn{ color:#ffcf6a; }
+  #adminOut .a-err{ color:#ff9d80; } #adminOut .a-title{ color:var(--mikan-lt); font-weight:700; }
+  #adminInput{
+    flex:0 0 auto; border:none; border-top:1px solid var(--line); background:rgba(0,0,0,0.4);
+    color:var(--text-hi); font-family:'Consolas',monospace; font-size:13px; padding:13px 16px; outline:none;
+  }
+  #adminList{ display:none; }
+
+  /* maintenance overlay */
+  #maintOverlay{
+    position:fixed; inset:0; z-index:300; background:rgba(3,1,1,0.97);
+    display:none; align-items:center; justify-content:center; text-align:center;
+  }
+  #maintOverlay.show{ display:flex; }
+  #maintOverlay h1{ font-family:'Cinzel',serif; font-weight:700; color:var(--mikan-lt); font-size:38px; margin:0 0 12px; }
+  #maintOverlay p{ color:var(--text-lo); margin:0; }
+
+  .mascot{
+    position: fixed; top:0; left:0; z-index: 45; pointer-events:none;
+    transform: translate(-9999px,-9999px);
+    filter: drop-shadow(0 10px 16px rgba(0,0,0,0.35));
+    transition: opacity .3s ease;
+  }
+  .mascot.idle-bob{ animation: mascot-bob 2.6s ease-in-out infinite; }
+  @keyframes mascot-bob{ 0%,100%{ margin-top:0; } 50%{ margin-top:-7px; } }
+  #mascotPaws{ opacity:0; }
+  #mascotPaws .paw{ transform: translateY(16px); }
+  .mascot.cover #mascotPaws{ opacity:1; transition: opacity .12s ease; }
+  .mascot.cover #mascotPaws .paw{ transform: translateY(0); transition: transform .35s cubic-bezier(.3,1.7,.35,1); }
+  @media (max-width: 720px){ .mascot{ display:none; } }
+
+  @media (max-width: 860px){
+    .grid{ grid-template-columns: repeat(2,1fr); }
+    .lib-grid{ grid-template-columns: 1fr; }
+    nav.main{ display:none; }
+    .hero{ grid-template-columns: 1fr; padding-top:48px; }
+    .hero h1{ font-size:36px; }
+    .hero-visual, .hero-scene{ display:none; }
+  }
+  @media (max-width: 560px){
+    .grid{ grid-template-columns: 1fr; }
+  }
+
+  a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, .card:focus-visible, .chip:focus-visible{
+    outline: 2px solid var(--mikan-lt); outline-offset: 3px; border-radius: 6px;
+  }
+
+  main{ opacity:1; transition: opacity .22s ease; }
+  main.view-leaving{ opacity:0; }
+
+  .stars{ display:inline-flex; gap:1px; color: var(--mikan-lt); }
+  .stars svg{ width:12px; height:12px; }
+
+  .cart-empty-icon{
+    width:52px; height:52px; margin: 0 auto 4px; opacity:.8;
+    animation: float-soft 3.2s ease-in-out infinite;
+  }
+  @keyframes float-soft{ 0%,100%{ transform: translateY(0);} 50%{ transform: translateY(-6px);} }
+
+  @media (prefers-reduced-motion: reduce){
+    .card::before{ animation:none !important; }
+    .cart-empty-icon{ animation:none; }
+    main{ transition:none; }
+    .mascot{ animation:none; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap header-row">
+    <a class="brand" data-nav="shop">
+      <span class="brand-mark">
+        <svg viewBox="0 0 48 48" fill="none">
+          <ellipse cx="24" cy="26" rx="14" ry="11" fill="#d88032"/>
+          <circle cx="16" cy="20" r="4.5" fill="#d88032"/>
+          <circle cx="32" cy="20" r="4.5" fill="#d88032"/>
+          <circle cx="18" cy="24" r="1.5" fill="#100b07"/>
+          <circle cx="30" cy="24" r="1.5" fill="#100b07"/>
+          <path d="M22 28 Q24 31 26 28" stroke="#100b07" stroke-width="1.5" stroke-linecap="round"/>
+          <path d="M12 12 Q24 6 36 12" fill="none" stroke="#689f38" stroke-width="2.5" stroke-linecap="round"/>
+        </svg>
+      </span>
+      <span class="brand-name">CAPY <b>SCRIPTS</b></span>
+    </a>
+    <nav class="main">
+      <a data-nav="shop" class="active">Shop</a>
+      <a data-nav="library">My Library <span id="navLibCount"></span></a>
+    </nav>
+    <div class="header-actions">
+      <button class="icon-btn" id="cartBtn" title="Cart">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="21" r="1.5"/><circle cx="19" cy="21" r="1.5"/><path d="M2 3h3l2.6 12.4a2 2 0 0 0 2 1.6h9.4a2 2 0 0 0 2-1.6L23 7H6"/></svg>
+        <span class="badge hidden" id="cartBadge">0</span>
+      </button>
+      <button class="btn btn-primary" id="loginBtn">Sign In</button>
+      <div class="user-chip hidden" id="userChip">
+        <span id="userName"></span>
+        <button id="logoutBtn" title="Sign out">✕</button>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main id="shopView">
+  <div class="wrap">
+    <section class="hero">
+      <svg class="hero-scene" viewBox="0 0 640 520" fill="none">
+        <defs>
+          <radialGradient id="heroGlow" cx="50%" cy="35%" r="60%">
+            <stop offset="0%" stop-color="#d88032" stop-opacity="0.4"/>
+            <stop offset="100%" stop-color="#d88032" stop-opacity="0"/>
+          </radialGradient>
+        </defs>
+        <circle cx="470" cy="140" r="230" fill="url(#heroGlow)"/>
+        <g stroke="rgba(216,128,50,0.18)" stroke-width="1.5" fill="none">
+          <path id="ripple1" d="M120 380 Q 320 340 560 390"/>
+          <path id="ripple2" d="M100 430 Q 320 400 580 440"/>
+          <path id="ripple3" d="M140 330 Q 320 300 540 335"/>
+        </g>
+      </svg>
+
+      <div class="hero-content">
+        <div class="hero-eyebrow"><span class="dot"></span>A new capybara drops every Friday</div>
+        <h1>Chill like a capybara.<br>Powered by <i>scripts.</i></h1>
+        <p>Hubs, farms, aims and scripts — warm, cozy and always fresh. No stress, no mercy on your opponents.</p>
+        <div class="hero-cta-row">
+          <button class="btn btn-primary btn-lg" id="heroShopBtn">Browse the shop</button>
+          <button class="btn btn-outline btn-lg" data-nav="library">My library</button>
+        </div>
+        <div class="hero-stats">
+          <div class="hero-stat"><b id="statCount">0</b><span>Scripts</span></div>
+          <div class="hero-stat"><b id="statSold">0</b><span>Copies sold</span></div>
+          <div class="hero-stat"><b id="statRating">4.8</b><span>Avg. rating</span></div>
+        </div>
+      </div>
+
+      <div class="hero-visual" id="heroVisual"></div>
+    </section>
+
+    <section class="toolbar">
+      <div class="search-wrap">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+        <input type="text" id="searchInput" placeholder="Search scripts...">
+      </div>
+      <div class="filter-row">
+        <div class="chips" id="categoryChips"></div>
+        <select class="sort" id="sortSelect">
+          <option value="featured">Featured</option>
+          <option value="cheap">Price: Low to high</option>
+          <option value="expensive">Price: High to low</option>
+          <option value="rating">Top rated</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="grid" id="productGrid"></section>
+    <div class="empty-state hidden" id="emptyState">
+      <div class="em">🔎</div>
+      <h3>Nothing matches that search</h3>
+      <p>Try a different keyword or category.</p>
+    </div>
+  </div>
+</main>
+
+<main id="libraryView" class="hidden">
+  <div class="wrap">
+    <div class="section-head">
+      <h2>My Library</h2>
+      <p>Everything you've bought, ready to download any time.</p>
+    </div>
+    <div class="lib-grid" id="libraryGrid"></div>
+    <div class="empty-state" id="libEmpty">
+      <div class="em">🌀</div>
+      <h3>Your library is empty</h3>
+      <p>Scripts you buy will show up here with their license keys.</p>
+      <div style="margin-top:14px;"><button class="btn btn-primary" data-nav="shop">Browse the shop</button></div>
+    </div>
+  </div>
+</main>
+
+<footer><div class="wrap"><p>Capy Scripts — Chill Roblox Script Hub. No real payments are processed.</p></div></footer>
+
+<!-- product detail modal -->
+<div class="backdrop" id="detailBackdrop"></div>
+<div class="modal" id="detailModal">
+  <button class="modal-close" id="detailClose">✕</button>
+  <div class="detail-cover" id="detailCover"></div>
+  <div class="detail-body">
+    <div class="detail-cat" id="detailCat"></div>
+    <h2 class="detail-name" id="detailName"></h2>
+    <div class="detail-meta">
+      <span id="detailRating"></span>
+      <span id="detailGame"></span>
+      <span id="detailSales"></span>
+      <span id="detailUpdates"></span>
+    </div>
+    <p class="detail-desc" id="detailDesc"></p>
+    <h4 style="font-size:12.5px;color:var(--text-lo);margin:0 0 10px;">WHAT'S INCLUDED</h4>
+    <ul class="detail-features" id="detailFeatures"></ul>
+    <div class="detail-foot">
+      <div class="detail-price" id="detailPrice"></div>
+      <button class="btn btn-primary btn-lg" id="detailAdd">Add to cart</button>
+      <button class="btn btn-outline btn-lg hidden" id="detailOwned">✓ In library</button>
+    </div>
+  </div>
+</div>
+
+<!-- cart drawer -->
+<div class="drawer-backdrop" id="cartBackdrop"></div>
+<aside class="drawer" id="cartDrawer">
+  <div class="drawer-head"><h3>Your cart</h3><button class="modal-close" id="cartClose" style="position:static;">✕</button></div>
+  <div class="drawer-items" id="cartItems"></div>
+  <div class="drawer-empty hidden" id="cartEmpty">
+    <svg class="cart-empty-icon" viewBox="0 0 24 24" fill="none" stroke="#ff4d4d" stroke-width="1.6"><circle cx="9" cy="21" r="1.5"/><circle cx="19" cy="21" r="1.5"/><path d="M2 3h3l2.6 12.4a2 2 0 0 0 2 1.6h9.4a2 2 0 0 0 2-1.6L23 7H6"/></svg>
+    <p>Your cart is empty.</p>
+    <button class="btn btn-outline" id="cartBrowse">Browse the shop</button>
+  </div>
+  <div class="drawer-foot" id="cartFoot">
+    <div class="cart-total"><span>Total</span><span id="cartTotal">RB$0.00</span></div>
+    <button class="btn btn-primary btn-block btn-lg" id="checkoutBtn">Checkout</button>
+  </div>
+</aside>
+
+<!-- checkout modal -->
+<div class="backdrop" id="checkoutBackdrop"></div>
+<div class="modal" id="checkoutModal">
+  <button class="modal-close" id="checkoutClose">✕</button>
+  <div class="checkout-body">
+    <h2 class="checkout-title">Checkout</h2>
+    <p class="checkout-sub">Review your order — demo checkout, no real payment.</p>
+    <div id="checkoutLines"></div>
+    <div class="checkout-total"><span>Total</span><span id="checkoutTotal">RB$0.00</span></div>
+    <div class="pay-methods">
+      <button class="pay-method active" data-pay="btc"><span style="font-size:15px;">₿</span> Crypto (-5%)</button>
+      <button class="pay-method" data-pay="rb"><span style="font-size:15px;">⚡</span> RB$ Wallet</button>
+    </div>
+    <div class="auth-error hidden" id="ckError"></div>
+    <button class="btn btn-primary btn-block btn-lg" id="payBtn" style="margin-top:20px;">Complete Purchase <span id="payAmount"></span></button>
+    <p class="secure-note">Demo storefront. No card data is collected — nothing here is a real payment.</p>
+  </div>
+</div>
+
+<!-- success modal -->
+<div class="backdrop" id="successBackdrop"></div>
+<div class="modal" id="successModal">
+  <div class="success-body">
+    <div class="success-check"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M5 13l4 4L19 7"/></svg></div>
+    <h2 class="success-title">The capybara is yours</h2>
+    <p class="success-sub">License keys generated. Download or copy them below.</p>
+    <div class="success-list" id="successList"></div>
+    <div style="display:flex; gap:10px;">
+      <button class="btn btn-outline btn-block" id="successLibrary">Go to library</button>
+      <button class="btn btn-primary btn-block" id="successClose">Done</button>
+    </div>
+  </div>
+</div>
+
+<!-- auth modal -->
+<div class="backdrop" id="authBackdrop"></div>
+<div class="modal" id="authModal">
+  <button class="modal-close" id="authClose">✕</button>
+  <div class="auth-body">
+    <h2 class="auth-title" id="authTitle">Sign <i>in</i></h2>
+    <p class="auth-sub" id="authSub">Welcome back — your library is waiting.</p>
+    <div class="auth-tabs">
+      <button class="auth-tab active" id="tabLogin">Sign in</button>
+      <button class="auth-tab" id="tabSignup">Create account</button>
+    </div>
+    <div class="auth-error hidden" id="authError"></div>
+    <div class="auth-field">
+      <label>Username</label>
+      <input class="form-input" id="authUsername" placeholder="your_username" autocomplete="username">
+    </div>
+    <div class="auth-field">
+      <label>Password</label>
+      <input class="form-input" id="authPassword" placeholder="••••••••" type="password" autocomplete="current-password">
+    </div>
+    <div class="auth-field hidden" id="fldConfirm">
+      <label>Confirm password</label>
+      <input class="form-input" id="authConfirm" placeholder="••••••••" type="password" autocomplete="new-password">
+    </div>
+    <div class="terms-row hidden" id="termsWrap">
+      <input type="checkbox" id="authTerms">
+      <label for="authTerms">I agree to the <span style="color:var(--mikan)">Terms &amp; Privacy</span></label>
+    </div>
+    <button class="btn btn-primary btn-block btn-lg" id="authSubmit">Sign in</button>
+    <div class="auth-foot" id="authFoot">Don't have an account? <a id="authSwitch">Create one</a></div>
+  </div>
+</div>
+
+<div class="announce-banner hidden" id="announceBanner"><span>📢</span><span class="announce-text" id="announceText"></span></div>
+
+<div class="mascot" id="mascot" aria-hidden="true">
+  <svg viewBox="0 0 120 120" width="420" height="420">
+    <defs>
+      <radialGradient id="mascotGlow" cx="50%" cy="42%" r="62%">
+        <stop offset="0%" stop-color="#ff4d4d" stop-opacity="0.5"/>
+        <stop offset="100%" stop-color="#ff4d4d" stop-opacity="0"/>
+      </radialGradient>
+      <linearGradient id="mascotBody" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#9a6630"/>
+        <stop offset="100%" stop-color="#6b3f16"/>
+      </linearGradient>
+    </defs>
+    <circle cx="60" cy="58" r="48" fill="url(#mascotGlow)"/>
+    <path d="M60 18 C 40 18 30 34 30 58 C 30 82 42 100 60 100 C 78 100 90 82 90 58 C 90 34 80 18 60 18 Z" fill="url(#mascotBody)"/>
+    <ellipse cx="60" cy="88" rx="24" ry="12" fill="#e8c48f" opacity="0.9"/>
+    <circle cx="41" cy="24" r="8.5" fill="#5e3714"/>
+    <circle cx="79" cy="24" r="8.5" fill="#5e3714"/>
+    <circle cx="41" cy="25" r="4.5" fill="#44260e"/>
+    <circle cx="79" cy="25" r="4.5" fill="#44260e"/>
+    <path d="M60 14 q-3.5 -7 -10 -6.5 q6.5 0 10 -5.5 q3.5 5.5 10 5.5 q-6.5 -0.5 -10 6.5 Z" fill="#3f9d3f"/>
+    <ellipse cx="60" cy="50" rx="17" ry="13" fill="#f3d9a8"/>
+    <circle cx="53" cy="46" r="2.2" fill="#3a2413"/>
+    <circle cx="67" cy="46" r="2.2" fill="#3a2413"/>
+    <path d="M56 60 Q60 66 64 60" stroke="#4a2f16" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+    <g stroke="#5e3714" stroke-width="1" opacity="0.55" stroke-linecap="round">
+      <path d="M37 45 q-7 -1 -9 -3"/>
+      <path d="M37 51 q-7 1 -9 0"/>
+      <path d="M83 45 q7 -1 9 -3"/>
+      <path d="M83 51 q7 1 9 0"/>
+    </g>
+    <ellipse cx="45" cy="40" rx="5.5" ry="3" fill="#ff8a7a" opacity="0.45"/>
+    <ellipse cx="75" cy="40" rx="5.5" ry="3" fill="#ff8a7a" opacity="0.45"/>
+    <path d="M36 24 q-4 4 -6 9 q-1 -5 -4 -8 q3 -1 5 -5" fill="#c1202e"/>
+    <ellipse cx="36" cy="38" rx="6" ry="3" fill="#c1202e" transform="rotate(-25 36 38)"/>
+    <g id="mascotEyes">
+      <g id="eyeL"><circle cx="45" cy="33" r="4.5" fill="#1c0d06" stroke="#000" stroke-width="0.4"/><circle cx="46.3" cy="31.6" r="1.5" fill="#fff" opacity="0.85"/></g>
+      <g id="eyeR"><circle cx="75" cy="33" r="4.5" fill="#1c0d06" stroke="#000" stroke-width="0.4"/><circle cx="76.3" cy="31.6" r="1.5" fill="#fff" opacity="0.85"/></g>
+    </g>
+    <g id="mascotPaws">
+      <g class="paw pawL">
+        <ellipse cx="45" cy="32.5" rx="8.5" ry="9" transform="rotate(-8 45 32.5)" fill="#6b3f16" stroke="#4a2c10" stroke-width="0.8"/>
+        <path d="M44 31 q1 -2 4 -2 M44 36 q1 -2 4 -2" stroke="#4a2c10" stroke-width="0.7" fill="none" stroke-linecap="round"/>
+      </g>
+      <g class="paw pawR">
+        <ellipse cx="75" cy="32.5" rx="8.5" ry="9" transform="rotate(8 75 32.5)" fill="#6b3f16" stroke="#4a2c10" stroke-width="0.8"/>
+        <path d="M72 31 q1 -2 4 -2 M72 36 q1 -2 4 -2" stroke="#4a2c10" stroke-width="0.7" fill="none" stroke-linecap="round"/>
+      </g>
+    </g>
+    <path d="M46 74 q14 6 28 0" stroke="#4a2f16" stroke-width="1.6" fill="none" stroke-linecap="round" opacity="0.6"/>
+    <ellipse cx="46" cy="97" rx="7.5" ry="4" fill="#4a2c10"/>
+    <ellipse cx="74" cy="97" rx="7.5" ry="4" fill="#4a2c10"/>
+    <path d="M36 70 q-6 2 -8 8" stroke="#5e3714" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+    <path d="M84 70 q6 2 8 8" stroke="#5e3714" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+  </svg>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<!-- maintenance overlay -->
+<div id="maintOverlay">
+  <div>
+    <h1>试 MAINTENANCE</h1>
+    <p>The domain is undergoing maintenance. Check back soon.</p>
+  </div>
+</div>
+
+<!-- dev console (F5 then F10) -->
+<div id="devConsole">
+  <div class="console-head">
+    <span><b>CAPY DEV LOGS</b> — F5 then F10</span>
+    <div class="ch-actions">
+      <button id="devClear">clear</button>
+      <button id="devClose">close</button>
+    </div>
+  </div>
+  <div id="devLog"></div>
+</div>
+
+<!-- admin console (F1 then F2) -->
+<div id="adminConsole">
+  <div class="console-head">
+    <span><b>CAPY ADMIN CONSOLE</b> — F1 then F2</span>
+    <div class="ch-actions">
+      <button id="adminClearOut">clear output</button>
+      <button id="adminClose">close</button>
+    </div>
+  </div>
+  <div id="adminOut"></div>
+  <input id="adminInput" placeholder="type a command, Enter to run — help">
+  <div id="adminList"></div>
+</div>
+
+<script src="js/data.js?v=20260923-101"></script>
+<script src="js/app.js?v=20260923-101"></script>
+</body>
+</html>
